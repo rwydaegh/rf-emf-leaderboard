@@ -1,0 +1,31 @@
+rank,id,name,papers
+1,I1299022934,United States Department of Health and Human Services,105
+2,I1320320070,United States Food and Drug Administration,97
+3,I1335686170,Center for Devices and Radiological Health,86
+4,I48633490,Mass General Brigham,56
+4,I136199984,Harvard University,56
+6,I4210087915,Massachusetts General Hospital,55
+7,I63966007,Massachusetts Institute of Technology,47
+8,I1305996414,Helmholtz Association of German Research Centres,46
+8,I4210127055,Athinoula A. Martinos Center for Biomedical Imaging,46
+10,I44461941,University of Houston,45
+11,I1174212,University of Southern California,44
+12,I4575257,Hanyang University,41
+13,I2799323385,Board of the Swiss Federal Institutes of Technology,39
+14,I130238516,University of Minnesota,34
+15,I35440088,ETH Zurich,33
+16,I124357947,University of London,31
+16,I1294671590,Centre National de la Recherche Scientifique,31
+18,I3018483916,University Medical Center Utrecht,29
+19,I49663120,Université du Québec,27
+19,I62318514,University of Duisburg-Essen,27
+19,I17937529,German Cancer Research Center,27
+22,I57206974,New York University,25
+23,I127668822,Erwin L. Hahn Institute for Magnetic Resonance Imaging,24
+24,I39481719,Institut National de la Recherche Scientifique,21
+24,I27897274,Istituto Superiore di Sanità,21
+26,I149899117,Max Planck Society,20
+26,I111979921,Northwestern University,20
+28,I190082696,Durham University,19
+28,I4210104593,Governo Italiano,19
+30,I183935753,King's College London,18

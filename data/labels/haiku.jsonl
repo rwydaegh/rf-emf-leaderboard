@@ -1,0 +1,2000 @@
+{"id": "W1915590817", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W653531395", "rel": true, "st": "tech", "fb": [], "tags": ["numerical"]}
+{"id": "W1135535083", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W7208503766", "rel": true, "st": "tech", "fb": ["static"], "tags": ["numerical"]}
+{"id": "W4402497386", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2151695319", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W4226442614", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W4396830597", "rel": false, "st": "oth", "fb": ["if"], "tags": []}
+{"id": "W2990351673", "rel": true, "st": "epi", "fb": ["rf"], "tags": ["occupational"]}
+{"id": "W385876683", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W3040618877", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2910549855", "rel": true, "st": "exp", "fb": ["static", "elf"], "tags": []}
+{"id": "W1973941795", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["elf_source", "compliance"]}
+{"id": "W3203537378", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2128408761", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2066161583", "rel": true, "st": "tech", "fb": ["if", "rf"], "tags": []}
+{"id": "W2352602328", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7216479925", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone", "nonhuman"]}
+{"id": "W2326011795", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2097730437", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2160487560", "rel": false, "st": "exp", "fb": [], "tags": []}
+{"id": "W141453672", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2390707903", "rel": true, "st": "rev", "fb": ["static", "elf"], "tags": []}
+{"id": "W1987215741", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["children", "phone", "basestation"]}
+{"id": "W155529895", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2411746782", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W2507657855", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["phone", "sar"]}
+{"id": "W3113307617", "rel": true, "st": "tech", "fb": [], "tags": []}
+{"id": "W2414171820", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W135691802", "rel": true, "st": "tech", "fb": [], "tags": ["sar"]}
+{"id": "W2357191654", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W7217271975", "rel": true, "st": "oth", "fb": [], "tags": ["compliance"]}
+{"id": "W2298091891", "rel": true, "st": "epi", "fb": ["elf"], "tags": ["occupational", "elf_source"]}
+{"id": "W7124532224", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2766570186", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "compliance"]}
+{"id": "W2360231444", "rel": true, "st": "rev", "fb": ["static"], "tags": []}
+{"id": "W1986610087", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2914977754", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2907760113", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2471924611", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["implant", "phone"]}
+{"id": "W2245218858", "rel": true, "st": "tech", "fb": ["elf"], "tags": []}
+{"id": "W2164973599", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["numerical"]}
+{"id": "W4362657501", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7223337402", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "phone"]}
+{"id": "W3105246039", "rel": false, "st": "oth", "fb": ["rf"], "tags": []}
+{"id": "W2093402017", "rel": true, "st": "rev", "fb": ["static"], "tags": []}
+{"id": "W1991547440", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W317738618", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W252838039", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "phone", "sar"]}
+{"id": "W2046229307", "rel": false, "st": "oth", "fb": ["mmw"], "tags": []}
+{"id": "W43757285", "rel": true, "st": "exp", "fb": ["mmw"], "tags": ["nonhuman"]}
+{"id": "W1616556300", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2169888285", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W3193473266", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2913285930", "rel": false, "st": "rev", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W1869484319", "rel": true, "st": "rev", "fb": ["static", "elf", "if"], "tags": []}
+{"id": "W4297154419", "rel": true, "st": "tech", "fb": [], "tags": ["numerical"]}
+{"id": "W771871138", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar", "phone"]}
+{"id": "W2271356347", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["basestation", "model"]}
+{"id": "W4312666262", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W2009763281", "rel": true, "st": "tech", "fb": [], "tags": ["nonhuman", "numerical"]}
+{"id": "W811087076", "rel": true, "st": "tech", "fb": ["if", "rf"], "tags": ["occupational", "measure"]}
+{"id": "W2890310798", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["numerical", "elf_source"]}
+{"id": "W4234866093", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W326804988", "rel": true, "st": "tech", "fb": ["static", "elf"], "tags": ["numerical"]}
+{"id": "W2990208341", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2570123432", "rel": true, "st": "exp", "fb": ["mmw"], "tags": []}
+{"id": "W2291951195", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2305591895", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "basestation"]}
+{"id": "W2781048431", "rel": true, "st": "rev", "fb": ["elf"], "tags": ["occupational"]}
+{"id": "W3019601618", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2398661075", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W3115225298", "rel": true, "st": "tech", "fb": ["if"], "tags": ["numerical", "model"]}
+{"id": "W4210505946", "rel": true, "st": "oth", "fb": [], "tags": ["occupational"]}
+{"id": "W2728292941", "rel": false, "st": "oth", "fb": ["rf"], "tags": ["wifi"]}
+{"id": "W1990774365", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4401376577", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2021427931", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["implant", "sar", "numerical"]}
+{"id": "W2111924313", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W4407987519", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["implant", "sar", "numerical"]}
+{"id": "W61591180", "rel": true, "st": "tech", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2087708832", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "elf_source"]}
+{"id": "W4405582845", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4406056287", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2031079116", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2063368188", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2905719683", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2412346403", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2954595170", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W17393449", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W601318673", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3025728360", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["implant", "5g", "compliance"]}
+{"id": "W2274090219", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2436537975", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W168220506", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W1500540468", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "numerical"]}
+{"id": "W2940974242", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3031703536", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2023129311", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2237365623", "rel": true, "st": "rev", "fb": ["elf", "rf"], "tags": ["basestation", "phone", "wifi", "elf_source"]}
+{"id": "W2021375626", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W3083284926", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4320013761", "rel": true, "st": "rev", "fb": ["elf"], "tags": ["elf_source"]}
+{"id": "W104953757", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone", "compliance"]}
+{"id": "W2613102191", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2418495269", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["basestation", "phone"]}
+{"id": "W2386907388", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W4391248714", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "numerical", "phone"]}
+{"id": "W644799051", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W2043745985", "rel": true, "st": "tech", "fb": ["if"], "tags": ["wpt", "numerical", "compliance"]}
+{"id": "W561403635", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "numerical", "nonhuman"]}
+{"id": "W4233764478", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["implant", "phone"]}
+{"id": "W7113585350", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2162671601", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3084640111", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2066343901", "rel": true, "st": "oth", "fb": ["elf"], "tags": ["phone", "measure", "elf_source"]}
+{"id": "W2411406413", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W3032072511", "rel": true, "st": "exp", "fb": ["mmw"], "tags": ["nonhuman"]}
+{"id": "W2320474922", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4388451314", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4210507939", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone", "nonhuman"]}
+{"id": "W2541589072", "rel": true, "st": "tech", "fb": ["static"], "tags": ["numerical"]}
+{"id": "W4241023020", "rel": true, "st": "tech", "fb": ["if"], "tags": ["sar"]}
+{"id": "W633530656", "rel": true, "st": "tech", "fb": [], "tags": ["numerical"]}
+{"id": "W2761276294", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W841715770", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2560946750", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2400982089", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W1992259748", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2489265019", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W377183978", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["phone", "sar", "numerical"]}
+{"id": "W2316023309", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4200511698", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "numerical"]}
+{"id": "W2379726286", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["elf_source", "numerical"]}
+{"id": "W7125247295", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2382267444", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "nonhuman"]}
+{"id": "W2122274855", "rel": true, "st": "tech", "fb": [], "tags": ["numerical"]}
+{"id": "W2050185489", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3162190013", "rel": true, "st": "tech", "fb": ["mmw"], "tags": ["5g", "numerical", "sar", "measure"]}
+{"id": "W3028704911", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W3205855742", "rel": true, "st": "oth", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2885536200", "rel": true, "st": "tech", "fb": ["rf", "mmw"], "tags": ["numerical", "sar"]}
+{"id": "W4402451382", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4389948613", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W2000430560", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman", "sar"]}
+{"id": "W2277597014", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7128728320", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4392774749", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W7139981852", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2793788710", "rel": true, "st": "rev", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2081392264", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W7172407322", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2362727065", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W7134287397", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3154394698", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "5g", "basestation", "compliance"]}
+{"id": "W2353609003", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W3174084331", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "numerical", "occupational"]}
+{"id": "W3093905810", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone", "nonhuman"]}
+{"id": "W2255465274", "rel": true, "st": "rev", "fb": ["mmw"], "tags": []}
+{"id": "W2028695940", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2889393699", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "elf_source"]}
+{"id": "W2160795860", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2266939682", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W4200573207", "rel": true, "st": "rev", "fb": ["rf", "mmw"], "tags": ["5g", "phone", "basestation"]}
+{"id": "W7135223319", "rel": false, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W4308011252", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W1248440799", "rel": false, "st": "epi", "fb": [], "tags": []}
+{"id": "W2415007810", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2529765930", "rel": false, "st": "tech", "fb": [], "tags": []}
+{"id": "W3027938566", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["implant", "basestation", "phone"]}
+{"id": "W2748573247", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2012929709", "rel": false, "st": "exp", "fb": [], "tags": []}
+{"id": "W3178726792", "rel": true, "st": "tech", "fb": ["static", "elf"], "tags": []}
+{"id": "W2051328025", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2417421483", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2386953107", "rel": true, "st": "oth", "fb": [], "tags": ["elf_source"]}
+{"id": "W754981363", "rel": true, "st": "epi", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W4288068240", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2462566967", "rel": true, "st": "oth", "fb": [], "tags": ["occupational"]}
+{"id": "W2069196476", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W7197195269", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["basestation", "compliance", "measure"]}
+{"id": "W2184289701", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar"]}
+{"id": "W2798293199", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2411700979", "rel": true, "st": "epi", "fb": ["elf"], "tags": []}
+{"id": "W7135224567", "rel": true, "st": "rev", "fb": ["if"], "tags": ["wpt", "compliance"]}
+{"id": "W2322638212", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman", "elf_source"]}
+{"id": "W109486493", "rel": true, "st": "oth", "fb": [], "tags": ["occupational"]}
+{"id": "W2210297016", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["compliance"]}
+{"id": "W1974584978", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2467228330", "rel": true, "st": "tech", "fb": ["elf"], "tags": []}
+{"id": "W2968613769", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2031708611", "rel": false, "st": "exp", "fb": [], "tags": []}
+{"id": "W2088148415", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W2012084590", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "elf_source"]}
+{"id": "W25285044", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "sar"]}
+{"id": "W2031467358", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2087622269", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W763711364", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W46200462", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["occupational", "compliance", "measure"]}
+{"id": "W3004359421", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["numerical", "elf_source", "compliance"]}
+{"id": "W4398786398", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4382364155", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman", "wifi"]}
+{"id": "W4380049741", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3216903473", "rel": true, "st": "oth", "fb": ["mmw"], "tags": []}
+{"id": "W2392392605", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W4404169254", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W19550509", "rel": true, "st": "epi", "fb": [], "tags": []}
+{"id": "W4404542055", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2032454408", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1982844995", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4312791089", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3029875580", "rel": true, "st": "rev", "fb": ["rf"], "tags": []}
+{"id": "W4402099438", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["measure", "basestation"]}
+{"id": "W2888112253", "rel": true, "st": "exp", "fb": ["mmw"], "tags": []}
+{"id": "W2444084059", "rel": true, "st": "oth", "fb": ["elf", "rf"], "tags": ["elf_source", "basestation"]}
+{"id": "W2017802244", "rel": true, "st": "oth", "fb": ["elf"], "tags": ["elf_source", "children"]}
+{"id": "W2159201978", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "compliance"]}
+{"id": "W3032534804", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["implant", "numerical", "sar", "model"]}
+{"id": "W2992578521", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["elf_source", "numerical"]}
+{"id": "W2900828543", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2047794214", "rel": true, "st": "epi", "fb": [], "tags": ["occupational"]}
+{"id": "W3196741144", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W7165039503", "rel": true, "st": "rev", "fb": ["static", "elf", "if", "rf"], "tags": []}
+{"id": "W2319535458", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1978523385", "rel": true, "st": "epi", "fb": ["rf"], "tags": ["basestation", "measure"]}
+{"id": "W2478999230", "rel": false, "st": "tech", "fb": ["rf"], "tags": []}
+{"id": "W7126022534", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2626477842", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman", "elf_source"]}
+{"id": "W2619179139", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2964418710", "rel": true, "st": "exp", "fb": ["rf", "mmw", "static"], "tags": []}
+{"id": "W2486500927", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2498191479", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["children"]}
+{"id": "W780856091", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2001099146", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "numerical"]}
+{"id": "W2126512602", "rel": true, "st": "epi", "fb": [], "tags": ["occupational"]}
+{"id": "W75016608", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2588169167", "rel": true, "st": "tech", "fb": ["rf"], "tags": []}
+{"id": "W252111469", "rel": true, "st": "tech", "fb": [], "tags": ["sar"]}
+{"id": "W2075783628", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2055375847", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W304602514", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W3032057997", "rel": true, "st": "tech", "fb": ["if"], "tags": ["sar"]}
+{"id": "W2416784228", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2017019447", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W173069157", "rel": true, "st": "rev", "fb": ["elf"], "tags": []}
+{"id": "W2562719594", "rel": true, "st": "tech", "fb": ["if"], "tags": ["numerical", "children"]}
+{"id": "W812350235", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2750758153", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2254294001", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W852122074", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2002981115", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "wifi"]}
+{"id": "W4255082056", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2316222931", "rel": true, "st": "epi", "fb": ["rf"], "tags": ["basestation"]}
+{"id": "W605801933", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2120648417", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W7224103729", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2753179049", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2897379139", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W2088228167", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2002688943", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W2912062515", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2125211932", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W2045034673", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "basestation", "model"]}
+{"id": "W2036047378", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2136747932", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2025537359", "rel": true, "st": "epi", "fb": ["elf"], "tags": []}
+{"id": "W2320645385", "rel": true, "st": "oth", "fb": ["elf"], "tags": ["children"]}
+{"id": "W2790287096", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2020609401", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W2084507203", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2085066530", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W4391137481", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2060430454", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "implant"]}
+{"id": "W2937201284", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3095694427", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2945603393", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W4409839472", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1525001012", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4390989106", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2438639834", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2918422051", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3088147810", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W4412454610", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3109478942", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W31373695", "rel": true, "st": "oth", "fb": ["elf"], "tags": ["elf_source"]}
+{"id": "W2965108794", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2162410475", "rel": true, "st": "rev", "fb": ["elf"], "tags": ["elf_source"]}
+{"id": "W2983962395", "rel": true, "st": "tech", "fb": ["elf", "if"], "tags": ["numerical", "sar", "implant"]}
+{"id": "W1989078903", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1511341700", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2085466198", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W4309656705", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2390416396", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["numerical", "elf_source", "occupational", "compliance"]}
+{"id": "W4311376898", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["wifi", "nonhuman"]}
+{"id": "W128647237", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4206604406", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone", "wifi", "sar"]}
+{"id": "W2353788620", "rel": true, "st": "rev", "fb": [], "tags": ["nonhuman"]}
+{"id": "W3033560402", "rel": true, "st": "rev", "fb": ["if", "rf"], "tags": ["implant", "wpt", "sar"]}
+{"id": "W4412871329", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2052674892", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2290880778", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2361906352", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W1610156849", "rel": true, "st": "tech", "fb": ["if"], "tags": ["measure", "basestation", "occupational"]}
+{"id": "W4212772075", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2122868698", "rel": true, "st": "tech", "fb": ["if", "rf"], "tags": ["measure", "occupational"]}
+{"id": "W2417761298", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2419406021", "rel": true, "st": "epi", "fb": [], "tags": []}
+{"id": "W2582814945", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone", "nonhuman"]}
+{"id": "W2099951637", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W2734951042", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W4403301353", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2896345220", "rel": true, "st": "tech", "fb": [], "tags": ["numerical", "sar"]}
+{"id": "W2383729924", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W3007546583", "rel": true, "st": "tech", "fb": [], "tags": []}
+{"id": "W2582584759", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2088644285", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["compliance"]}
+{"id": "W2905677983", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W2099588691", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2418622282", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4297094571", "rel": true, "st": "tech", "fb": ["mmw"], "tags": ["measure", "5g", "basestation", "compliance"]}
+{"id": "W2418158097", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W7128960469", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1994573000", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3011556053", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W3048338019", "rel": true, "st": "epi", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W1970268014", "rel": true, "st": "rev", "fb": ["elf"], "tags": []}
+{"id": "W2470699399", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2072491348", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W4321459145", "rel": true, "st": "oth", "fb": ["rf"], "tags": []}
+{"id": "W4409924227", "rel": true, "st": "exp", "fb": ["mmw"], "tags": []}
+{"id": "W4402220152", "rel": true, "st": "rev", "fb": ["mmw"], "tags": []}
+{"id": "W224093266", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2046861103", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2898009764", "rel": true, "st": "epi", "fb": [], "tags": ["occupational"]}
+{"id": "W4376641103", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W3158419887", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar"]}
+{"id": "W4307396158", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2352389586", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W9256627", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W4412014731", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W603088808", "rel": true, "st": "rev", "fb": ["elf"], "tags": []}
+{"id": "W2006777657", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2414409216", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1982383786", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W2463609988", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2354257486", "rel": true, "st": "rev", "fb": ["rf"], "tags": []}
+{"id": "W2095105478", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2597576502", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2084375435", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "elf_source"]}
+{"id": "W2516496097", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2060261671", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W2404891355", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W4292171419", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4250927220", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["exposimetry"]}
+{"id": "W2918135325", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W567840442", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W3153599827", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W21320546", "rel": true, "st": "tech", "fb": ["rf"], "tags": []}
+{"id": "W2811085905", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W4250614801", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2907222213", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "numerical", "phone"]}
+{"id": "W2978949588", "rel": true, "st": "exp", "fb": ["if"], "tags": []}
+{"id": "W2054375487", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2024515852", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1992584198", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman", "phone"]}
+{"id": "W4405429422", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["implant"]}
+{"id": "W7212251487", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2091883148", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2970641361", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W4400477008", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2598527478", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman", "phone"]}
+{"id": "W2253994296", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W4210849640", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2081270936", "rel": true, "st": "epi", "fb": ["elf"], "tags": ["children", "elf_source"]}
+{"id": "W2082035027", "rel": true, "st": "epi", "fb": ["elf"], "tags": ["nonhuman", "elf_source"]}
+{"id": "W7163979595", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W3121337645", "rel": true, "st": "rev", "fb": [], "tags": ["occupational"]}
+{"id": "W7124441460", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2350309713", "rel": true, "st": "epi", "fb": [], "tags": []}
+{"id": "W2733388104", "rel": true, "st": "rev", "fb": ["rf"], "tags": []}
+{"id": "W1989382051", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W94980030", "rel": true, "st": "rev", "fb": [], "tags": ["nonhuman"]}
+{"id": "W1974435593", "rel": true, "st": "rev", "fb": ["rf"], "tags": []}
+{"id": "W416050284", "rel": true, "st": "oth", "fb": [], "tags": ["elf_source"]}
+{"id": "W3161486782", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W7130311409", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2044727061", "rel": true, "st": "tech", "fb": ["rf", "mmw"], "tags": ["numerical", "sar"]}
+{"id": "W2906645621", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["basestation", "compliance", "lowexp"]}
+{"id": "W2934797562", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2808273998", "rel": true, "st": "exp", "fb": ["if"], "tags": []}
+{"id": "W2970323598", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman", "phone"]}
+{"id": "W2413657423", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2468378916", "rel": true, "st": "tech", "fb": ["rf", "mmw"], "tags": ["sar"]}
+{"id": "W2905273634", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "numerical"]}
+{"id": "W2412910729", "rel": true, "st": "rev", "fb": ["mmw"], "tags": []}
+{"id": "W2982396816", "rel": true, "st": "tech", "fb": ["static", "rf"], "tags": ["occupational", "compliance", "model"]}
+{"id": "W2125631713", "rel": true, "st": "rev", "fb": ["static"], "tags": []}
+{"id": "W1973985803", "rel": true, "st": "exp", "fb": ["static", "elf"], "tags": ["nonhuman"]}
+{"id": "W2884166908", "rel": true, "st": "exp", "fb": ["if"], "tags": []}
+{"id": "W2412806301", "rel": true, "st": "epi", "fb": ["static"], "tags": []}
+{"id": "W3029032355", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W1971355078", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone", "implant"]}
+{"id": "W2434453795", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4391543271", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "sar", "implant"]}
+{"id": "W4406080430", "rel": true, "st": "exp", "fb": ["rf", "mmw"], "tags": ["nonhuman"]}
+{"id": "W4225544963", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2521748120", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2728760968", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "numerical", "phone"]}
+{"id": "W3087844292", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W2397209259", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["occupational", "nonhuman"]}
+{"id": "W2298626413", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2114636224", "rel": true, "st": "exp", "fb": ["static", "elf"], "tags": ["nonhuman"]}
+{"id": "W2590452697", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4415382894", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W2492160969", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W364176983", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2044780826", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W2063635549", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "basestation"]}
+{"id": "W4411405112", "rel": true, "st": "tech", "fb": [], "tags": ["numerical", "sar"]}
+{"id": "W2067136779", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W2132822517", "rel": true, "st": "oth", "fb": [], "tags": ["basestation", "elf_source"]}
+{"id": "W2061381598", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2973766214", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2578072888", "rel": true, "st": "tech", "fb": [], "tags": []}
+{"id": "W4292444310", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2408991754", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2386650167", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2977632282", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2911438499", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2018781408", "rel": true, "st": "tech", "fb": [], "tags": ["sar"]}
+{"id": "W2039282348", "rel": true, "st": "oth", "fb": ["rf"], "tags": []}
+{"id": "W2030758824", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W628295271", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["numerical"]}
+{"id": "W2380467944", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2506248551", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "compliance", "occupational"]}
+{"id": "W7151090164", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2121629316", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2796220175", "rel": true, "st": "oth", "fb": [], "tags": ["occupational"]}
+{"id": "W2142609312", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3129710042", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2090059777", "rel": true, "st": "tech", "fb": ["elf", "if"], "tags": []}
+{"id": "W2142312322", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W4288033360", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4414922509", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman", "numerical"]}
+{"id": "W2370874736", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W4413102658", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2059683318", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2082310507", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "occupational", "basestation", "compliance"]}
+{"id": "W2265201425", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2728941643", "rel": true, "st": "tech", "fb": ["if", "rf"], "tags": ["model", "compliance"]}
+{"id": "W2347748278", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W1965668174", "rel": true, "st": "rev", "fb": ["elf"], "tags": ["elf_source"]}
+{"id": "W7151364784", "rel": true, "st": "epi", "fb": ["static", "elf"], "tags": []}
+{"id": "W3158681745", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["nonhuman", "children"]}
+{"id": "W7133220084", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W876263048", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W437554030", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2898506003", "rel": false, "st": "exp", "fb": [], "tags": []}
+{"id": "W1788393237", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W920655129", "rel": true, "st": "exp", "fb": ["mmw"], "tags": ["nonhuman"]}
+{"id": "W4385729070", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7160895669", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["nonhuman", "numerical", "sar"]}
+{"id": "W2752712228", "rel": true, "st": "exp", "fb": ["static", "elf", "rf"], "tags": []}
+{"id": "W2018650037", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3198309076", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W4245428877", "rel": true, "st": "rev", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W3092834032", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3153221879", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W1661595593", "rel": true, "st": "tech", "fb": ["if"], "tags": ["numerical", "elf_source", "compliance"]}
+{"id": "W2061390043", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W3010733739", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W3089461391", "rel": true, "st": "rev", "fb": ["mmw"], "tags": []}
+{"id": "W7215747754", "rel": true, "st": "tech", "fb": [], "tags": ["numerical"]}
+{"id": "W3199934031", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2594749132", "rel": true, "st": "oth", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W4408080128", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4406934067", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2020946891", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["implant", "sar", "numerical"]}
+{"id": "W2014442943", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W2111300289", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2896877410", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W2038888053", "rel": true, "st": "exp", "fb": ["if"], "tags": []}
+{"id": "W138123240", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2999642139", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["implant", "numerical", "compliance"]}
+{"id": "W7210180804", "rel": true, "st": "rev", "fb": ["elf", "rf"], "tags": []}
+{"id": "W2063132021", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "phone"]}
+{"id": "W2063603018", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone", "nonhuman"]}
+{"id": "W2596564504", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure"]}
+{"id": "W3213836894", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2808757984", "rel": true, "st": "tech", "fb": ["if"], "tags": []}
+{"id": "W1995304262", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W2362291748", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1980452492", "rel": true, "st": "exp", "fb": ["mmw"], "tags": []}
+{"id": "W1998141760", "rel": true, "st": "rev", "fb": ["elf", "if", "rf"], "tags": ["numerical"]}
+{"id": "W2803360758", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W4407187873", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2133262867", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar", "children", "nonhuman"]}
+{"id": "W4386132232", "rel": true, "st": "rev", "fb": ["rf"], "tags": []}
+{"id": "W2798810376", "rel": true, "st": "tech", "fb": [], "tags": []}
+{"id": "W562162278", "rel": true, "st": "tech", "fb": ["rf", "mmw"], "tags": ["numerical", "sar"]}
+{"id": "W2347454862", "rel": true, "st": "epi", "fb": [], "tags": []}
+{"id": "W2792452184", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W4254215197", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2553485348", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2594562774", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "elf_source"]}
+{"id": "W961100191", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "phone", "numerical"]}
+{"id": "W2424319655", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W3030191859", "rel": false, "st": "exp", "fb": [], "tags": []}
+{"id": "W3133613031", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar", "implant"]}
+{"id": "W2797556186", "rel": true, "st": "epi", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W4388714312", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2243508995", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W7212304360", "rel": true, "st": "epi", "fb": ["rf"], "tags": ["basestation", "measure"]}
+{"id": "W3092423549", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W622068844", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4413403378", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "phone"]}
+{"id": "W3117033825", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "elf_source"]}
+{"id": "W1972346338", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2154584154", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2946404031", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W4389366736", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4225149276", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["measure", "basestation"]}
+{"id": "W4388906377", "rel": true, "st": "oth", "fb": ["elf"], "tags": ["elf_source"]}
+{"id": "W2328086843", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W3104446349", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1998518506", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2073407154", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W2113899623", "rel": true, "st": "exp", "fb": ["static", "elf"], "tags": ["nonhuman"]}
+{"id": "W4409469077", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2463917468", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["measure", "basestation", "phone", "compliance"]}
+{"id": "W2016253888", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2013550267", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4394806070", "rel": true, "st": "tech", "fb": ["static", "elf"], "tags": ["numerical", "model"]}
+{"id": "W1481556098", "rel": true, "st": "epi", "fb": [], "tags": []}
+{"id": "W2164143837", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W144443108", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2394432812", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2232236633", "rel": true, "st": "rev", "fb": ["elf"], "tags": ["nonhuman", "elf_source"]}
+{"id": "W4385431367", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2937071030", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W2907470080", "rel": true, "st": "epi", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2081743133", "rel": true, "st": "tech", "fb": [], "tags": ["numerical"]}
+{"id": "W2376416127", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2147274377", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W3179365995", "rel": true, "st": "rev", "fb": ["elf"], "tags": []}
+{"id": "W2160265487", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W4400871892", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3032302176", "rel": true, "st": "tech", "fb": ["if"], "tags": ["sar", "wpt", "lowexp", "numerical"]}
+{"id": "W2323482040", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W286710582", "rel": true, "st": "exp", "fb": ["mmw"], "tags": ["nonhuman"]}
+{"id": "W2057005257", "rel": true, "st": "rev", "fb": ["rf"], "tags": []}
+{"id": "W1996174317", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2035368142", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W3212335759", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2056481068", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W2136424891", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2265879222", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W2910312599", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "elf_source"]}
+{"id": "W2565720367", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["numerical", "elf_source"]}
+{"id": "W2097499462", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2370223827", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1976614137", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2377469167", "rel": true, "st": "exp", "fb": ["mmw"], "tags": ["nonhuman", "sar", "children"]}
+{"id": "W7222141433", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman", "sar"]}
+{"id": "W2113969893", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman", "sar"]}
+{"id": "W2380788518", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W4416830572", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1553139056", "rel": true, "st": "rev", "fb": ["static"], "tags": []}
+{"id": "W1935325932", "rel": true, "st": "epi", "fb": [], "tags": []}
+{"id": "W2361970074", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W3186404482", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["basestation"]}
+{"id": "W2156171584", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2109319755", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["phone", "sar", "numerical"]}
+{"id": "W2753845241", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2275027717", "rel": true, "st": "exp", "fb": ["mmw"], "tags": ["nonhuman"]}
+{"id": "W4252740810", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["basestation", "phone", "sar"]}
+{"id": "W7154305598", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2186834474", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W1985818674", "rel": false, "st": "exp", "fb": [], "tags": []}
+{"id": "W2031810394", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W4206641348", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W81682856", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W1987132253", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W149047610", "rel": true, "st": "epi", "fb": [], "tags": ["occupational"]}
+{"id": "W2081645952", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2775113159", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2805482530", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W4411057668", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2469860673", "rel": false, "st": "exp", "fb": [], "tags": []}
+{"id": "W2002198051", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2185043369", "rel": true, "st": "epi", "fb": ["rf"], "tags": ["phone", "basestation"]}
+{"id": "W1571321581", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3206326711", "rel": true, "st": "rev", "fb": ["rf", "mmw"], "tags": ["5g"]}
+{"id": "W7202287492", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1970269689", "rel": true, "st": "epi", "fb": ["rf", "mmw"], "tags": ["occupational", "basestation"]}
+{"id": "W285329861", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W3112148605", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "numerical", "elf_source", "occupational"]}
+{"id": "W2046234571", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W4415723522", "rel": true, "st": "rev", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W154127087", "rel": false, "st": "oth", "fb": [], "tags": ["nonhuman"]}
+{"id": "W986773991", "rel": true, "st": "tech", "fb": ["static", "elf", "if"], "tags": ["measure", "compliance", "occupational", "elf_source"]}
+{"id": "W2127032980", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2888891925", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2026791768", "rel": true, "st": "epi", "fb": ["elf"], "tags": ["elf_source", "children"]}
+{"id": "W2361491417", "rel": true, "st": "exp", "fb": ["static", "elf"], "tags": ["nonhuman"]}
+{"id": "W1991598361", "rel": true, "st": "epi", "fb": ["static"], "tags": []}
+{"id": "W1991220817", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W279053447", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W4415312240", "rel": true, "st": "exp", "fb": ["mmw"], "tags": []}
+{"id": "W2790586021", "rel": true, "st": "tech", "fb": ["elf", "if"], "tags": ["numerical", "elf_source"]}
+{"id": "W2530168404", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W7125809038", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "numerical", "wifi"]}
+{"id": "W7132083248", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W210336374", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W2028176059", "rel": true, "st": "epi", "fb": ["elf"], "tags": ["exposimetry", "occupational"]}
+{"id": "W4293066017", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W105553972", "rel": true, "st": "tech", "fb": ["static", "elf"], "tags": ["numerical", "implant"]}
+{"id": "W2139937593", "rel": true, "st": "exp", "fb": ["static", "rf"], "tags": ["sar"]}
+{"id": "W4210252393", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "basestation"]}
+{"id": "W1999300971", "rel": true, "st": "epi", "fb": ["elf"], "tags": ["elf_source", "children", "model"]}
+{"id": "W3146967722", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2416442241", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W7166640421", "rel": true, "st": "tech", "fb": ["elf", "if"], "tags": ["numerical"]}
+{"id": "W2400672601", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W3174280095", "rel": true, "st": "rev", "fb": ["static"], "tags": []}
+{"id": "W7221023773", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W4385240640", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2591814050", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2012408623", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["numerical", "elf_source"]}
+{"id": "W2094925460", "rel": false, "st": "exp", "fb": [], "tags": []}
+{"id": "W2414311768", "rel": true, "st": "epi", "fb": ["static"], "tags": ["children"]}
+{"id": "W2331573300", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["phone", "basestation"]}
+{"id": "W4389824989", "rel": true, "st": "epi", "fb": ["elf"], "tags": ["occupational"]}
+{"id": "W2794129208", "rel": false, "st": "tech", "fb": ["rf"], "tags": []}
+{"id": "W7142360451", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2109528618", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["numerical", "implant"]}
+{"id": "W2083311237", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W1998502308", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W4416056478", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "occupational"]}
+{"id": "W4409255325", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2033529094", "rel": true, "st": "oth", "fb": ["rf"], "tags": []}
+{"id": "W2471538569", "rel": true, "st": "epi", "fb": [], "tags": []}
+{"id": "W2022329022", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W4403049241", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W4417154393", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W33297868", "rel": true, "st": "rev", "fb": ["rf"], "tags": []}
+{"id": "W4386824461", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2991578496", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["wifi", "nonhuman"]}
+{"id": "W2397437043", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "phone", "numerical"]}
+{"id": "W3004826069", "rel": true, "st": "oth", "fb": [], "tags": ["measure"]}
+{"id": "W4399938917", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["5g", "basestation", "measure", "model", "numerical"]}
+{"id": "W2066170063", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3162299194", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1977836284", "rel": true, "st": "rev", "fb": ["mmw"], "tags": []}
+{"id": "W592970435", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2414680443", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3004063804", "rel": true, "st": "tech", "fb": ["mmw"], "tags": ["numerical", "sar"]}
+{"id": "W4382134836", "rel": true, "st": "tech", "fb": ["mmw"], "tags": ["numerical", "sar"]}
+{"id": "W2748174276", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["basestation", "compliance", "5g"]}
+{"id": "W2017068607", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4392760834", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2999190353", "rel": true, "st": "tech", "fb": ["if"], "tags": ["numerical"]}
+{"id": "W2958315829", "rel": true, "st": "oth", "fb": ["static", "elf", "rf"], "tags": ["occupational", "compliance"]}
+{"id": "W2565613481", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3160890738", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2914613924", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2092204978", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2085058681", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2028837665", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W1977723024", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["numerical", "nonhuman"]}
+{"id": "W3185325404", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2050038710", "rel": true, "st": "epi", "fb": ["elf"], "tags": ["elf_source", "children"]}
+{"id": "W2593542560", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W2898845334", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone", "nonhuman"]}
+{"id": "W2541112024", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2341930563", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W1980344524", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2085523618", "rel": true, "st": "oth", "fb": ["elf"], "tags": ["children"]}
+{"id": "W1967261090", "rel": true, "st": "tech", "fb": ["if"], "tags": ["basestation", "compliance"]}
+{"id": "W1191243271", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W414496818", "rel": true, "st": "tech", "fb": [], "tags": ["measure"]}
+{"id": "W4388698573", "rel": true, "st": "exp", "fb": ["if"], "tags": ["nonhuman"]}
+{"id": "W2727896241", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2474581523", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W2065104758", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2120316133", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2409513789", "rel": true, "st": "tech", "fb": ["elf", "if"], "tags": ["measure"]}
+{"id": "W2079460684", "rel": true, "st": "tech", "fb": ["elf"], "tags": []}
+{"id": "W7213776907", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W1216846524", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2067439653", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1995231404", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3032559430", "rel": true, "st": "rev", "fb": ["elf"], "tags": []}
+{"id": "W2948402380", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W2432745585", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W409886628", "rel": true, "st": "tech", "fb": ["rf", "mmw"], "tags": ["sar"]}
+{"id": "W3017247959", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3036721006", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W2042752408", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W2561525489", "rel": true, "st": "exp", "fb": ["mmw"], "tags": []}
+{"id": "W1137121462", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2021867577", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W4409653982", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3205891728", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2134415505", "rel": true, "st": "rev", "fb": ["elf", "rf"], "tags": ["elf_source", "phone"]}
+{"id": "W2374854422", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2343552163", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["exposimetry", "numerical"]}
+{"id": "W7225921623", "rel": true, "st": "epi", "fb": ["rf"], "tags": ["occupational"]}
+{"id": "W2604418757", "rel": true, "st": "exp", "fb": ["static", "rf"], "tags": []}
+{"id": "W2765382834", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W7163972129", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W76781778", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4392017425", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "5g", "basestation"]}
+{"id": "W4400539928", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2747412416", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2593810374", "rel": true, "st": "epi", "fb": [], "tags": []}
+{"id": "W4285086424", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2128427872", "rel": true, "st": "exp", "fb": ["static", "elf"], "tags": ["nonhuman"]}
+{"id": "W2239743916", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4211235589", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2441431413", "rel": true, "st": "tech", "fb": ["elf"], "tags": []}
+{"id": "W2388522246", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "phone", "compliance"]}
+{"id": "W2174125666", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W4400270543", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2940606970", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2592872245", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W3161487015", "rel": true, "st": "exp", "fb": ["if", "rf"], "tags": ["implant"]}
+{"id": "W2733367682", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2501479291", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2041251016", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4407932138", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2026106955", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4384916444", "rel": true, "st": "tech", "fb": ["static"], "tags": ["numerical"]}
+{"id": "W7168035632", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2907410269", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W252587450", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure"]}
+{"id": "W35752534", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2984277099", "rel": true, "st": "tech", "fb": ["rf", "mmw"], "tags": ["sar", "numerical", "phone"]}
+{"id": "W1986943285", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical"]}
+{"id": "W2512637392", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W7112503472", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["model", "occupational"]}
+{"id": "W4413944481", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2517091530", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2025727103", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar", "phone"]}
+{"id": "W1986929977", "rel": true, "st": "rev", "fb": ["elf"], "tags": []}
+{"id": "W2351575457", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W3042978988", "rel": true, "st": "exp", "fb": ["mmw"], "tags": ["nonhuman"]}
+{"id": "W2977727242", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["wifi"]}
+{"id": "W235173953", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2561189712", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2038306584", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["children", "compliance"]}
+{"id": "W2633455515", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W4401225827", "rel": true, "st": "exp", "fb": ["if"], "tags": []}
+{"id": "W2046426982", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "numerical"]}
+{"id": "W4312504899", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4386880658", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2921158220", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["elf_source"]}
+{"id": "W4387417724", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7222495683", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W2091358761", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3027416057", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2746492939", "rel": true, "st": "exp", "fb": ["mmw"], "tags": []}
+{"id": "W2077731371", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["exposimetry", "occupational"]}
+{"id": "W2400253045", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W996641565", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W4392160024", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "5g"]}
+{"id": "W2038423533", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar", "implant"]}
+{"id": "W2054687396", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W4404009696", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2357531202", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7212064971", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2093188659", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2102562581", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2138181577", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar"]}
+{"id": "W4399920425", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W7132266300", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3173837803", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W247829534", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W7166586503", "rel": true, "st": "tech", "fb": [], "tags": ["numerical"]}
+{"id": "W4402973292", "rel": true, "st": "oth", "fb": ["static"], "tags": []}
+{"id": "W3291248", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2909608108", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7131879868", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2038716279", "rel": true, "st": "epi", "fb": ["rf", "mmw"], "tags": ["occupational"]}
+{"id": "W67278229", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2253909976", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W2593335048", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2897867779", "rel": true, "st": "exp", "fb": ["if"], "tags": []}
+{"id": "W2062029498", "rel": true, "st": "tech", "fb": ["if", "rf"], "tags": ["numerical", "sar"]}
+{"id": "W3165206640", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2257803558", "rel": true, "st": "oth", "fb": [], "tags": ["children"]}
+{"id": "W4403699584", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2055433651", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W7223670495", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2539971379", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2412954353", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "occupational", "compliance"]}
+{"id": "W2076604608", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4361995004", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["basestation", "measure", "sar", "compliance"]}
+{"id": "W2334046855", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W3092039491", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2184559916", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W3173938010", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3047803639", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["compliance"]}
+{"id": "W2119132096", "rel": true, "st": "exp", "fb": ["static", "elf"], "tags": ["nonhuman"]}
+{"id": "W2187776623", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W4403089818", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman", "phone"]}
+{"id": "W2327002019", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical"]}
+{"id": "W2110453670", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar", "phone"]}
+{"id": "W2072116972", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W575610331", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar", "children"]}
+{"id": "W153212217", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W4386864838", "rel": true, "st": "tech", "fb": ["rf", "mmw"], "tags": ["numerical", "sar"]}
+{"id": "W2889960680", "rel": true, "st": "epi", "fb": ["rf"], "tags": ["occupational", "measure"]}
+{"id": "W2005826943", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W1991148872", "rel": true, "st": "rev", "fb": ["rf", "mmw"], "tags": []}
+{"id": "W2753608376", "rel": true, "st": "oth", "fb": ["mmw"], "tags": []}
+{"id": "W7221726257", "rel": false, "st": "oth", "fb": ["rf"], "tags": []}
+{"id": "W4290642348", "rel": true, "st": "exp", "fb": ["static", "elf"], "tags": []}
+{"id": "W4313581366", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2752639192", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar", "nonhuman"]}
+{"id": "W4298184398", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W598730743", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar", "phone"]}
+{"id": "W2891071792", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2497403650", "rel": true, "st": "oth", "fb": ["elf", "rf"], "tags": ["compliance"]}
+{"id": "W2901875084", "rel": false, "st": "oth", "fb": ["rf"], "tags": []}
+{"id": "W2063025675", "rel": true, "st": "tech", "fb": ["static", "elf"], "tags": ["measure"]}
+{"id": "W4415554417", "rel": true, "st": "rev", "fb": ["if"], "tags": ["numerical", "sar"]}
+{"id": "W2320651655", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2958358132", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W51877697", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2571376224", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2066113520", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2513624416", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar", "nonhuman"]}
+{"id": "W7212002804", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2915754638", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2248347668", "rel": true, "st": "tech", "fb": ["if"], "tags": []}
+{"id": "W4401102037", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W4308467140", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4389562841", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4243728110", "rel": true, "st": "rev", "fb": ["rf", "mmw"], "tags": ["compliance"]}
+{"id": "W3025829296", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7165882111", "rel": true, "st": "exp", "fb": ["mmw"], "tags": []}
+{"id": "W1941515511", "rel": true, "st": "rev", "fb": ["static"], "tags": ["model"]}
+{"id": "W2581919825", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2027175820", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2990939926", "rel": true, "st": "rev", "fb": ["elf"], "tags": []}
+{"id": "W3094520614", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman", "wifi"]}
+{"id": "W7220679841", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7114907462", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2089273559", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2131878229", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2776377687", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W1660235865", "rel": true, "st": "exp", "fb": ["if"], "tags": []}
+{"id": "W4285193836", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "numerical", "model", "basestation", "5g", "compliance"]}
+{"id": "W2181404238", "rel": true, "st": "exp", "fb": ["mmw"], "tags": []}
+{"id": "W2526288358", "rel": true, "st": "tech", "fb": ["elf", "rf"], "tags": ["measure", "children"]}
+{"id": "W1538447784", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "elf_source"]}
+{"id": "W2070804144", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2257530333", "rel": true, "st": "tech", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W1192030075", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W1659860684", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4386985514", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4386947572", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2912394011", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone", "nonhuman"]}
+{"id": "W2056490800", "rel": true, "st": "tech", "fb": ["rf"], "tags": []}
+{"id": "W2379566579", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2028188159", "rel": true, "st": "epi", "fb": ["elf"], "tags": ["occupational", "elf_source"]}
+{"id": "W979558614", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "occupational"]}
+{"id": "W4382874090", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4415447095", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W4281732673", "rel": false, "st": "rev", "fb": [], "tags": []}
+{"id": "W4412154088", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W2912553966", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone", "nonhuman"]}
+{"id": "W1510929756", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2466028707", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4399428793", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2028940825", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2025486498", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W2423685554", "rel": true, "st": "rev", "fb": ["elf", "rf"], "tags": []}
+{"id": "W2840559134", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W3004389317", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2593381121", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2070102225", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2512304408", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["numerical"]}
+{"id": "W4246816978", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2185747939", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "compliance", "elf_source"]}
+{"id": "W4414060727", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3196617861", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7170066556", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W7225000583", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "numerical", "model", "compliance"]}
+{"id": "W2781198488", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W4251619436", "rel": true, "st": "oth", "fb": ["mmw"], "tags": []}
+{"id": "W2996660365", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4404300141", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1844385219", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3003140739", "rel": true, "st": "exp", "fb": ["mmw"], "tags": ["nonhuman"]}
+{"id": "W1508403131", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "phone"]}
+{"id": "W4392134235", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2392643997", "rel": true, "st": "rev", "fb": ["elf"], "tags": []}
+{"id": "W2804281404", "rel": true, "st": "rev", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2143712477", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4362508688", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4252319654", "rel": true, "st": "tech", "fb": [], "tags": ["exposimetry"]}
+{"id": "W2378957682", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2965284364", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2152353986", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2023835688", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["exposimetry", "occupational", "elf_source"]}
+{"id": "W1967787067", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3214849852", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W2609040303", "rel": true, "st": "epi", "fb": ["rf"], "tags": ["measure", "children"]}
+{"id": "W2467768968", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W2158919236", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2403961778", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W2014517525", "rel": true, "st": "tech", "fb": ["if"], "tags": ["wpt", "compliance", "measure"]}
+{"id": "W4306361390", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2516723476", "rel": true, "st": "rev", "fb": ["static", "elf"], "tags": ["nonhuman"]}
+{"id": "W7124311467", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2416022203", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W4288394344", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2002417218", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2125264462", "rel": true, "st": "rev", "fb": ["rf"], "tags": []}
+{"id": "W4244280798", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2078798595", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2137409813", "rel": false, "st": "oth", "fb": ["static"], "tags": []}
+{"id": "W2014729056", "rel": true, "st": "rev", "fb": ["rf"], "tags": []}
+{"id": "W115892815", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W1918060927", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman", "sar"]}
+{"id": "W2523847651", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2214211744", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "phone"]}
+{"id": "W3117921349", "rel": true, "st": "exp", "fb": ["static", "elf"], "tags": ["nonhuman"]}
+{"id": "W2155866027", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2037708045", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2401645549", "rel": true, "st": "rev", "fb": [], "tags": ["nonhuman"]}
+{"id": "W4306409617", "rel": true, "st": "exp", "fb": ["mmw"], "tags": []}
+{"id": "W1602825891", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4238478472", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W2083008458", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W4323667786", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3123746979", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2112379423", "rel": true, "st": "tech", "fb": ["if"], "tags": ["wpt", "compliance"]}
+{"id": "W3204882794", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2099699388", "rel": true, "st": "tech", "fb": [], "tags": ["numerical"]}
+{"id": "W974653213", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["occupational", "measure", "compliance", "elf_source"]}
+{"id": "W2600706046", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W7151444319", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["phone", "numerical", "sar"]}
+{"id": "W1598007244", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7125408094", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W1977370542", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W2310292351", "rel": true, "st": "rev", "fb": ["elf"], "tags": ["measure", "model"]}
+{"id": "W3103697421", "rel": true, "st": "rev", "fb": ["static"], "tags": []}
+{"id": "W3083130453", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2011331784", "rel": true, "st": "epi", "fb": ["static", "rf"], "tags": ["implant", "sar"]}
+{"id": "W3130783701", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W1980185744", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2542211790", "rel": true, "st": "exp", "fb": ["elf", "if"], "tags": []}
+{"id": "W2398054317", "rel": true, "st": "rev", "fb": ["rf", "mmw"], "tags": []}
+{"id": "W2039293806", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2015343141", "rel": true, "st": "rev", "fb": ["static"], "tags": []}
+{"id": "W7215303725", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2966961581", "rel": true, "st": "rev", "fb": ["elf"], "tags": ["occupational"]}
+{"id": "W2218025272", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4310343655", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2462004813", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W4389884202", "rel": false, "st": "oth", "fb": ["rf"], "tags": []}
+{"id": "W2598930089", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical"]}
+{"id": "W2971925947", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2960613565", "rel": true, "st": "tech", "fb": ["if"], "tags": ["numerical"]}
+{"id": "W3157505266", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W7117244429", "rel": false, "st": "oth", "fb": ["rf"], "tags": []}
+{"id": "W4286381625", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["implant", "numerical", "compliance"]}
+{"id": "W1797874963", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["phone", "measure", "compliance"]}
+{"id": "W2907674266", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W7167490729", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2076079835", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2155865854", "rel": true, "st": "epi", "fb": ["rf"], "tags": ["basestation"]}
+{"id": "W3214406902", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2765681699", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2771221530", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W1501354537", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["basestation", "compliance"]}
+{"id": "W4400350537", "rel": true, "st": "tech", "fb": ["mmw"], "tags": ["measure", "5g", "basestation", "compliance"]}
+{"id": "W2888865601", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2134405836", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["children"]}
+{"id": "W2462939844", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2064925855", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3162052093", "rel": true, "st": "rev", "fb": ["rf"], "tags": []}
+{"id": "W2898924232", "rel": false, "st": "oth", "fb": ["rf"], "tags": []}
+{"id": "W2101923641", "rel": true, "st": "exp", "fb": ["mmw"], "tags": []}
+{"id": "W60585374", "rel": true, "st": "oth", "fb": ["elf"], "tags": []}
+{"id": "W2215785068", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4285129796", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar", "nonhuman"]}
+{"id": "W2045111322", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W3200354402", "rel": false, "st": "oth", "fb": ["rf"], "tags": []}
+{"id": "W4408771751", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2946387592", "rel": true, "st": "tech", "fb": ["static", "rf"], "tags": ["implant", "sar"]}
+{"id": "W7225800096", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W20886403", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2888490316", "rel": true, "st": "rev", "fb": ["rf", "mmw"], "tags": ["occupational", "compliance"]}
+{"id": "W1963666773", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["exposimetry", "occupational"]}
+{"id": "W2347530379", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W630962780", "rel": true, "st": "tech", "fb": ["elf", "if"], "tags": ["measure"]}
+{"id": "W2517034905", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W4407766881", "rel": true, "st": "exp", "fb": ["if"], "tags": []}
+{"id": "W2066119407", "rel": true, "st": "tech", "fb": ["static", "elf"], "tags": ["exposimetry", "occupational"]}
+{"id": "W2088209639", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W416921951", "rel": true, "st": "oth", "fb": ["elf"], "tags": ["compliance", "elf_source"]}
+{"id": "W2948685567", "rel": true, "st": "rev", "fb": ["elf"], "tags": ["elf_source"]}
+{"id": "W2420731089", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W2088747082", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4406909832", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["5g", "phone", "implant", "compliance", "numerical"]}
+{"id": "W2095422947", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W4289711173", "rel": false, "st": "oth", "fb": ["rf"], "tags": []}
+{"id": "W2023925503", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["basestation", "sar"]}
+{"id": "W2089087115", "rel": true, "st": "rev", "fb": ["static"], "tags": []}
+{"id": "W4400879002", "rel": false, "st": "exp", "fb": [], "tags": []}
+{"id": "W7217580100", "rel": true, "st": "epi", "fb": ["elf"], "tags": ["measure", "elf_source"]}
+{"id": "W2464920151", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W4256018892", "rel": true, "st": "rev", "fb": ["static"], "tags": []}
+{"id": "W3212573152", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar"]}
+{"id": "W2806386940", "rel": true, "st": "tech", "fb": [], "tags": ["numerical"]}
+{"id": "W2756419087", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["wifi", "occupational"]}
+{"id": "W2893827344", "rel": false, "st": "oth", "fb": ["elf"], "tags": []}
+{"id": "W7217156444", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2548268420", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W4200235423", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W4252629105", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "compliance", "elf_source"]}
+{"id": "W1991689323", "rel": true, "st": "exp", "fb": ["static", "rf"], "tags": []}
+{"id": "W3003223448", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2120280298", "rel": true, "st": "rev", "fb": ["elf"], "tags": ["elf_source", "children"]}
+{"id": "W2905250073", "rel": true, "st": "epi", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2089327728", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W4299414782", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2774538034", "rel": true, "st": "exp", "fb": ["mmw"], "tags": []}
+{"id": "W2098553562", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2579573538", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W2107270921", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1973360177", "rel": true, "st": "tech", "fb": [], "tags": ["numerical"]}
+{"id": "W2366488377", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2152516870", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar"]}
+{"id": "W2435183786", "rel": true, "st": "tech", "fb": ["elf", "rf"], "tags": ["measure", "elf_source", "basestation"]}
+{"id": "W2090528270", "rel": false, "st": "oth", "fb": ["static"], "tags": []}
+{"id": "W2989738383", "rel": true, "st": "oth", "fb": ["static"], "tags": []}
+{"id": "W3135215302", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2001560968", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W4402187266", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "children"]}
+{"id": "W2114845333", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar"]}
+{"id": "W4320928598", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["phone", "children"]}
+{"id": "W2587083849", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2306280771", "rel": true, "st": "epi", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2989817209", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W4410886964", "rel": true, "st": "tech", "fb": ["rf", "mmw"], "tags": ["implant", "sar"]}
+{"id": "W1491406536", "rel": true, "st": "tech", "fb": ["elf"], "tags": []}
+{"id": "W2007059721", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman", "children"]}
+{"id": "W1122128502", "rel": true, "st": "exp", "fb": ["mmw"], "tags": ["nonhuman"]}
+{"id": "W2025330483", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2162060002", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2041321961", "rel": true, "st": "oth", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W1989828390", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2288697211", "rel": true, "st": "tech", "fb": ["if", "rf"], "tags": ["occupational", "sar", "numerical"]}
+{"id": "W1485592084", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4312100130", "rel": true, "st": "rev", "fb": ["elf", "rf"], "tags": ["phone"]}
+{"id": "W7136558446", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7109468624", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2596697664", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["phone", "basestation"]}
+{"id": "W2397256954", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2377333130", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W3135018391", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "numerical"]}
+{"id": "W2143720977", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2056538903", "rel": true, "st": "rev", "fb": ["elf"], "tags": ["compliance"]}
+{"id": "W294201431", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure"]}
+{"id": "W2897248043", "rel": true, "st": "oth", "fb": ["elf"], "tags": ["implant"]}
+{"id": "W2050434622", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2364891530", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4385802468", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2038753111", "rel": true, "st": "epi", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2967976946", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2187035122", "rel": true, "st": "exp", "fb": ["static", "elf", "rf"], "tags": []}
+{"id": "W4414883744", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["model", "elf_source"]}
+{"id": "W3089178542", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4319162390", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2135150043", "rel": true, "st": "oth", "fb": ["rf"], "tags": []}
+{"id": "W2513170468", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W2350217386", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W2317645100", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2123425686", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2416774654", "rel": true, "st": "epi", "fb": ["static"], "tags": []}
+{"id": "W2013449865", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W4407087206", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W957801352", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone", "compliance"]}
+{"id": "W1042500354", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W1972447248", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W4210243687", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W3042878887", "rel": true, "st": "rev", "fb": ["rf", "mmw"], "tags": []}
+{"id": "W4243824645", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W3020413815", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar"]}
+{"id": "W2394881304", "rel": true, "st": "exp", "fb": ["static", "elf"], "tags": []}
+{"id": "W2610387602", "rel": true, "st": "tech", "fb": ["static", "rf"], "tags": ["measure", "occupational"]}
+{"id": "W4389763470", "rel": true, "st": "rev", "fb": ["elf", "rf"], "tags": ["basestation", "phone"]}
+{"id": "W2026981202", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W46489289", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W2414224868", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2188901606", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure"]}
+{"id": "W3188724971", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3201161673", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2033811307", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "phone", "compliance"]}
+{"id": "W2162724672", "rel": true, "st": "tech", "fb": ["mmw"], "tags": ["sar"]}
+{"id": "W4399211378", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4381715433", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2994448382", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2367213660", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W1988870887", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4291743734", "rel": true, "st": "tech", "fb": ["if"], "tags": ["wpt", "measure", "numerical"]}
+{"id": "W4365517798", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2553618351", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["occupational", "elf_source"]}
+{"id": "W4390009964", "rel": true, "st": "epi", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2770185532", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1867500576", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W4206412349", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2295328826", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2416079018", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W1971488612", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2099375508", "rel": true, "st": "tech", "fb": [], "tags": []}
+{"id": "W4379388765", "rel": true, "st": "tech", "fb": ["static", "elf", "if"], "tags": ["numerical"]}
+{"id": "W353528899", "rel": true, "st": "rev", "fb": ["static"], "tags": []}
+{"id": "W2078234513", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2072408375", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4416586343", "rel": true, "st": "exp", "fb": ["rf", "mmw"], "tags": ["5g", "nonhuman"]}
+{"id": "W4412148303", "rel": true, "st": "rev", "fb": ["elf", "if"], "tags": []}
+{"id": "W2726452685", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "basestation"]}
+{"id": "W1973761457", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W3163014660", "rel": true, "st": "exp", "fb": ["mmw"], "tags": []}
+{"id": "W2156893481", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4400466737", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2046433073", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W1993606742", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W372291756", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["elf_source", "occupational", "model"]}
+{"id": "W2065741061", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "phone", "numerical", "compliance"]}
+{"id": "W2149571395", "rel": true, "st": "exp", "fb": ["static", "elf"], "tags": ["nonhuman"]}
+{"id": "W1975119273", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W4411557546", "rel": true, "st": "oth", "fb": ["elf"], "tags": []}
+{"id": "W1563635571", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W53695436", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman", "elf_source"]}
+{"id": "W2411944677", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1146331680", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W4400700754", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2369857106", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W4255466853", "rel": true, "st": "rev", "fb": ["elf", "rf"], "tags": []}
+{"id": "W4238320790", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W230917479", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "phone", "numerical"]}
+{"id": "W4303649575", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W4224922024", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4387579381", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W2938163430", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2157281338", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2751806633", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "implant", "numerical"]}
+{"id": "W4387580214", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3049486342", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W1997230922", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "exposimetry"]}
+{"id": "W2000904613", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2149504835", "rel": true, "st": "tech", "fb": [], "tags": []}
+{"id": "W1965895587", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman", "sar"]}
+{"id": "W2001495782", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2071807806", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2108289229", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["implant"]}
+{"id": "W4413982699", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4291393794", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W2003537203", "rel": true, "st": "exp", "fb": ["static", "rf"], "tags": ["implant"]}
+{"id": "W7221806253", "rel": true, "st": "exp", "fb": ["if"], "tags": []}
+{"id": "W2769260391", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure"]}
+{"id": "W2140156415", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W3208210856", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["phone", "sar", "numerical"]}
+{"id": "W4393989031", "rel": true, "st": "oth", "fb": ["rf"], "tags": []}
+{"id": "W2804644507", "rel": true, "st": "epi", "fb": ["static", "elf"], "tags": []}
+{"id": "W2024014767", "rel": true, "st": "exp", "fb": ["static", "elf"], "tags": ["nonhuman"]}
+{"id": "W2923590048", "rel": true, "st": "oth", "fb": ["static", "elf"], "tags": []}
+{"id": "W2142853813", "rel": true, "st": "exp", "fb": ["static", "elf"], "tags": []}
+{"id": "W2099180002", "rel": true, "st": "epi", "fb": ["elf"], "tags": ["elf_source", "children"]}
+{"id": "W134192494", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W405596172", "rel": true, "st": "epi", "fb": ["rf"], "tags": ["phone", "children"]}
+{"id": "W2023510118", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2103758841", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2586452874", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W1972619864", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2617552370", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["exposimetry", "children"]}
+{"id": "W4393355460", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4391807454", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2087767463", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2104653725", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W122072286", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W3131573550", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7168164791", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1756748322", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W648496882", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W7119478865", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W588446003", "rel": true, "st": "tech", "fb": ["mmw"], "tags": ["measure", "compliance"]}
+{"id": "W1988139745", "rel": true, "st": "tech", "fb": ["static"], "tags": ["numerical"]}
+{"id": "W4385820096", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W21874029", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "basestation"]}
+{"id": "W1977173272", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W4307201676", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2403527907", "rel": true, "st": "tech", "fb": ["if"], "tags": ["implant", "wpt", "numerical"]}
+{"id": "W1993203849", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2916783060", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W625342823", "rel": true, "st": "tech", "fb": [], "tags": []}
+{"id": "W2514098545", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["elf_source", "compliance", "model"]}
+{"id": "W1989111326", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W4415914786", "rel": true, "st": "epi", "fb": ["rf"], "tags": ["phone", "children"]}
+{"id": "W2613512894", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "elf_source"]}
+{"id": "W3112501617", "rel": true, "st": "tech", "fb": ["mmw"], "tags": ["measure"]}
+{"id": "W1994425568", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W7217805503", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W2245823992", "rel": true, "st": "oth", "fb": [], "tags": ["compliance"]}
+{"id": "W194949324", "rel": true, "st": "epi", "fb": ["static"], "tags": []}
+{"id": "W1998042483", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W2154373504", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W3083575046", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W4417032478", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman", "children", "sar"]}
+{"id": "W3015248644", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4236576497", "rel": true, "st": "tech", "fb": ["mmw"], "tags": ["sar"]}
+{"id": "W3043167134", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["children"]}
+{"id": "W1976269582", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2004524572", "rel": true, "st": "epi", "fb": ["static"], "tags": []}
+{"id": "W4403016317", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W2595433989", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2438506423", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W4387226593", "rel": true, "st": "tech", "fb": ["elf", "rf"], "tags": ["measure", "model", "elf_source"]}
+{"id": "W3134172623", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2127480875", "rel": true, "st": "tech", "fb": [], "tags": ["numerical"]}
+{"id": "W2353434753", "rel": true, "st": "exp", "fb": ["mmw"], "tags": ["nonhuman"]}
+{"id": "W2282671459", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2041055936", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2412434826", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W3215617183", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar", "phone"]}
+{"id": "W2615715743", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W1723324400", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4402227484", "rel": true, "st": "epi", "fb": ["static", "rf"], "tags": ["children"]}
+{"id": "W2091772150", "rel": true, "st": "oth", "fb": [], "tags": ["compliance"]}
+{"id": "W1519586355", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["elf_source", "model"]}
+{"id": "W3119170323", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2357394533", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2308635093", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W2289944981", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W59664130", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar"]}
+{"id": "W2011001932", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2898371705", "rel": true, "st": "rev", "fb": ["elf"], "tags": []}
+{"id": "W4410741934", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7125777779", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2012532360", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7217807142", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2052296497", "rel": true, "st": "oth", "fb": ["rf"], "tags": []}
+{"id": "W2076578078", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2381592187", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W4288066561", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W108911849", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W7220558313", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W3010180586", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "model"]}
+{"id": "W4410493353", "rel": false, "st": "rev", "fb": [], "tags": []}
+{"id": "W2080919984", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2893599265", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2016070044", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W1985643641", "rel": true, "st": "epi", "fb": ["elf"], "tags": ["exposimetry", "children"]}
+{"id": "W1514179287", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3080146953", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7203758100", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4390828470", "rel": true, "st": "tech", "fb": ["mmw"], "tags": ["sar"]}
+{"id": "W2389870053", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W3187027107", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2017926821", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["basestation", "model"]}
+{"id": "W4409272699", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W2475073923", "rel": true, "st": "exp", "fb": ["mmw"], "tags": []}
+{"id": "W2021420242", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7214073575", "rel": true, "st": "tech", "fb": [], "tags": ["compliance"]}
+{"id": "W2029075065", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2109635524", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "compliance", "phone"]}
+{"id": "W2964117620", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2016650437", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4291987532", "rel": false, "st": "rev", "fb": [], "tags": []}
+{"id": "W4304893200", "rel": true, "st": "epi", "fb": ["static", "elf"], "tags": []}
+{"id": "W2106625857", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "numerical"]}
+{"id": "W4388232940", "rel": true, "st": "tech", "fb": ["static"], "tags": ["numerical"]}
+{"id": "W2515723650", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["numerical"]}
+{"id": "W4300024041", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone", "implant"]}
+{"id": "W2415776939", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W3038367342", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2092045261", "rel": true, "st": "exp", "fb": ["mmw"], "tags": ["nonhuman", "sar"]}
+{"id": "W4249621451", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2074089085", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2905906832", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W625836935", "rel": true, "st": "rev", "fb": ["elf", "rf"], "tags": []}
+{"id": "W4415009843", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4380873545", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2068081972", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W2520694554", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W587393791", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "children", "implant"]}
+{"id": "W3120973744", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "phone", "numerical"]}
+{"id": "W2008455224", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2178689827", "rel": false, "st": "rev", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W1580842544", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2356809267", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W1831556602", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2051293111", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2969283173", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4393409938", "rel": true, "st": "rev", "fb": ["rf"], "tags": []}
+{"id": "W2291383750", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2068840504", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2003683497", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W7162867196", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W2947250970", "rel": true, "st": "tech", "fb": ["if"], "tags": ["wpt", "numerical"]}
+{"id": "W2586768038", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2900097066", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2749806583", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["basestation", "measure"]}
+{"id": "W2315245753", "rel": false, "st": "exp", "fb": [], "tags": []}
+{"id": "W7144023188", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2041394386", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1930724815", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2293817272", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2049301134", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W4410904946", "rel": false, "st": "epi", "fb": [], "tags": []}
+{"id": "W4312690689", "rel": true, "st": "tech", "fb": [], "tags": []}
+{"id": "W4385684739", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2404648896", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W380242401", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2244375362", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["numerical", "occupational", "elf_source"]}
+{"id": "W1599231222", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2009722767", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W2743513096", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2620836814", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2370068861", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W4417265242", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7203934893", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3115432978", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W4403204179", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2067652838", "rel": true, "st": "exp", "fb": ["elf", "if"], "tags": []}
+{"id": "W607689210", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2051822030", "rel": true, "st": "exp", "fb": ["mmw"], "tags": ["numerical", "sar"]}
+{"id": "W4392347986", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W3132132411", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W1561730610", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2514324561", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W4387461608", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2746943227", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2046733829", "rel": true, "st": "exp", "fb": ["static", "rf"], "tags": ["implant", "sar"]}
+{"id": "W2749956623", "rel": true, "st": "rev", "fb": ["if"], "tags": []}
+{"id": "W3146714429", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar"]}
+{"id": "W2419250899", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W4411100813", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["exposimetry", "measure"]}
+{"id": "W2945045500", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W4323320055", "rel": true, "st": "tech", "fb": ["static"], "tags": ["numerical"]}
+{"id": "W2415093941", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2592265744", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W1486709259", "rel": true, "st": "exp", "fb": ["mmw"], "tags": []}
+{"id": "W2411985933", "rel": true, "st": "exp", "fb": ["mmw"], "tags": ["nonhuman"]}
+{"id": "W2419113506", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "occupational", "elf_source", "compliance"]}
+{"id": "W7209850095", "rel": true, "st": "oth", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W7134279466", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar", "phone"]}
+{"id": "W3205093026", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["basestation", "nonhuman"]}
+{"id": "W1997909113", "rel": true, "st": "tech", "fb": ["static"], "tags": []}
+{"id": "W7203896969", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone", "children"]}
+{"id": "W2368288342", "rel": true, "st": "exp", "fb": ["static"], "tags": ["children"]}
+{"id": "W2463697768", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2053554556", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2108897766", "rel": true, "st": "tech", "fb": ["rf"], "tags": []}
+{"id": "W1968256781", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W4200348060", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4388590664", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman", "elf_source"]}
+{"id": "W206353570", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W7128298825", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["nonhuman", "basestation"]}
+{"id": "W2888049186", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4225282973", "rel": true, "st": "epi", "fb": ["rf"], "tags": ["basestation", "measure"]}
+{"id": "W4302282045", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2162546361", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W4243329901", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W7125651251", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["numerical", "model", "elf_source"]}
+{"id": "W7160775818", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2036718477", "rel": true, "st": "oth", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2189245305", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["occupational", "numerical", "compliance", "elf_source"]}
+{"id": "W7112083507", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W4387206700", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2242861228", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W4390291109", "rel": true, "st": "rev", "fb": ["elf", "rf"], "tags": ["phone", "basestation", "wifi"]}
+{"id": "W7217202838", "rel": true, "st": "oth", "fb": ["static", "elf"], "tags": []}
+{"id": "W7160387101", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4303413106", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W781276485", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W627226962", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3181344114", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2102448154", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3029110138", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W980055723", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "basestation"]}
+{"id": "W2372092262", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["numerical", "elf_source"]}
+{"id": "W7128504734", "rel": true, "st": "rev", "fb": ["if"], "tags": ["numerical"]}
+{"id": "W2353433238", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2034749636", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W1996587173", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W2412590601", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2742225939", "rel": true, "st": "exp", "fb": ["mmw"], "tags": []}
+{"id": "W2204071866", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["phone", "basestation"]}
+{"id": "W2389393679", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2418568079", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W376614357", "rel": true, "st": "tech", "fb": ["if", "rf"], "tags": ["numerical"]}
+{"id": "W7145530290", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["exposimetry", "occupational", "elf_source"]}
+{"id": "W4386802957", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2509240631", "rel": true, "st": "tech", "fb": [], "tags": ["measure", "occupational"]}
+{"id": "W2976364171", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W7117197850", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2795093023", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2555962847", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W4410697994", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2051101147", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2062958172", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "numerical", "phone"]}
+{"id": "W1968122682", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2122962008", "rel": true, "st": "exp", "fb": ["mmw"], "tags": []}
+{"id": "W2326953410", "rel": true, "st": "epi", "fb": ["static"], "tags": []}
+{"id": "W3138230791", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure"]}
+{"id": "W2165943651", "rel": true, "st": "tech", "fb": ["if"], "tags": ["measure", "numerical", "children", "elf_source"]}
+{"id": "W4367277042", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar", "implant"]}
+{"id": "W4285066004", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4413571920", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2354547489", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2155538378", "rel": true, "st": "rev", "fb": ["static", "elf", "rf"], "tags": []}
+{"id": "W4413748710", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["basestation"]}
+{"id": "W2179801230", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman", "sar"]}
+{"id": "W3028746790", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W4402967564", "rel": true, "st": "tech", "fb": ["static"], "tags": ["numerical"]}
+{"id": "W3164598374", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2095096168", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["basestation", "lowexp"]}
+{"id": "W2166489511", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4388099546", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2769928176", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2529018478", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W4414671927", "rel": true, "st": "oth", "fb": ["static"], "tags": ["nonhuman", "measure", "numerical"]}
+{"id": "W4391785650", "rel": true, "st": "tech", "fb": ["static", "elf"], "tags": ["numerical"]}
+{"id": "W2127529316", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2397355945", "rel": true, "st": "epi", "fb": ["elf"], "tags": ["occupational", "elf_source"]}
+{"id": "W4288693264", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7164822600", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3043487642", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2032938597", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W2808935830", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4385248953", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2132549263", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1989424404", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar", "phone", "implant"]}
+{"id": "W3167778435", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2012985750", "rel": true, "st": "exp", "fb": [], "tags": ["numerical"]}
+{"id": "W2342827407", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W7202206511", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1990539503", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W2922201155", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2902927606", "rel": true, "st": "tech", "fb": ["static", "if", "rf"], "tags": ["measure", "children"]}
+{"id": "W2120666722", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W2354634307", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["elf_source", "model"]}
+{"id": "W414080415", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2966991548", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["elf_source", "numerical"]}
+{"id": "W1991217966", "rel": true, "st": "exp", "fb": ["if", "rf"], "tags": []}
+{"id": "W2083686450", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W2998656050", "rel": true, "st": "tech", "fb": ["mmw"], "tags": ["compliance", "sar"]}
+{"id": "W2593208284", "rel": true, "st": "tech", "fb": [], "tags": ["measure", "model", "compliance"]}
+{"id": "W2008697123", "rel": true, "st": "oth", "fb": ["elf"], "tags": ["elf_source"]}
+{"id": "W4385346473", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2524428580", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7159766266", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2762154941", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2548217210", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone", "nonhuman"]}
+{"id": "W4387378981", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W3030694061", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W4413740131", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["elf_source", "measure", "model"]}
+{"id": "W1976222385", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "measure", "model"]}
+{"id": "W7218058690", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3086042189", "rel": true, "st": "rev", "fb": ["rf"], "tags": []}
+{"id": "W239297775", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2357157691", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone", "nonhuman"]}
+{"id": "W2028035045", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W7215496397", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["elf_source", "measure", "model"]}
+{"id": "W7224972333", "rel": true, "st": "tech", "fb": [], "tags": ["measure", "nonhuman"]}
+{"id": "W4390200867", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2080336602", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2206647108", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["elf_source", "numerical"]}
+{"id": "W7104478599", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7204199297", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2044677473", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2147213192", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W2049237488", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2275987556", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2748064305", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4396551638", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "elf_source"]}
+{"id": "W3158487758", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3011153449", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar", "5g", "wifi"]}
+{"id": "W2005281726", "rel": true, "st": "epi", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W4381612319", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3198919668", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2104833465", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2473830707", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W58742409", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "basestation", "compliance", "numerical"]}
+{"id": "W4291016382", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1514653564", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["model", "elf_source"]}
+{"id": "W1983036891", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2382536498", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2100288142", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3210954749", "rel": true, "st": "tech", "fb": ["if"], "tags": ["numerical", "sar", "wpt"]}
+{"id": "W1979571692", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["exposimetry", "phone"]}
+{"id": "W3024928839", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W3092295086", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2981192489", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2404289583", "rel": true, "st": "rev", "fb": ["static", "elf"], "tags": []}
+{"id": "W2997157351", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7219975214", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4409177558", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2090372787", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["phone", "sar"]}
+{"id": "W2736188985", "rel": true, "st": "rev", "fb": ["if", "rf"], "tags": ["compliance"]}
+{"id": "W2150852892", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W280107259", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3028284684", "rel": true, "st": "exp", "fb": ["mmw"], "tags": ["children"]}
+{"id": "W2944704113", "rel": true, "st": "exp", "fb": ["mmw"], "tags": ["nonhuman"]}
+{"id": "W2095522702", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["numerical"]}
+{"id": "W2811112934", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar", "phone"]}
+{"id": "W1882369174", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "model", "compliance"]}
+{"id": "W56562953", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "occupational", "compliance"]}
+{"id": "W2570278492", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["implant", "elf_source"]}
+{"id": "W2916717072", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W141171773", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2043824965", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2014808096", "rel": true, "st": "tech", "fb": ["if", "rf"], "tags": ["measure", "basestation", "model", "children"]}
+{"id": "W1608810135", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar", "phone"]}
+{"id": "W4393110711", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar", "wifi"]}
+{"id": "W2986779171", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2416007969", "rel": true, "st": "epi", "fb": [], "tags": []}
+{"id": "W2274017205", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2165264288", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W2413655911", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4205484939", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W100891220", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2491232738", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2133389966", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2615788137", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar", "wifi"]}
+{"id": "W3209047985", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W2384404339", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W760656397", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "basestation"]}
+{"id": "W1800062936", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "exposimetry", "occupational", "basestation"]}
+{"id": "W7160537094", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W4306946882", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2043329781", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4404122859", "rel": true, "st": "epi", "fb": ["static", "elf"], "tags": []}
+{"id": "W2098435956", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W2588487909", "rel": true, "st": "tech", "fb": ["static"], "tags": ["numerical", "sar"]}
+{"id": "W2581781253", "rel": true, "st": "tech", "fb": ["mmw"], "tags": ["numerical", "sar"]}
+{"id": "W2971487443", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2184923238", "rel": true, "st": "oth", "fb": ["elf", "mmw"], "tags": []}
+{"id": "W2023019846", "rel": true, "st": "exp", "fb": ["static", "elf", "rf"], "tags": ["nonhuman"]}
+{"id": "W2416371632", "rel": true, "st": "exp", "fb": ["mmw"], "tags": []}
+{"id": "W1487837615", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["occupational", "measure"]}
+{"id": "W7140170860", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2088373111", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["numerical"]}
+{"id": "W2322338491", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W1974331019", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3201983086", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1983239454", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2315618929", "rel": true, "st": "tech", "fb": ["static"], "tags": ["implant"]}
+{"id": "W4412536649", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3202553164", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2481590828", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4400496529", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4213064430", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W2568693932", "rel": true, "st": "rev", "fb": ["static", "elf"], "tags": []}
+{"id": "W3022040816", "rel": true, "st": "rev", "fb": ["elf", "rf"], "tags": ["phone", "elf_source"]}
+{"id": "W2407053668", "rel": true, "st": "tech", "fb": ["if"], "tags": ["measure", "occupational"]}
+{"id": "W2948209516", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["numerical", "measure", "elf_source"]}
+{"id": "W4246635324", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["implant", "occupational"]}
+{"id": "W7207558039", "rel": true, "st": "exp", "fb": ["static"], "tags": ["implant", "measure"]}
+{"id": "W2029571482", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2362128381", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W2416766408", "rel": true, "st": "rev", "fb": [], "tags": ["compliance"]}
+{"id": "W2418128760", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W2310130998", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["children"]}
+{"id": "W2077336661", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2004719154", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "numerical"]}
+{"id": "W2602703826", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4253692821", "rel": true, "st": "oth", "fb": ["static"], "tags": ["implant"]}
+{"id": "W7217213571", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["phone", "basestation"]}
+{"id": "W1941592624", "rel": true, "st": "rev", "fb": ["elf"], "tags": []}
+{"id": "W2511379148", "rel": true, "st": "oth", "fb": ["elf"], "tags": ["elf_source", "children"]}
+{"id": "W2069093443", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2793481616", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W4411629179", "rel": true, "st": "oth", "fb": ["static"], "tags": []}
+{"id": "W4250784195", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W7164837924", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2419096610", "rel": true, "st": "tech", "fb": [], "tags": ["numerical", "nonhuman"]}
+{"id": "W2238653099", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2517014601", "rel": true, "st": "rev", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2386067711", "rel": true, "st": "oth", "fb": ["elf"], "tags": ["elf_source"]}
+{"id": "W2017297293", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7171309083", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4393870616", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2340272113", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2132722828", "rel": true, "st": "epi", "fb": ["elf"], "tags": ["children", "measure"]}
+{"id": "W2369159671", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W3034115196", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2281820740", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure"]}
+{"id": "W2392622363", "rel": true, "st": "epi", "fb": [], "tags": ["occupational"]}
+{"id": "W2108308540", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W2139287085", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2920696040", "rel": true, "st": "oth", "fb": ["elf"], "tags": []}
+{"id": "W2475127689", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2419399052", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2889482262", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2435150145", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2966146692", "rel": true, "st": "rev", "fb": ["elf"], "tags": []}
+{"id": "W7105736767", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2902216176", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W1524307733", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W1884756320", "rel": true, "st": "rev", "fb": ["static"], "tags": []}
+{"id": "W2789859906", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2373892360", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7134951561", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2907906371", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1746260064", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3185792285", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2123541728", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman", "elf_source"]}
+{"id": "W7204274271", "rel": true, "st": "rev", "fb": ["mmw"], "tags": []}
+{"id": "W4283698099", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2013848813", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W131844358", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2995343327", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2376557346", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["numerical", "elf_source"]}
+{"id": "W2001587024", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7117489949", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7225908439", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2350039258", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W7160434602", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2080118632", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W4380880247", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2092442540", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W562850856", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2051591722", "rel": true, "st": "exp", "fb": ["static", "elf"], "tags": ["nonhuman"]}
+{"id": "W7225451490", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3087228691", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2075430599", "rel": true, "st": "oth", "fb": [], "tags": ["implant"]}
+{"id": "W4249008777", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar"]}
+{"id": "W1522686887", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["occupational", "basestation"]}
+{"id": "W4361276355", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["model", "basestation"]}
+{"id": "W3138517537", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2022920950", "rel": true, "st": "rev", "fb": ["elf"], "tags": ["children", "occupational", "elf_source"]}
+{"id": "W2761520048", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4301049177", "rel": true, "st": "epi", "fb": ["static", "elf"], "tags": []}
+{"id": "W2027349374", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2053150557", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar"]}
+{"id": "W2160564487", "rel": false, "st": "oth", "fb": ["rf"], "tags": []}
+{"id": "W7202339594", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W1966860056", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3106619639", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4309746461", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2165331556", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2103175528", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar", "phone"]}
+{"id": "W214621165", "rel": true, "st": "rev", "fb": ["rf"], "tags": []}
+{"id": "W1993231899", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2033414999", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W561406282", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2393658053", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "elf_source"]}
+{"id": "W2981440940", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W1591761674", "rel": true, "st": "tech", "fb": ["static"], "tags": ["exposimetry", "occupational"]}
+{"id": "W4410048780", "rel": true, "st": "tech", "fb": ["rf", "mmw"], "tags": ["sar", "phone"]}
+{"id": "W2010957302", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2369465621", "rel": true, "st": "exp", "fb": ["rf", "mmw"], "tags": []}
+{"id": "W7155386257", "rel": true, "st": "epi", "fb": ["elf"], "tags": ["occupational"]}
+{"id": "W3117419710", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W2003062427", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4316590684", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W2801848770", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W4312578515", "rel": true, "st": "tech", "fb": ["static"], "tags": ["measure", "elf_source"]}
+{"id": "W3108677505", "rel": true, "st": "oth", "fb": ["static"], "tags": []}
+{"id": "W3046571081", "rel": true, "st": "tech", "fb": ["if", "rf"], "tags": ["measure", "occupational"]}
+{"id": "W2059107078", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W3203968616", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2299039002", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["occupational"]}
+{"id": "W1999078903", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2892034385", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W7125478752", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4379057670", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "phone"]}
+{"id": "W141453907", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2137893857", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W4362660485", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W140961292", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W7124830602", "rel": true, "st": "tech", "fb": ["if"], "tags": ["numerical", "sar"]}
+{"id": "W4388463584", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["implant", "sar"]}
+{"id": "W2018894926", "rel": true, "st": "rev", "fb": ["elf"], "tags": ["elf_source"]}
+{"id": "W3001597660", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4401184827", "rel": false, "st": "exp", "fb": [], "tags": []}
+{"id": "W2222042908", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W4393297475", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2092164116", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2141885849", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["numerical", "occupational", "elf_source"]}
+{"id": "W2045601750", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2412054263", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman", "elf_source"]}
+{"id": "W2153574089", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["numerical"]}
+{"id": "W4408413955", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["5g"]}
+{"id": "W2089514662", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2135762307", "rel": true, "st": "tech", "fb": ["if", "rf"], "tags": ["nonhuman", "sar", "basestation"]}
+{"id": "W2744670216", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W2105364820", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2050067623", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "measure", "wifi"]}
+{"id": "W2155585638", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2993210797", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W3197532059", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1490891612", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2416354061", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W3131274684", "rel": true, "st": "rev", "fb": ["rf"], "tags": []}
+{"id": "W4280591487", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2548831081", "rel": true, "st": "tech", "fb": [], "tags": ["implant", "numerical"]}
+{"id": "W2060161817", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["numerical"]}
+{"id": "W4401409127", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1996465629", "rel": true, "st": "rev", "fb": ["elf"], "tags": ["children"]}
+{"id": "W2558448044", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4401624858", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2089452355", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2036616922", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W3093884717", "rel": true, "st": "tech", "fb": ["if"], "tags": ["numerical", "sar"]}
+{"id": "W375799955", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2001087086", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2061279674", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7215629756", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W2002884807", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W3187218156", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2433942210", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W83613146", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3131691624", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W2043890501", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["numerical", "nonhuman"]}
+{"id": "W3182468709", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure"]}
+{"id": "W1530654725", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "elf_source"]}
+{"id": "W1179080286", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2583369090", "rel": true, "st": "exp", "fb": ["mmw"], "tags": ["nonhuman"]}
+{"id": "W2776447216", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "numerical", "occupational", "compliance"]}
+{"id": "W2885492331", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W1994460866", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W777606121", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2072625940", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W2078545462", "rel": true, "st": "rev", "fb": ["rf", "mmw"], "tags": []}
+{"id": "W4256137430", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["elf_source", "model"]}
+{"id": "W3092488323", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4399888383", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W381968600", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "elf_source"]}
+{"id": "W2025626810", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["numerical"]}
+{"id": "W2955094754", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2443243179", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "basestation"]}
+{"id": "W4288335986", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["elf_source", "compliance"]}
+{"id": "W4404132867", "rel": true, "st": "tech", "fb": ["mmw"], "tags": ["numerical", "5g", "phone", "sar"]}
+{"id": "W4313280452", "rel": true, "st": "exp", "fb": ["mmw"], "tags": []}
+{"id": "W2972011323", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W4401559626", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["numerical"]}
+{"id": "W2932579789", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["exposimetry", "children", "model", "elf_source"]}
+{"id": "W4406628732", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2357413332", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W7123559521", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2137928982", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2946292433", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4303474544", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2519928471", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W4313413987", "rel": true, "st": "tech", "fb": ["elf", "if"], "tags": ["measure", "compliance", "wpt"]}
+{"id": "W7224145887", "rel": true, "st": "tech", "fb": ["if", "rf"], "tags": ["numerical", "sar"]}
+{"id": "W4221039988", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["elf_source"]}
+{"id": "W2044876085", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1970193250", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "elf_source"]}
+{"id": "W1536211233", "rel": true, "st": "rev", "fb": ["static", "elf"], "tags": ["measure", "elf_source"]}
+{"id": "W1987623709", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W4282976183", "rel": false, "st": "oth", "fb": ["static"], "tags": []}
+{"id": "W3211724841", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2329309054", "rel": true, "st": "tech", "fb": [], "tags": ["occupational"]}
+{"id": "W2014845340", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W2018178571", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W570774553", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["elf_source"]}
+{"id": "W642377952", "rel": true, "st": "tech", "fb": [], "tags": ["measure"]}
+{"id": "W7224105083", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["elf_source", "measure", "occupational"]}
+{"id": "W7163345281", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["implant", "sar", "numerical"]}
+{"id": "W2238645503", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2022870606", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2982051525", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1623531524", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2314006534", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["basestation", "compliance"]}
+{"id": "W2360567377", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W1846952509", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W4200589573", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W378247208", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W109546674", "rel": true, "st": "rev", "fb": ["rf"], "tags": []}
+{"id": "W2136215673", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3108565692", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2139051084", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1483301589", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2033271647", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W2333717644", "rel": true, "st": "epi", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W4413092610", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2981857193", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2145963848", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["basestation", "numerical", "sar", "occupational"]}
+{"id": "W2113961123", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar"]}
+{"id": "W4230661047", "rel": true, "st": "oth", "fb": ["elf"], "tags": []}
+{"id": "W158592310", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W7124403264", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["elf_source", "numerical"]}
+{"id": "W1607622119", "rel": true, "st": "tech", "fb": [], "tags": ["measure"]}
+{"id": "W3088820924", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2980961784", "rel": true, "st": "tech", "fb": ["mmw"], "tags": ["5g", "model", "sar", "lowexp"]}
+{"id": "W2432828791", "rel": true, "st": "rev", "fb": ["elf", "if"], "tags": []}
+{"id": "W2124542908", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "basestation", "compliance"]}
+{"id": "W4407934359", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2104200837", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W2072864064", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar", "compliance"]}
+{"id": "W2255033032", "rel": true, "st": "epi", "fb": ["rf"], "tags": ["basestation"]}
+{"id": "W1967691705", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["exposimetry", "occupational"]}
+{"id": "W4320496643", "rel": true, "st": "rev", "fb": ["rf"], "tags": []}
+{"id": "W2100353739", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1484458853", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar", "phone"]}
+{"id": "W2368124310", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W3184361048", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2324548957", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical"]}
+{"id": "W2315137795", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W1982660040", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2099329303", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2048475635", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2905109454", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "sar"]}
+{"id": "W4205211200", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W120403979", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W2032838743", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W4289443994", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4235293483", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "compliance", "implant"]}
+{"id": "W3092643385", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2138913248", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W2015858643", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W363381166", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2071520188", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2432040744", "rel": true, "st": "rev", "fb": ["static", "rf"], "tags": ["sar"]}
+{"id": "W4311457519", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W2376489070", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W2978432301", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W1985031288", "rel": true, "st": "tech", "fb": ["if"], "tags": []}
+{"id": "W2051791597", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W1528014110", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W7162352462", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "elf_source"]}
+{"id": "W560023093", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "phone"]}
+{"id": "W4253681479", "rel": false, "st": "exp", "fb": [], "tags": []}
+{"id": "W4405864147", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W2752706717", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4378472192", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W4306386515", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2558651524", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4361247706", "rel": true, "st": "tech", "fb": ["if", "rf"], "tags": ["compliance", "model"]}
+{"id": "W2410638832", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["sar", "nonhuman"]}
+{"id": "W2071690715", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3126021878", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W4387483206", "rel": true, "st": "tech", "fb": ["if"], "tags": ["numerical", "model"]}
+{"id": "W2015973031", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2342466272", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2513363024", "rel": true, "st": "exp", "fb": ["if"], "tags": []}
+{"id": "W3184161529", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W7172213309", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3093370320", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "elf_source"]}
+{"id": "W2997958834", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W7224524738", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W7212431865", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3200775094", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W4221100901", "rel": true, "st": "exp", "fb": ["mmw"], "tags": []}
+{"id": "W4280637290", "rel": true, "st": "tech", "fb": ["static"], "tags": ["phone", "implant"]}
+{"id": "W1992847215", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2466560837", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W4307264909", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "numerical", "sar", "implant"]}
+{"id": "W190218306", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "numerical"]}
+{"id": "W1964131106", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W3171779262", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2404272483", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W575190014", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2788923904", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2407036307", "rel": true, "st": "exp", "fb": ["elf", "if"], "tags": []}
+{"id": "W3111538891", "rel": true, "st": "oth", "fb": ["rf"], "tags": []}
+{"id": "W589851585", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W38129972", "rel": true, "st": "rev", "fb": ["elf"], "tags": ["elf_source", "children", "occupational"]}
+{"id": "W2041520680", "rel": true, "st": "oth", "fb": ["rf"], "tags": []}
+{"id": "W1998737070", "rel": true, "st": "exp", "fb": ["static", "elf", "rf"], "tags": []}
+{"id": "W2987701908", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2167671503", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W1457366640", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W2611762444", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure"]}
+{"id": "W2427078575", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W4404216792", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "numerical"]}
+{"id": "W3005045576", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W4200334066", "rel": true, "st": "tech", "fb": ["if"], "tags": ["implant", "numerical", "sar"]}
+{"id": "W2536080864", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2145623534", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman", "wifi", "children"]}
+{"id": "W2465274771", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W2797362347", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone", "children"]}
+{"id": "W2068296353", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2362381741", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2151803050", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W4313400212", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2326940590", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["wifi"]}
+{"id": "W2153459687", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W7207788899", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2783173904", "rel": true, "st": "exp", "fb": ["rf"], "tags": []}
+{"id": "W2896155723", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2254217495", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W1846553464", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W3196672982", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "compliance", "implant"]}
+{"id": "W2299461592", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2324831603", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman"]}
+{"id": "W3038038141", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W4250609883", "rel": true, "st": "rev", "fb": ["elf"], "tags": []}
+{"id": "W4385411115", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2766356454", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone", "wifi"]}
+{"id": "W2566353147", "rel": true, "st": "oth", "fb": [], "tags": ["numerical"]}
+{"id": "W2605679498", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W4405505922", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W73783824", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4214807263", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4410113862", "rel": true, "st": "tech", "fb": [], "tags": ["numerical"]}
+{"id": "W4391067378", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2993533955", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2541355319", "rel": true, "st": "tech", "fb": ["mmw"], "tags": ["numerical", "sar"]}
+{"id": "W2003546465", "rel": true, "st": "tech", "fb": ["static"], "tags": ["elf_source"]}
+{"id": "W2051620523", "rel": true, "st": "epi", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2557567520", "rel": true, "st": "rev", "fb": [], "tags": []}
+{"id": "W2143911869", "rel": true, "st": "oth", "fb": ["elf"], "tags": []}
+{"id": "W63827257", "rel": true, "st": "exp", "fb": ["mmw"], "tags": ["nonhuman"]}
+{"id": "W2354591816", "rel": true, "st": "rev", "fb": ["elf"], "tags": ["occupational", "compliance"]}
+{"id": "W4221111530", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman", "elf_source"]}
+{"id": "W4417177341", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2740699480", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2107472131", "rel": true, "st": "oth", "fb": ["elf"], "tags": []}
+{"id": "W2114915944", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "numerical", "elf_source", "occupational"]}
+{"id": "W3167913722", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["nonhuman", "sar"]}
+{"id": "W2314585659", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2799771132", "rel": true, "st": "exp", "fb": ["if", "rf"], "tags": []}
+{"id": "W2521160265", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone", "basestation", "children"]}
+{"id": "W4205259459", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["model", "compliance"]}
+{"id": "W2910559719", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2395428368", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone", "children"]}
+{"id": "W2591582674", "rel": true, "st": "rev", "fb": ["if", "rf", "mmw"], "tags": ["basestation", "compliance"]}
+{"id": "W7207120478", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W7162812257", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2255482270", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["measure", "compliance"]}
+{"id": "W4317356889", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2339764197", "rel": true, "st": "tech", "fb": ["elf", "if"], "tags": []}
+{"id": "W2754717046", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W3116906270", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W4313163577", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "phone"]}
+{"id": "W2886143015", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W7220633969", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W7223105307", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "implant", "numerical"]}
+{"id": "W1585910391", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2115414375", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W3165899592", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W4200518919", "rel": true, "st": "rev", "fb": ["mmw"], "tags": ["nonhuman"]}
+{"id": "W262358598", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W2770224544", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2027319976", "rel": true, "st": "tech", "fb": ["if"], "tags": ["numerical", "sar"]}
+{"id": "W7225312681", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W1929472891", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["implant", "elf_source"]}
+{"id": "W3143235825", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2797180878", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["numerical", "implant", "sar"]}
+{"id": "W944555175", "rel": true, "st": "epi", "fb": ["elf"], "tags": []}
+{"id": "W2059067979", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W2717548514", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W7204486947", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4245707670", "rel": true, "st": "exp", "fb": ["static"], "tags": ["nonhuman"]}
+{"id": "W2060780057", "rel": true, "st": "exp", "fb": ["mmw"], "tags": ["nonhuman", "sar"]}
+{"id": "W2132770782", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4235662158", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W1949540764", "rel": true, "st": "oth", "fb": [], "tags": []}
+{"id": "W4408026220", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4379791822", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2046445578", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["sar"]}
+{"id": "W2071870919", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W4280518202", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["sar", "phone"]}
+{"id": "W2596480873", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W2354316699", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W1581200019", "rel": true, "st": "rev", "fb": ["rf", "mmw"], "tags": []}
+{"id": "W2170373923", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["exposimetry", "phone", "basestation", "numerical", "sar", "model"]}
+{"id": "W2035261378", "rel": true, "st": "tech", "fb": ["rf"], "tags": ["phone", "model"]}
+{"id": "W2114968741", "rel": true, "st": "exp", "fb": ["elf"], "tags": ["nonhuman"]}
+{"id": "W2012096945", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2023039886", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W7140171618", "rel": true, "st": "tech", "fb": ["if"], "tags": ["numerical", "model"]}
+{"id": "W4290649364", "rel": false, "st": "tech", "fb": [], "tags": []}
+{"id": "W2914570325", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["measure"]}
+{"id": "W2075326053", "rel": true, "st": "exp", "fb": [], "tags": []}
+{"id": "W4390287267", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["wifi", "nonhuman"]}
+{"id": "W2324886513", "rel": true, "st": "rev", "fb": ["static", "rf"], "tags": ["sar", "implant"]}
+{"id": "W4285588576", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2084329101", "rel": true, "st": "rev", "fb": ["rf"], "tags": ["phone", "children"]}
+{"id": "W651198176", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W3127830285", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["wifi", "nonhuman"]}
+{"id": "W4410120910", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W187593829", "rel": true, "st": "exp", "fb": ["mmw"], "tags": ["nonhuman"]}
+{"id": "W367476255", "rel": true, "st": "exp", "fb": ["static"], "tags": []}
+{"id": "W1491509849", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W429039031", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2005222636", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W1993299753", "rel": true, "st": "exp", "fb": ["elf"], "tags": []}
+{"id": "W4415296783", "rel": true, "st": "exp", "fb": ["rf"], "tags": ["5g", "phone"]}
+{"id": "W2062316960", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2415503401", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone"]}
+{"id": "W2080835420", "rel": true, "st": "rev", "fb": ["elf"], "tags": []}
+{"id": "W2745986686", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W2378263335", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "elf_source"]}
+{"id": "W4381885097", "rel": false, "st": "oth", "fb": [], "tags": []}
+{"id": "W1977431024", "rel": true, "st": "exp", "fb": [], "tags": ["nonhuman"]}
+{"id": "W2100468597", "rel": true, "st": "tech", "fb": ["elf"], "tags": ["measure", "occupational", "elf_source"]}
+{"id": "W3028587594", "rel": true, "st": "oth", "fb": ["rf"], "tags": ["phone", "compliance"]}

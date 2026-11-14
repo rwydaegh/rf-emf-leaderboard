@@ -1,0 +1,314 @@
+[
+ {
+  "name": "Wolfgang Kainz",
+  "papers": 46,
+  "coauthors_in_top": 9,
+  "betweenness": 0.3122
+ },
+ {
+  "name": "Joe Wiart",
+  "papers": 55,
+  "coauthors_in_top": 22,
+  "betweenness": 0.2961
+ },
+ {
+  "name": "Wout Joseph",
+  "papers": 66,
+  "coauthors_in_top": 22,
+  "betweenness": 0.2921
+ },
+ {
+  "name": "Niels Kuster",
+  "papers": 39,
+  "coauthors_in_top": 4,
+  "betweenness": 0.181
+ },
+ {
+  "name": "Theodoros Samaras",
+  "papers": 28,
+  "coauthors_in_top": 5,
+  "betweenness": 0.1595
+ },
+ {
+  "name": "Maxim Zhadobov",
+  "papers": 29,
+  "coauthors_in_top": 6,
+  "betweenness": 0.1463
+ },
+ {
+  "name": "Kanako Wake",
+  "papers": 15,
+  "coauthors_in_top": 6,
+  "betweenness": 0.1244
+ },
+ {
+  "name": "Leonardo M. Angelone",
+  "papers": 20,
+  "coauthors_in_top": 4,
+  "betweenness": 0.1129
+ },
+ {
+  "name": "Davide Colombi",
+  "papers": 21,
+  "coauthors_in_top": 7,
+  "betweenness": 0.0758
+ },
+ {
+  "name": "Kensuke Sasaki",
+  "papers": 17,
+  "coauthors_in_top": 10,
+  "betweenness": 0.0738
+ },
+ {
+  "name": "Luc Martens",
+  "papers": 43,
+  "coauthors_in_top": 19,
+  "betweenness": 0.0696
+ },
+ {
+  "name": "Kenneth R. Foster",
+  "papers": 13,
+  "coauthors_in_top": 3,
+  "betweenness": 0.0361
+ },
+ {
+  "name": "Kun Li",
+  "papers": 20,
+  "coauthors_in_top": 8,
+  "betweenness": 0.0231
+ },
+ {
+  "name": "Soichi Watanabe",
+  "papers": 24,
+  "coauthors_in_top": 7,
+  "betweenness": 0.0213
+ },
+ {
+  "name": "Arno Thielens",
+  "papers": 41,
+  "coauthors_in_top": 13,
+  "betweenness": 0.02
+ },
+ {
+  "name": "Teruo Onishi",
+  "papers": 16,
+  "coauthors_in_top": 6,
+  "betweenness": 0.0191
+ },
+ {
+  "name": "Dragan Poljak",
+  "papers": 23,
+  "coauthors_in_top": 6,
+  "betweenness": 0.0186
+ },
+ {
+  "name": "Akimasa Hirata",
+  "papers": 38,
+  "coauthors_in_top": 9,
+  "betweenness": 0.0178
+ },
+ {
+  "name": "Sam Aerts",
+  "papers": 22,
+  "coauthors_in_top": 14,
+  "betweenness": 0.0169
+ },
+ {
+  "name": "Christer Törnevik",
+  "papers": 20,
+  "coauthors_in_top": 6,
+  "betweenness": 0.0161
+ },
+ {
+  "name": "Gabriella Tognola",
+  "papers": 21,
+  "coauthors_in_top": 13,
+  "betweenness": 0.0122
+ },
+ {
+  "name": "Marta Parazzini",
+  "papers": 27,
+  "coauthors_in_top": 12,
+  "betweenness": 0.0101
+ },
+ {
+  "name": "Leen Verloock",
+  "papers": 16,
+  "coauthors_in_top": 11,
+  "betweenness": 0.01
+ },
+ {
+  "name": "Elisabeth Cardis",
+  "papers": 15,
+  "coauthors_in_top": 11,
+  "betweenness": 0.0096
+ },
+ {
+  "name": "Marta Bonato",
+  "papers": 19,
+  "coauthors_in_top": 10,
+  "betweenness": 0.0074
+ },
+ {
+  "name": "Emma Chiaramello",
+  "papers": 18,
+  "coauthors_in_top": 10,
+  "betweenness": 0.0074
+ },
+ {
+  "name": "Serena Fiocchi",
+  "papers": 17,
+  "coauthors_in_top": 9,
+  "betweenness": 0.0066
+ },
+ {
+  "name": "Ilkka Laakso",
+  "papers": 13,
+  "coauthors_in_top": 4,
+  "betweenness": 0.0032
+ },
+ {
+  "name": "Martin Röösli",
+  "papers": 28,
+  "coauthors_in_top": 13,
+  "betweenness": 0.0031
+ },
+ {
+  "name": "Mònica Guxens",
+  "papers": 14,
+  "coauthors_in_top": 12,
+  "betweenness": 0.003
+ },
+ {
+  "name": "Silvia Gallucci",
+  "papers": 18,
+  "coauthors_in_top": 7,
+  "betweenness": 0.002
+ },
+ {
+  "name": "Yinliang Diao",
+  "papers": 23,
+  "coauthors_in_top": 6,
+  "betweenness": 0.0019
+ },
+ {
+  "name": "Hyung‐Do Choi",
+  "papers": 26,
+  "coauthors_in_top": 4,
+  "betweenness": 0.0015
+ },
+ {
+  "name": "Ae‐Kyoung Lee",
+  "papers": 21,
+  "coauthors_in_top": 4,
+  "betweenness": 0.0015
+ },
+ {
+  "name": "Sachiko Kodera",
+  "papers": 18,
+  "coauthors_in_top": 6,
+  "betweenness": 0.0004
+ },
+ {
+  "name": "Anke Huss",
+  "papers": 14,
+  "coauthors_in_top": 9,
+  "betweenness": 0.0001
+ },
+ {
+  "name": "Roel C.H. Vermeulen",
+  "papers": 15,
+  "coauthors_in_top": 9,
+  "betweenness": 0.0001
+ },
+ {
+  "name": "Marloes Eeftens",
+  "papers": 16,
+  "coauthors_in_top": 9,
+  "betweenness": 0.0001
+ },
+ {
+  "name": "Shanshan Wang",
+  "papers": 13,
+  "coauthors_in_top": 2,
+  "betweenness": 0.0
+ },
+ {
+  "name": "Yu Wang",
+  "papers": 13,
+  "coauthors_in_top": 5,
+  "betweenness": 0.0
+ },
+ {
+  "name": "Qingyan Wang",
+  "papers": 16,
+  "coauthors_in_top": 5,
+  "betweenness": 0.0
+ },
+ {
+  "name": "Laleh Golestanirad",
+  "papers": 21,
+  "coauthors_in_top": 3,
+  "betweenness": 0.0
+ },
+ {
+  "name": "Lawrence L. Wald",
+  "papers": 24,
+  "coauthors_in_top": 3,
+  "betweenness": 0.0
+ },
+ {
+  "name": "Esra Neufeld",
+  "papers": 16,
+  "coauthors_in_top": 3,
+  "betweenness": 0.0
+ },
+ {
+  "name": "Martina Benini",
+  "papers": 13,
+  "coauthors_in_top": 6,
+  "betweenness": 0.0
+ },
+ {
+  "name": "Giorgio Bonmassar",
+  "papers": 13,
+  "coauthors_in_top": 3,
+  "betweenness": 0.0
+ },
+ {
+  "name": "Günter Vermeeren",
+  "papers": 14,
+  "coauthors_in_top": 6,
+  "betweenness": 0.0
+ },
+ {
+  "name": "Tomoaki Nagaoka",
+  "papers": 13,
+  "coauthors_in_top": 2,
+  "betweenness": 0.0
+ },
+ {
+  "name": "Ran Guo",
+  "papers": 13,
+  "coauthors_in_top": 5,
+  "betweenness": 0.0
+ },
+ {
+  "name": "Jianfeng Zheng",
+  "papers": 34,
+  "coauthors_in_top": 5,
+  "betweenness": 0.0
+ },
+ {
+  "name": "Ji Chen",
+  "papers": 38,
+  "coauthors_in_top": 5,
+  "betweenness": 0.0
+ },
+ {
+  "name": "Bo Xu",
+  "papers": 21,
+  "coauthors_in_top": 2,
+  "betweenness": 0.0
+ }
+]

@@ -1,0 +1,31 @@
+rank,id,name,h_index
+1,I177477856,Politecnico di Torino,12
+2,I165143802,The University of Queensland,10
+3,I166825849,Tampere University,9
+4,I4387152565,Tampere University of Technology,8
+4,I212119943,University of Victoria,8
+4,I32597200,Ghent University,8
+7,I147962203,Democritus University of Thrace,7
+7,I197274945,Nagoya Institute of Technology,7
+7,I142263535,University of Nottingham,7
+7,I193662353,Utrecht University,7
+11,I90267481,Umeå University,6
+11,I223532165,University of Utah,6
+11,I108290504,University of Pisa,6
+11,I28407311,University of Manchester,6
+15,I5023651,McGill University,5
+15,I136199984,Harvard University,5
+15,I90183372,Université de Lorraine,5
+15,I114027177,University of North Carolina at Chapel Hill,5
+15,I112862951,University of Messina,5
+20,I170486558,Universitat Pompeu Fabra,4
+20,I166722992,University of Massachusetts Chan Medical School,4
+20,I3133134087,Lanzhou Jiaotong University,4
+20,I4387153886,University of Tampere,4
+20,I37461747,Wuhan University,4
+20,I124357947,University of London,4
+20,I153976015,University of Ljubljana,4
+20,I21370196,Aristotle University of Thessaloniki,4
+20,I181343428,University of Zagreb,4
+20,I193775966,Yonsei University,4
+20,I72951846,Washington State University,4

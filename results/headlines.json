@@ -1,0 +1,4922 @@
+[
+ {
+  "id": "rf_tech_10y",
+  "claim": "Most peer-reviewed technical/dosimetric RF-EMF studies, 2016-2025",
+  "entity_type": "author",
+  "variants": {
+   "peer-reviewed journals | papers": {
+    "n_works": 3005,
+    "rank": 1,
+    "value": 66.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 66.0,
+      "focal": true
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 55.0,
+      "focal": false
+     },
+     {
+      "name": "Wolfgang Kainz",
+      "value": 46.0,
+      "focal": false
+     },
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 45.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 43.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 41.0,
+      "focal": false
+     },
+     {
+      "name": "Niels Kuster",
+      "value": 39.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 38.0,
+      "focal": false
+     },
+     {
+      "name": "Ji Chen",
+      "value": 38.0,
+      "focal": false
+     },
+     {
+      "name": "Jianfeng Zheng",
+      "value": 34.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | lead_papers": {
+    "n_works": 3005,
+    "rank": 2,
+    "value": 40.0,
+    "top": [
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 44.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 40.0,
+      "focal": true
+     },
+     {
+      "name": "Niels Kuster",
+      "value": 36.0,
+      "focal": false
+     },
+     {
+      "name": "Ji Chen",
+      "value": 33.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 33.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 25.0,
+      "focal": false
+     },
+     {
+      "name": "Maxim Zhadobov",
+      "value": 21.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 18.0,
+      "focal": false
+     },
+     {
+      "name": "Laleh Golestanirad",
+      "value": 17.0,
+      "focal": false
+     },
+     {
+      "name": "Guo‐Ping Gao",
+      "value": 17.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | citations": {
+    "n_works": 3005,
+    "rank": 2,
+    "value": 1623.0,
+    "top": [
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 2443.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 1623.0,
+      "focal": true
+     },
+     {
+      "name": "Muhammad Zada",
+      "value": 1411.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 1179.0,
+      "focal": false
+     },
+     {
+      "name": "Abdul Basir",
+      "value": 1151.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 1101.0,
+      "focal": false
+     },
+     {
+      "name": "Davide Colombi",
+      "value": 1028.0,
+      "focal": false
+     },
+     {
+      "name": "Amjad Iqbal",
+      "value": 988.0,
+      "focal": false
+     },
+     {
+      "name": "Phadungsak Rattanadecho",
+      "value": 983.0,
+      "focal": false
+     },
+     {
+      "name": "Teerapot Wessapan",
+      "value": 964.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | h_index": {
+    "n_works": 3005,
+    "rank": 2,
+    "value": 26.0,
+    "top": [
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 30.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 26.0,
+      "focal": true
+     },
+     {
+      "name": "Luc Martens",
+      "value": 22.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 21.0,
+      "focal": false
+     },
+     {
+      "name": "Muhammad Zada",
+      "value": 20.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Abdul Basir",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Amjad Iqbal",
+      "value": 17.0,
+      "focal": false
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 17.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | papers": {
+    "n_works": 4228,
+    "rank": 1,
+    "value": 68.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 68.0,
+      "focal": true
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 58.0,
+      "focal": false
+     },
+     {
+      "name": "Wolfgang Kainz",
+      "value": 49.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 49.0,
+      "focal": false
+     },
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 47.0,
+      "focal": false
+     },
+     {
+      "name": "Niels Kuster",
+      "value": 44.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 44.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 42.0,
+      "focal": false
+     },
+     {
+      "name": "Ji Chen",
+      "value": 38.0,
+      "focal": false
+     },
+     {
+      "name": "Hyung‐Do Choi",
+      "value": 35.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | lead_papers": {
+    "n_works": 4228,
+    "rank": 2,
+    "value": 41.0,
+    "top": [
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 46.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 41.0,
+      "focal": true
+     },
+     {
+      "name": "Niels Kuster",
+      "value": 41.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 35.0,
+      "focal": false
+     },
+     {
+      "name": "Ji Chen",
+      "value": 33.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 30.0,
+      "focal": false
+     },
+     {
+      "name": "Maxim Zhadobov",
+      "value": 21.0,
+      "focal": false
+     },
+     {
+      "name": "Soichi Watanabe",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Vladimir I. Mordachev",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Hyung‐Do Choi",
+      "value": 18.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | citations": {
+    "n_works": 4228,
+    "rank": 2,
+    "value": 1623.0,
+    "top": [
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 2443.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 1623.0,
+      "focal": true
+     },
+     {
+      "name": "Muhammad Zada",
+      "value": 1411.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 1179.0,
+      "focal": false
+     },
+     {
+      "name": "Abdul Basir",
+      "value": 1151.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 1101.0,
+      "focal": false
+     },
+     {
+      "name": "Davide Colombi",
+      "value": 1028.0,
+      "focal": false
+     },
+     {
+      "name": "Amjad Iqbal",
+      "value": 988.0,
+      "focal": false
+     },
+     {
+      "name": "Phadungsak Rattanadecho",
+      "value": 983.0,
+      "focal": false
+     },
+     {
+      "name": "Teerapot Wessapan",
+      "value": 964.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | h_index": {
+    "n_works": 4228,
+    "rank": 2,
+    "value": 26.0,
+    "top": [
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 30.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 26.0,
+      "focal": true
+     },
+     {
+      "name": "Luc Martens",
+      "value": 22.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 21.0,
+      "focal": false
+     },
+     {
+      "name": "Muhammad Zada",
+      "value": 20.0,
+      "focal": false
+     },
+     {
+      "name": "Abdul Basir",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Laleh Golestanirad",
+      "value": 17.0,
+      "focal": false
+     },
+     {
+      "name": "Wolfgang Kainz",
+      "value": 17.0,
+      "focal": false
+     }
+    ]
+   }
+  },
+  "headline_rank": 1,
+  "robust_top1": 2,
+  "robust_top3": 8,
+  "n_variants": 8
+ },
+ {
+  "id": "all_tech_10y",
+  "claim": "Most peer-reviewed technical/dosimetric EMF studies (all frequencies), 2016-2025",
+  "entity_type": "author",
+  "variants": {
+   "peer-reviewed journals | papers": {
+    "n_works": 4266,
+    "rank": 1,
+    "value": 73.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 73.0,
+      "focal": true
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 72.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 57.0,
+      "focal": false
+     },
+     {
+      "name": "Wolfgang Kainz",
+      "value": 48.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 48.0,
+      "focal": false
+     },
+     {
+      "name": "Niels Kuster",
+      "value": 48.0,
+      "focal": false
+     },
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 46.0,
+      "focal": false
+     },
+     {
+      "name": "Marta Parazzini",
+      "value": 41.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 41.0,
+      "focal": false
+     },
+     {
+      "name": "Ilkka Laakso",
+      "value": 41.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | lead_papers": {
+    "n_works": 4266,
+    "rank": 3,
+    "value": 44.0,
+    "top": [
+     {
+      "name": "Akimasa Hirata",
+      "value": 53.0,
+      "focal": false
+     },
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 45.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 44.0,
+      "focal": true
+     },
+     {
+      "name": "Niels Kuster",
+      "value": 42.0,
+      "focal": false
+     },
+     {
+      "name": "Ji Chen",
+      "value": 34.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 33.0,
+      "focal": false
+     },
+     {
+      "name": "Mai Lu",
+      "value": 33.0,
+      "focal": false
+     },
+     {
+      "name": "Theodoros Samaras",
+      "value": 23.0,
+      "focal": false
+     },
+     {
+      "name": "Maxim Zhadobov",
+      "value": 21.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 18.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | citations": {
+    "n_works": 4266,
+    "rank": 2,
+    "value": 1716.0,
+    "top": [
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 2486.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 1716.0,
+      "focal": true
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 1660.0,
+      "focal": false
+     },
+     {
+      "name": "Muhammad Zada",
+      "value": 1411.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 1260.0,
+      "focal": false
+     },
+     {
+      "name": "Abdul Basir",
+      "value": 1151.0,
+      "focal": false
+     },
+     {
+      "name": "Davide Colombi",
+      "value": 1028.0,
+      "focal": false
+     },
+     {
+      "name": "Phadungsak Rattanadecho",
+      "value": 1010.0,
+      "focal": false
+     },
+     {
+      "name": "Teerapot Wessapan",
+      "value": 991.0,
+      "focal": false
+     },
+     {
+      "name": "Amjad Iqbal",
+      "value": 988.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | h_index": {
+    "n_works": 4266,
+    "rank": 2,
+    "value": 26.0,
+    "top": [
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 31.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 26.0,
+      "focal": true
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 25.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 22.0,
+      "focal": false
+     },
+     {
+      "name": "Ilkka Laakso",
+      "value": 20.0,
+      "focal": false
+     },
+     {
+      "name": "Muhammad Zada",
+      "value": 20.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Abdul Basir",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 18.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | papers": {
+    "n_works": 6519,
+    "rank": 2,
+    "value": 75.0,
+    "top": [
+     {
+      "name": "Akimasa Hirata",
+      "value": 101.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 75.0,
+      "focal": true
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 60.0,
+      "focal": false
+     },
+     {
+      "name": "Niels Kuster",
+      "value": 54.0,
+      "focal": false
+     },
+     {
+      "name": "Wolfgang Kainz",
+      "value": 51.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 49.0,
+      "focal": false
+     },
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 48.0,
+      "focal": false
+     },
+     {
+      "name": "Ilkka Laakso",
+      "value": 47.0,
+      "focal": false
+     },
+     {
+      "name": "Kanako Wake",
+      "value": 45.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 42.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | lead_papers": {
+    "n_works": 6519,
+    "rank": 4,
+    "value": 45.0,
+    "top": [
+     {
+      "name": "Akimasa Hirata",
+      "value": 72.0,
+      "focal": false
+     },
+     {
+      "name": "Niels Kuster",
+      "value": 48.0,
+      "focal": false
+     },
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 47.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 45.0,
+      "focal": true
+     },
+     {
+      "name": "Mai Lu",
+      "value": 35.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 35.0,
+      "focal": false
+     },
+     {
+      "name": "Borys I. Kuznetsov",
+      "value": 34.0,
+      "focal": false
+     },
+     {
+      "name": "Ji Chen",
+      "value": 34.0,
+      "focal": false
+     },
+     {
+      "name": "Theodoros Samaras",
+      "value": 24.0,
+      "focal": false
+     },
+     {
+      "name": "Dragan Poljak",
+      "value": 22.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | citations": {
+    "n_works": 6519,
+    "rank": 2,
+    "value": 1716.0,
+    "top": [
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 2486.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 1716.0,
+      "focal": true
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 1660.0,
+      "focal": false
+     },
+     {
+      "name": "Muhammad Zada",
+      "value": 1411.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 1260.0,
+      "focal": false
+     },
+     {
+      "name": "Abdul Basir",
+      "value": 1151.0,
+      "focal": false
+     },
+     {
+      "name": "Davide Colombi",
+      "value": 1028.0,
+      "focal": false
+     },
+     {
+      "name": "Phadungsak Rattanadecho",
+      "value": 1012.0,
+      "focal": false
+     },
+     {
+      "name": "Teerapot Wessapan",
+      "value": 991.0,
+      "focal": false
+     },
+     {
+      "name": "Amjad Iqbal",
+      "value": 988.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | h_index": {
+    "n_works": 6519,
+    "rank": 2,
+    "value": 26.0,
+    "top": [
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 31.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 26.0,
+      "focal": true
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 25.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 22.0,
+      "focal": false
+     },
+     {
+      "name": "Muhammad Zada",
+      "value": 20.0,
+      "focal": false
+     },
+     {
+      "name": "Ilkka Laakso",
+      "value": 20.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Abdul Basir",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 18.0,
+      "focal": false
+     }
+    ]
+   }
+  },
+  "headline_rank": 1,
+  "robust_top1": 1,
+  "robust_top3": 7,
+  "n_variants": 8
+ },
+ {
+  "id": "rf_tech_all",
+  "claim": "Most peer-reviewed technical/dosimetric RF-EMF studies, all time",
+  "entity_type": "author",
+  "variants": {
+   "peer-reviewed journals | papers": {
+    "n_works": 6492,
+    "rank": 1,
+    "value": 141.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 141.0,
+      "focal": true
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 125.0,
+      "focal": false
+     },
+     {
+      "name": "Niels Kuster",
+      "value": 124.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 116.0,
+      "focal": false
+     },
+     {
+      "name": "Soichi Watanabe",
+      "value": 90.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 90.0,
+      "focal": false
+     },
+     {
+      "name": "Wolfgang Kainz",
+      "value": 71.0,
+      "focal": false
+     },
+     {
+      "name": "O.P. Gandhi",
+      "value": 66.0,
+      "focal": false
+     },
+     {
+      "name": "Theodoros Samaras",
+      "value": 63.0,
+      "focal": false
+     },
+     {
+      "name": "Günter Vermeeren",
+      "value": 60.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | lead_papers": {
+    "n_works": 6492,
+    "rank": 2,
+    "value": 78.0,
+    "top": [
+     {
+      "name": "Niels Kuster",
+      "value": 108.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 78.0,
+      "focal": true
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 71.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 66.0,
+      "focal": false
+     },
+     {
+      "name": "O.P. Gandhi",
+      "value": 56.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 50.0,
+      "focal": false
+     },
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 47.0,
+      "focal": false
+     },
+     {
+      "name": "Ji Chen",
+      "value": 41.0,
+      "focal": false
+     },
+     {
+      "name": "Soichi Watanabe",
+      "value": 41.0,
+      "focal": false
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 32.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | citations": {
+    "n_works": 6492,
+    "rank": 3,
+    "value": 4253.0,
+    "top": [
+     {
+      "name": "Niels Kuster",
+      "value": 7551.0,
+      "focal": false
+     },
+     {
+      "name": "Wolfgang Kainz",
+      "value": 4302.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 4253.0,
+      "focal": true
+     },
+     {
+      "name": "Luc Martens",
+      "value": 3971.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 3790.0,
+      "focal": false
+     },
+     {
+      "name": "O.P. Gandhi",
+      "value": 3558.0,
+      "focal": false
+     },
+     {
+      "name": "Andreas Christ",
+      "value": 3456.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 3201.0,
+      "focal": false
+     },
+     {
+      "name": "Soichi Watanabe",
+      "value": 3115.0,
+      "focal": false
+     },
+     {
+      "name": "Esra Neufeld",
+      "value": 2962.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | h_index": {
+    "n_works": 6492,
+    "rank": 2,
+    "value": 38.0,
+    "top": [
+     {
+      "name": "Niels Kuster",
+      "value": 44.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 38.0,
+      "focal": true
+     },
+     {
+      "name": "Luc Martens",
+      "value": 37.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 35.0,
+      "focal": false
+     },
+     {
+      "name": "O.P. Gandhi",
+      "value": 34.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 31.0,
+      "focal": false
+     },
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 30.0,
+      "focal": false
+     },
+     {
+      "name": "Soichi Watanabe",
+      "value": 28.0,
+      "focal": false
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 27.0,
+      "focal": false
+     },
+     {
+      "name": "Wolfgang Kainz",
+      "value": 27.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | papers": {
+    "n_works": 10267,
+    "rank": 5,
+    "value": 144.0,
+    "top": [
+     {
+      "name": "Soichi Watanabe",
+      "value": 317.0,
+      "focal": false
+     },
+     {
+      "name": "Osamu Fujiwara",
+      "value": 254.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 223.0,
+      "focal": false
+     },
+     {
+      "name": "Jianqing Wang",
+      "value": 154.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 144.0,
+      "focal": true
+     },
+     {
+      "name": "Niels Kuster",
+      "value": 141.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 136.0,
+      "focal": false
+     },
+     {
+      "name": "Kanako Wake",
+      "value": 135.0,
+      "focal": false
+     },
+     {
+      "name": "Tomoaki Nagaoka",
+      "value": 135.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 123.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | lead_papers": {
+    "n_works": 10267,
+    "rank": 6,
+    "value": 80.0,
+    "top": [
+     {
+      "name": "Osamu Fujiwara",
+      "value": 142.0,
+      "focal": false
+     },
+     {
+      "name": "Soichi Watanabe",
+      "value": 139.0,
+      "focal": false
+     },
+     {
+      "name": "Niels Kuster",
+      "value": 123.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 122.0,
+      "focal": false
+     },
+     {
+      "name": "Koichi Ito",
+      "value": 89.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 80.0,
+      "focal": true
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 78.0,
+      "focal": false
+     },
+     {
+      "name": "O.P. Gandhi",
+      "value": 66.0,
+      "focal": false
+     },
+     {
+      "name": "Jianqing Wang",
+      "value": 63.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 55.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | citations": {
+    "n_works": 10267,
+    "rank": 3,
+    "value": 4254.0,
+    "top": [
+     {
+      "name": "Niels Kuster",
+      "value": 7749.0,
+      "focal": false
+     },
+     {
+      "name": "Wolfgang Kainz",
+      "value": 4303.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 4254.0,
+      "focal": true
+     },
+     {
+      "name": "Luc Martens",
+      "value": 4010.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 3802.0,
+      "focal": false
+     },
+     {
+      "name": "O.P. Gandhi",
+      "value": 3754.0,
+      "focal": false
+     },
+     {
+      "name": "Andreas Christ",
+      "value": 3632.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 3256.0,
+      "focal": false
+     },
+     {
+      "name": "Soichi Watanabe",
+      "value": 3192.0,
+      "focal": false
+     },
+     {
+      "name": "Esra Neufeld",
+      "value": 2963.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | h_index": {
+    "n_works": 10267,
+    "rank": 2,
+    "value": 38.0,
+    "top": [
+     {
+      "name": "Niels Kuster",
+      "value": 45.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 38.0,
+      "focal": true
+     },
+     {
+      "name": "Luc Martens",
+      "value": 37.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 35.0,
+      "focal": false
+     },
+     {
+      "name": "O.P. Gandhi",
+      "value": 34.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 31.0,
+      "focal": false
+     },
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 30.0,
+      "focal": false
+     },
+     {
+      "name": "Soichi Watanabe",
+      "value": 28.0,
+      "focal": false
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 27.0,
+      "focal": false
+     },
+     {
+      "name": "Wolfgang Kainz",
+      "value": 27.0,
+      "focal": false
+     }
+    ]
+   }
+  },
+  "headline_rank": 1,
+  "robust_top1": 1,
+  "robust_top3": 6,
+  "n_variants": 8
+ },
+ {
+  "id": "rf_any_10y",
+  "claim": "Most peer-reviewed RF-EMF studies of any type (incl. biology, epidemiology), 2016-2025",
+  "entity_type": "author",
+  "variants": {
+   "peer-reviewed journals | papers": {
+    "n_works": 5927,
+    "rank": 1,
+    "value": 73.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 73.0,
+      "focal": true
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 67.0,
+      "focal": false
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 54.0,
+      "focal": false
+     },
+     {
+      "name": "Seyed Mohammad Javad Mortazavi",
+      "value": 51.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 50.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 48.0,
+      "focal": false
+     },
+     {
+      "name": "Hyung‐Do Choi",
+      "value": 47.0,
+      "focal": false
+     },
+     {
+      "name": "Wolfgang Kainz",
+      "value": 47.0,
+      "focal": false
+     },
+     {
+      "name": "Niels Kuster",
+      "value": 46.0,
+      "focal": false
+     },
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 45.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | lead_papers": {
+    "n_works": 5927,
+    "rank": 3,
+    "value": 40.0,
+    "top": [
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 44.0,
+      "focal": false
+     },
+     {
+      "name": "James Chi-Jen Lin",
+      "value": 42.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 40.0,
+      "focal": true
+     },
+     {
+      "name": "Niels Kuster",
+      "value": 37.0,
+      "focal": false
+     },
+     {
+      "name": "Lennart Hardell",
+      "value": 35.0,
+      "focal": false
+     },
+     {
+      "name": "Ji Chen",
+      "value": 34.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 34.0,
+      "focal": false
+     },
+     {
+      "name": "Ruiyun Peng",
+      "value": 33.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 30.0,
+      "focal": false
+     },
+     {
+      "name": "Seyed Mohammad Javad Mortazavi",
+      "value": 30.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | citations": {
+    "n_works": 5927,
+    "rank": 3,
+    "value": 1990.0,
+    "top": [
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 2443.0,
+      "focal": false
+     },
+     {
+      "name": "International Commission on Non-Ionizing Radiation Protection",
+      "value": 2291.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 1990.0,
+      "focal": true
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 1907.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 1675.0,
+      "focal": false
+     },
+     {
+      "name": "Lennart Hardell",
+      "value": 1444.0,
+      "focal": false
+     },
+     {
+      "name": "Muhammad Zada",
+      "value": 1411.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 1324.0,
+      "focal": false
+     },
+     {
+      "name": "Roel C.H. Vermeulen",
+      "value": 1236.0,
+      "focal": false
+     },
+     {
+      "name": "Chao Chang",
+      "value": 1233.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | h_index": {
+    "n_works": 5927,
+    "rank": 2,
+    "value": 27.0,
+    "top": [
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 30.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 27.0,
+      "focal": true
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 27.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 23.0,
+      "focal": false
+     },
+     {
+      "name": "Roel C.H. Vermeulen",
+      "value": 23.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 23.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 22.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 21.0,
+      "focal": false
+     },
+     {
+      "name": "Muhammad Zada",
+      "value": 20.0,
+      "focal": false
+     },
+     {
+      "name": "Lennart Hardell",
+      "value": 20.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | papers": {
+    "n_works": 9631,
+    "rank": 1,
+    "value": 76.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 76.0,
+      "focal": true
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 70.0,
+      "focal": false
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 62.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 60.0,
+      "focal": false
+     },
+     {
+      "name": "Hyung‐Do Choi",
+      "value": 60.0,
+      "focal": false
+     },
+     {
+      "name": "Seyed Mohammad Javad Mortazavi",
+      "value": 56.0,
+      "focal": false
+     },
+     {
+      "name": "Niels Kuster",
+      "value": 52.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 51.0,
+      "focal": false
+     },
+     {
+      "name": "Wolfgang Kainz",
+      "value": 50.0,
+      "focal": false
+     },
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 47.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | lead_papers": {
+    "n_works": 9631,
+    "rank": 2,
+    "value": 42.0,
+    "top": [
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 46.0,
+      "focal": false
+     },
+     {
+      "name": "Niels Kuster",
+      "value": 42.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 42.0,
+      "focal": true
+     },
+     {
+      "name": "James Chi-Jen Lin",
+      "value": 42.0,
+      "focal": false
+     },
+     {
+      "name": "Lennart Hardell",
+      "value": 38.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 36.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 36.0,
+      "focal": false
+     },
+     {
+      "name": "Seyed Mohammad Javad Mortazavi",
+      "value": 35.0,
+      "focal": false
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 35.0,
+      "focal": false
+     },
+     {
+      "name": "Ji Chen",
+      "value": 34.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | citations": {
+    "n_works": 9631,
+    "rank": 3,
+    "value": 1990.0,
+    "top": [
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 2443.0,
+      "focal": false
+     },
+     {
+      "name": "International Commission on Non-Ionizing Radiation Protection",
+      "value": 2291.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 1990.0,
+      "focal": true
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 1917.0,
+      "focal": false
+     },
+     {
+      "name": "Lennart Hardell",
+      "value": 1713.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 1675.0,
+      "focal": false
+     },
+     {
+      "name": "Muhammad Zada",
+      "value": 1411.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 1324.0,
+      "focal": false
+     },
+     {
+      "name": "Roel C.H. Vermeulen",
+      "value": 1236.0,
+      "focal": false
+     },
+     {
+      "name": "Chao Chang",
+      "value": 1233.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | h_index": {
+    "n_works": 9631,
+    "rank": 2,
+    "value": 27.0,
+    "top": [
+     {
+      "name": "Hyoungsuk Yoo",
+      "value": 30.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 27.0,
+      "focal": true
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 27.0,
+      "focal": false
+     },
+     {
+      "name": "Roel C.H. Vermeulen",
+      "value": 23.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 23.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 23.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 22.0,
+      "focal": false
+     },
+     {
+      "name": "Lennart Hardell",
+      "value": 22.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 21.0,
+      "focal": false
+     },
+     {
+      "name": "Muhammad Zada",
+      "value": 20.0,
+      "focal": false
+     }
+    ]
+   }
+  },
+  "headline_rank": 1,
+  "robust_top1": 2,
+  "robust_top3": 8,
+  "n_variants": 8
+ },
+ {
+  "id": "measure_10y",
+  "claim": "Most peer-reviewed RF-EMF field-measurement studies, 2016-2025",
+  "entity_type": "author",
+  "variants": {
+   "peer-reviewed journals | papers": {
+    "n_works": 624,
+    "rank": 1,
+    "value": 43.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 43.0,
+      "focal": true
+     },
+     {
+      "name": "Luc Martens",
+      "value": 28.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 25.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 23.0,
+      "focal": false
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 22.0,
+      "focal": false
+     },
+     {
+      "name": "Sam Aerts",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Leen Verloock",
+      "value": 15.0,
+      "focal": false
+     },
+     {
+      "name": "Theodoros Samaras",
+      "value": 15.0,
+      "focal": false
+     },
+     {
+      "name": "Settimio Pavoncello",
+      "value": 14.0,
+      "focal": false
+     },
+     {
+      "name": "Yiannis Kiouvrekis",
+      "value": 13.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | lead_papers": {
+    "n_works": 624,
+    "rank": 1,
+    "value": 29.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 29.0,
+      "focal": true
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 14.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 9.0,
+      "focal": false
+     },
+     {
+      "name": "Sam Aerts",
+      "value": 9.0,
+      "focal": false
+     },
+     {
+      "name": "Çetin Kurnaz",
+      "value": 9.0,
+      "focal": false
+     },
+     {
+      "name": "Lennart Hardell",
+      "value": 9.0,
+      "focal": false
+     },
+     {
+      "name": "Snezana Djuric",
+      "value": 9.0,
+      "focal": false
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 9.0,
+      "focal": false
+     },
+     {
+      "name": "Theodoros Samaras",
+      "value": 9.0,
+      "focal": false
+     },
+     {
+      "name": "Enrique Arribas Garde",
+      "value": 8.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | citations": {
+    "n_works": 624,
+    "rank": 1,
+    "value": 1021.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 1021.0,
+      "focal": true
+     },
+     {
+      "name": "Luc Martens",
+      "value": 782.0,
+      "focal": false
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 640.0,
+      "focal": false
+     },
+     {
+      "name": "Sam Aerts",
+      "value": 593.0,
+      "focal": false
+     },
+     {
+      "name": "Davide Colombi",
+      "value": 542.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 530.0,
+      "focal": false
+     },
+     {
+      "name": "Christer Törnevik",
+      "value": 466.0,
+      "focal": false
+     },
+     {
+      "name": "Leen Verloock",
+      "value": 454.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 420.0,
+      "focal": false
+     },
+     {
+      "name": "Matthias Van den Bossche",
+      "value": 373.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | h_index": {
+    "n_works": 624,
+    "rank": 1,
+    "value": 20.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 20.0,
+      "focal": true
+     },
+     {
+      "name": "Luc Martens",
+      "value": 16.0,
+      "focal": false
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 16.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 14.0,
+      "focal": false
+     },
+     {
+      "name": "Sam Aerts",
+      "value": 13.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 12.0,
+      "focal": false
+     },
+     {
+      "name": "Leen Verloock",
+      "value": 10.0,
+      "focal": false
+     },
+     {
+      "name": "Davide Colombi",
+      "value": 9.0,
+      "focal": false
+     },
+     {
+      "name": "Theodoros Samaras",
+      "value": 9.0,
+      "focal": false
+     },
+     {
+      "name": "Mònica Guxens",
+      "value": 9.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | papers": {
+    "n_works": 1150,
+    "rank": 1,
+    "value": 44.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 44.0,
+      "focal": true
+     },
+     {
+      "name": "Luc Martens",
+      "value": 29.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 25.0,
+      "focal": false
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 23.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 23.0,
+      "focal": false
+     },
+     {
+      "name": "Sam Aerts",
+      "value": 20.0,
+      "focal": false
+     },
+     {
+      "name": "Çetin Kurnaz",
+      "value": 17.0,
+      "focal": false
+     },
+     {
+      "name": "Leen Verloock",
+      "value": 16.0,
+      "focal": false
+     },
+     {
+      "name": "Theodoros Samaras",
+      "value": 15.0,
+      "focal": false
+     },
+     {
+      "name": "Settimio Pavoncello",
+      "value": 14.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | lead_papers": {
+    "n_works": 1150,
+    "rank": 1,
+    "value": 30.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 30.0,
+      "focal": true
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 14.0,
+      "focal": false
+     },
+     {
+      "name": "Çetin Kurnaz",
+      "value": 13.0,
+      "focal": false
+     },
+     {
+      "name": "Enrique Arribas Garde",
+      "value": 12.0,
+      "focal": false
+     },
+     {
+      "name": "Raquel Ramírez-Vázquez",
+      "value": 11.0,
+      "focal": false
+     },
+     {
+      "name": "Lennart Hardell",
+      "value": 10.0,
+      "focal": false
+     },
+     {
+      "name": "Snezana Djuric",
+      "value": 10.0,
+      "focal": false
+     },
+     {
+      "name": "Sam Aerts",
+      "value": 10.0,
+      "focal": false
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 10.0,
+      "focal": false
+     },
+     {
+      "name": "Theodoros Samaras",
+      "value": 9.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | citations": {
+    "n_works": 1150,
+    "rank": 1,
+    "value": 1021.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 1021.0,
+      "focal": true
+     },
+     {
+      "name": "Luc Martens",
+      "value": 782.0,
+      "focal": false
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 641.0,
+      "focal": false
+     },
+     {
+      "name": "Sam Aerts",
+      "value": 593.0,
+      "focal": false
+     },
+     {
+      "name": "Davide Colombi",
+      "value": 542.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 530.0,
+      "focal": false
+     },
+     {
+      "name": "Christer Törnevik",
+      "value": 466.0,
+      "focal": false
+     },
+     {
+      "name": "Leen Verloock",
+      "value": 454.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 420.0,
+      "focal": false
+     },
+     {
+      "name": "Matthias Van den Bossche",
+      "value": 373.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | h_index": {
+    "n_works": 1150,
+    "rank": 1,
+    "value": 20.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 20.0,
+      "focal": true
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 16.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 16.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 14.0,
+      "focal": false
+     },
+     {
+      "name": "Sam Aerts",
+      "value": 13.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 12.0,
+      "focal": false
+     },
+     {
+      "name": "Leen Verloock",
+      "value": 10.0,
+      "focal": false
+     },
+     {
+      "name": "Roel C.H. Vermeulen",
+      "value": 9.0,
+      "focal": false
+     },
+     {
+      "name": "Mònica Guxens",
+      "value": 9.0,
+      "focal": false
+     },
+     {
+      "name": "Theodoros Samaras",
+      "value": 9.0,
+      "focal": false
+     }
+    ]
+   }
+  },
+  "headline_rank": 1,
+  "robust_top1": 8,
+  "robust_top3": 8,
+  "n_variants": 8
+ },
+ {
+  "id": "5g_10y",
+  "claim": "Most peer-reviewed 5G/6G exposure studies, 2016-2025",
+  "entity_type": "author",
+  "variants": {
+   "peer-reviewed journals | papers": {
+    "n_works": 494,
+    "rank": 1,
+    "value": 34.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 34.0,
+      "focal": true
+     },
+     {
+      "name": "Maxim Zhadobov",
+      "value": 20.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 20.0,
+      "focal": false
+     },
+     {
+      "name": "Davide Colombi",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Bo Xu",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Christer Törnevik",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Settimio Pavoncello",
+      "value": 17.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 17.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 17.0,
+      "focal": false
+     },
+     {
+      "name": "Luca Chiaraviglio",
+      "value": 15.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | lead_papers": {
+    "n_works": 494,
+    "rank": 1,
+    "value": 23.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 23.0,
+      "focal": true
+     },
+     {
+      "name": "Maxim Zhadobov",
+      "value": 16.0,
+      "focal": false
+     },
+     {
+      "name": "Christer Törnevik",
+      "value": 14.0,
+      "focal": false
+     },
+     {
+      "name": "Mohamed‐Slim Alouini",
+      "value": 12.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 12.0,
+      "focal": false
+     },
+     {
+      "name": "Niels Kuster",
+      "value": 12.0,
+      "focal": false
+     },
+     {
+      "name": "Luca Chiaraviglio",
+      "value": 11.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 9.0,
+      "focal": false
+     },
+     {
+      "name": "Marta Parazzini",
+      "value": 8.0,
+      "focal": false
+     },
+     {
+      "name": "Sara Adda",
+      "value": 7.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | citations": {
+    "n_works": 494,
+    "rank": 3,
+    "value": 839.0,
+    "top": [
+     {
+      "name": "Davide Colombi",
+      "value": 954.0,
+      "focal": false
+     },
+     {
+      "name": "Christer Törnevik",
+      "value": 856.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 839.0,
+      "focal": true
+     },
+     {
+      "name": "Luc Martens",
+      "value": 630.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 586.0,
+      "focal": false
+     },
+     {
+      "name": "Bjorn Thors",
+      "value": 449.0,
+      "focal": false
+     },
+     {
+      "name": "Bo Xu",
+      "value": 442.0,
+      "focal": false
+     },
+     {
+      "name": "Sam Aerts",
+      "value": 439.0,
+      "focal": false
+     },
+     {
+      "name": "Luca Chiaraviglio",
+      "value": 406.0,
+      "focal": false
+     },
+     {
+      "name": "Kenneth R. Foster",
+      "value": 391.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | h_index": {
+    "n_works": 494,
+    "rank": 1,
+    "value": 17.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 17.0,
+      "focal": true
+     },
+     {
+      "name": "Davide Colombi",
+      "value": 14.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 13.0,
+      "focal": false
+     },
+     {
+      "name": "Luca Chiaraviglio",
+      "value": 12.0,
+      "focal": false
+     },
+     {
+      "name": "Bo Xu",
+      "value": 12.0,
+      "focal": false
+     },
+     {
+      "name": "Christer Törnevik",
+      "value": 12.0,
+      "focal": false
+     },
+     {
+      "name": "Niels Kuster",
+      "value": 12.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 12.0,
+      "focal": false
+     },
+     {
+      "name": "Maxim Zhadobov",
+      "value": 11.0,
+      "focal": false
+     },
+     {
+      "name": "Tommaso Aureli",
+      "value": 10.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | papers": {
+    "n_works": 604,
+    "rank": 1,
+    "value": 34.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 34.0,
+      "focal": true
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 20.0,
+      "focal": false
+     },
+     {
+      "name": "Maxim Zhadobov",
+      "value": 20.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 20.0,
+      "focal": false
+     },
+     {
+      "name": "Bo Xu",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Davide Colombi",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Christer Törnevik",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Settimio Pavoncello",
+      "value": 17.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 17.0,
+      "focal": false
+     },
+     {
+      "name": "Luca Chiaraviglio",
+      "value": 15.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | lead_papers": {
+    "n_works": 604,
+    "rank": 1,
+    "value": 23.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 23.0,
+      "focal": true
+     },
+     {
+      "name": "Maxim Zhadobov",
+      "value": 16.0,
+      "focal": false
+     },
+     {
+      "name": "Christer Törnevik",
+      "value": 14.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 13.0,
+      "focal": false
+     },
+     {
+      "name": "Niels Kuster",
+      "value": 12.0,
+      "focal": false
+     },
+     {
+      "name": "Mohamed‐Slim Alouini",
+      "value": 12.0,
+      "focal": false
+     },
+     {
+      "name": "Luca Chiaraviglio",
+      "value": 11.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 9.0,
+      "focal": false
+     },
+     {
+      "name": "Hyung‐Do Choi",
+      "value": 8.0,
+      "focal": false
+     },
+     {
+      "name": "Marta Parazzini",
+      "value": 8.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | citations": {
+    "n_works": 604,
+    "rank": 3,
+    "value": 839.0,
+    "top": [
+     {
+      "name": "Davide Colombi",
+      "value": 954.0,
+      "focal": false
+     },
+     {
+      "name": "Christer Törnevik",
+      "value": 856.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 839.0,
+      "focal": true
+     },
+     {
+      "name": "Luc Martens",
+      "value": 630.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 586.0,
+      "focal": false
+     },
+     {
+      "name": "Bjorn Thors",
+      "value": 449.0,
+      "focal": false
+     },
+     {
+      "name": "Bo Xu",
+      "value": 442.0,
+      "focal": false
+     },
+     {
+      "name": "Sam Aerts",
+      "value": 439.0,
+      "focal": false
+     },
+     {
+      "name": "Luca Chiaraviglio",
+      "value": 406.0,
+      "focal": false
+     },
+     {
+      "name": "Kenneth R. Foster",
+      "value": 391.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | h_index": {
+    "n_works": 604,
+    "rank": 1,
+    "value": 17.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 17.0,
+      "focal": true
+     },
+     {
+      "name": "Davide Colombi",
+      "value": 14.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 13.0,
+      "focal": false
+     },
+     {
+      "name": "Niels Kuster",
+      "value": 12.0,
+      "focal": false
+     },
+     {
+      "name": "Bo Xu",
+      "value": 12.0,
+      "focal": false
+     },
+     {
+      "name": "Christer Törnevik",
+      "value": 12.0,
+      "focal": false
+     },
+     {
+      "name": "Luca Chiaraviglio",
+      "value": 12.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 12.0,
+      "focal": false
+     },
+     {
+      "name": "Maxim Zhadobov",
+      "value": 11.0,
+      "focal": false
+     },
+     {
+      "name": "Settimio Pavoncello",
+      "value": 10.0,
+      "focal": false
+     }
+    ]
+   }
+  },
+  "headline_rank": 1,
+  "robust_top1": 6,
+  "robust_top3": 8,
+  "n_variants": 8
+ },
+ {
+  "id": "bs_10y",
+  "claim": "Most peer-reviewed base-station / network exposure studies, 2016-2025",
+  "entity_type": "author",
+  "variants": {
+   "peer-reviewed journals | papers": {
+    "n_works": 477,
+    "rank": 1,
+    "value": 37.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 37.0,
+      "focal": true
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 31.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 21.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Luca Chiaraviglio",
+      "value": 17.0,
+      "focal": false
+     },
+     {
+      "name": "Sam Aerts",
+      "value": 17.0,
+      "focal": false
+     },
+     {
+      "name": "Christer Törnevik",
+      "value": 17.0,
+      "focal": false
+     },
+     {
+      "name": "Settimio Pavoncello",
+      "value": 16.0,
+      "focal": false
+     },
+     {
+      "name": "Davide Colombi",
+      "value": 13.0,
+      "focal": false
+     },
+     {
+      "name": "Nicola Pasquino",
+      "value": 13.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | lead_papers": {
+    "n_works": 477,
+    "rank": 1,
+    "value": 20.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 20.0,
+      "focal": true
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Luca Chiaraviglio",
+      "value": 13.0,
+      "focal": false
+     },
+     {
+      "name": "Christer Törnevik",
+      "value": 13.0,
+      "focal": false
+     },
+     {
+      "name": "Mohamed‐Slim Alouini",
+      "value": 10.0,
+      "focal": false
+     },
+     {
+      "name": "Snezana Djuric",
+      "value": 9.0,
+      "focal": false
+     },
+     {
+      "name": "Çetin Kurnaz",
+      "value": 9.0,
+      "focal": false
+     },
+     {
+      "name": "Sara Adda",
+      "value": 8.0,
+      "focal": false
+     },
+     {
+      "name": "Lennart Hardell",
+      "value": 8.0,
+      "focal": false
+     },
+     {
+      "name": "Theodoros Samaras",
+      "value": 8.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | citations": {
+    "n_works": 477,
+    "rank": 1,
+    "value": 997.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 997.0,
+      "focal": true
+     },
+     {
+      "name": "Christer Törnevik",
+      "value": 736.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 699.0,
+      "focal": false
+     },
+     {
+      "name": "Davide Colombi",
+      "value": 665.0,
+      "focal": false
+     },
+     {
+      "name": "Sam Aerts",
+      "value": 556.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 518.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 493.0,
+      "focal": false
+     },
+     {
+      "name": "Luca Chiaraviglio",
+      "value": 435.0,
+      "focal": false
+     },
+     {
+      "name": "Leen Verloock",
+      "value": 389.0,
+      "focal": false
+     },
+     {
+      "name": "Settimio Pavoncello",
+      "value": 372.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | h_index": {
+    "n_works": 477,
+    "rank": 1,
+    "value": 20.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 20.0,
+      "focal": true
+     },
+     {
+      "name": "Luc Martens",
+      "value": 16.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 15.0,
+      "focal": false
+     },
+     {
+      "name": "Sam Aerts",
+      "value": 13.0,
+      "focal": false
+     },
+     {
+      "name": "Luca Chiaraviglio",
+      "value": 13.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 13.0,
+      "focal": false
+     },
+     {
+      "name": "Christer Törnevik",
+      "value": 12.0,
+      "focal": false
+     },
+     {
+      "name": "Settimio Pavoncello",
+      "value": 11.0,
+      "focal": false
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 11.0,
+      "focal": false
+     },
+     {
+      "name": "Davide Colombi",
+      "value": 10.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | papers": {
+    "n_works": 836,
+    "rank": 1,
+    "value": 39.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 39.0,
+      "focal": true
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 32.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 22.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 20.0,
+      "focal": false
+     },
+     {
+      "name": "Sam Aerts",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Luca Chiaraviglio",
+      "value": 17.0,
+      "focal": false
+     },
+     {
+      "name": "Christer Törnevik",
+      "value": 17.0,
+      "focal": false
+     },
+     {
+      "name": "Çetin Kurnaz",
+      "value": 16.0,
+      "focal": false
+     },
+     {
+      "name": "Settimio Pavoncello",
+      "value": 16.0,
+      "focal": false
+     },
+     {
+      "name": "Vladimir I. Mordachev",
+      "value": 14.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | lead_papers": {
+    "n_works": 836,
+    "rank": 1,
+    "value": 21.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 21.0,
+      "focal": true
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Vladimir I. Mordachev",
+      "value": 14.0,
+      "focal": false
+     },
+     {
+      "name": "Luca Chiaraviglio",
+      "value": 13.0,
+      "focal": false
+     },
+     {
+      "name": "Çetin Kurnaz",
+      "value": 13.0,
+      "focal": false
+     },
+     {
+      "name": "Christer Törnevik",
+      "value": 13.0,
+      "focal": false
+     },
+     {
+      "name": "Mohamed‐Slim Alouini",
+      "value": 10.0,
+      "focal": false
+     },
+     {
+      "name": "Snezana Djuric",
+      "value": 10.0,
+      "focal": false
+     },
+     {
+      "name": "Lennart Hardell",
+      "value": 9.0,
+      "focal": false
+     },
+     {
+      "name": "Sara Adda",
+      "value": 8.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | citations": {
+    "n_works": 836,
+    "rank": 1,
+    "value": 997.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 997.0,
+      "focal": true
+     },
+     {
+      "name": "Christer Törnevik",
+      "value": 736.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 699.0,
+      "focal": false
+     },
+     {
+      "name": "Davide Colombi",
+      "value": 665.0,
+      "focal": false
+     },
+     {
+      "name": "Sam Aerts",
+      "value": 556.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 518.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 493.0,
+      "focal": false
+     },
+     {
+      "name": "Luca Chiaraviglio",
+      "value": 435.0,
+      "focal": false
+     },
+     {
+      "name": "Leen Verloock",
+      "value": 389.0,
+      "focal": false
+     },
+     {
+      "name": "Settimio Pavoncello",
+      "value": 372.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | h_index": {
+    "n_works": 836,
+    "rank": 1,
+    "value": 20.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 20.0,
+      "focal": true
+     },
+     {
+      "name": "Luc Martens",
+      "value": 16.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 15.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 13.0,
+      "focal": false
+     },
+     {
+      "name": "Sam Aerts",
+      "value": 13.0,
+      "focal": false
+     },
+     {
+      "name": "Luca Chiaraviglio",
+      "value": 13.0,
+      "focal": false
+     },
+     {
+      "name": "Christer Törnevik",
+      "value": 12.0,
+      "focal": false
+     },
+     {
+      "name": "Settimio Pavoncello",
+      "value": 11.0,
+      "focal": false
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 11.0,
+      "focal": false
+     },
+     {
+      "name": "Davide Colombi",
+      "value": 10.0,
+      "focal": false
+     }
+    ]
+   }
+  },
+  "headline_rank": 1,
+  "robust_top1": 8,
+  "robust_top3": 8,
+  "n_variants": 8
+ },
+ {
+  "id": "ugent_rf_tech_10y",
+  "claim": "Ghent University: most RF-EMF dosimetric studies of any university, 2016-2025",
+  "entity_type": "university",
+  "variants": {
+   "peer-reviewed journals | papers": {
+    "n_works": 3005,
+    "rank": 1,
+    "value": 78.0,
+    "top": [
+     {
+      "name": "Ghent University",
+      "value": 78.0,
+      "focal": true
+     },
+     {
+      "name": "Hanyang University",
+      "value": 58.0,
+      "focal": false
+     },
+     {
+      "name": "Institut Polytechnique de Paris",
+      "value": 57.0,
+      "focal": false
+     },
+     {
+      "name": "Télécom Paris",
+      "value": 55.0,
+      "focal": false
+     },
+     {
+      "name": "Nagoya Institute of Technology",
+      "value": 46.0,
+      "focal": false
+     },
+     {
+      "name": "Harvard University",
+      "value": 46.0,
+      "focal": false
+     },
+     {
+      "name": "Massachusetts Institute of Technology",
+      "value": 44.0,
+      "focal": false
+     },
+     {
+      "name": "University of Houston",
+      "value": 42.0,
+      "focal": false
+     },
+     {
+      "name": "ETH Zurich",
+      "value": 41.0,
+      "focal": false
+     },
+     {
+      "name": "Université Paris-Saclay",
+      "value": 38.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | citations": {
+    "n_works": 3005,
+    "rank": 2,
+    "value": 1747.0,
+    "top": [
+     {
+      "name": "Hanyang University",
+      "value": 2705.0,
+      "focal": false
+     },
+     {
+      "name": "Ghent University",
+      "value": 1747.0,
+      "focal": true
+     },
+     {
+      "name": "Harvard University",
+      "value": 1487.0,
+      "focal": false
+     },
+     {
+      "name": "Nagoya Institute of Technology",
+      "value": 1261.0,
+      "focal": false
+     },
+     {
+      "name": "Massachusetts Institute of Technology",
+      "value": 1178.0,
+      "focal": false
+     },
+     {
+      "name": "University of Minnesota",
+      "value": 1011.0,
+      "focal": false
+     },
+     {
+      "name": "Thammasat University",
+      "value": 976.0,
+      "focal": false
+     },
+     {
+      "name": "Institut Polytechnique de Paris",
+      "value": 948.0,
+      "focal": false
+     },
+     {
+      "name": "Université du Québec",
+      "value": 948.0,
+      "focal": false
+     },
+     {
+      "name": "Eastern Asia University",
+      "value": 940.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | h_index": {
+    "n_works": 3005,
+    "rank": 2,
+    "value": 26.0,
+    "top": [
+     {
+      "name": "Hanyang University",
+      "value": 33.0,
+      "focal": false
+     },
+     {
+      "name": "Ghent University",
+      "value": 26.0,
+      "focal": true
+     },
+     {
+      "name": "Nagoya Institute of Technology",
+      "value": 22.0,
+      "focal": false
+     },
+     {
+      "name": "Harvard University",
+      "value": 21.0,
+      "focal": false
+     },
+     {
+      "name": "Institut Polytechnique de Paris",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Massachusetts Institute of Technology",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Télécom Paris",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Université du Québec",
+      "value": 17.0,
+      "focal": false
+     },
+     {
+      "name": "ETH Zurich",
+      "value": 17.0,
+      "focal": false
+     },
+     {
+      "name": "University of Minnesota",
+      "value": 17.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | papers": {
+    "n_works": 4228,
+    "rank": 1,
+    "value": 79.0,
+    "top": [
+     {
+      "name": "Ghent University",
+      "value": 79.0,
+      "focal": true
+     },
+     {
+      "name": "Hanyang University",
+      "value": 61.0,
+      "focal": false
+     },
+     {
+      "name": "Institut Polytechnique de Paris",
+      "value": 58.0,
+      "focal": false
+     },
+     {
+      "name": "Télécom Paris",
+      "value": 56.0,
+      "focal": false
+     },
+     {
+      "name": "Nagoya Institute of Technology",
+      "value": 47.0,
+      "focal": false
+     },
+     {
+      "name": "Harvard University",
+      "value": 46.0,
+      "focal": false
+     },
+     {
+      "name": "Massachusetts Institute of Technology",
+      "value": 45.0,
+      "focal": false
+     },
+     {
+      "name": "University of Houston",
+      "value": 42.0,
+      "focal": false
+     },
+     {
+      "name": "ETH Zurich",
+      "value": 41.0,
+      "focal": false
+     },
+     {
+      "name": "Université Paris-Saclay",
+      "value": 39.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | citations": {
+    "n_works": 4228,
+    "rank": 2,
+    "value": 1747.0,
+    "top": [
+     {
+      "name": "Hanyang University",
+      "value": 2712.0,
+      "focal": false
+     },
+     {
+      "name": "Ghent University",
+      "value": 1747.0,
+      "focal": true
+     },
+     {
+      "name": "Harvard University",
+      "value": 1487.0,
+      "focal": false
+     },
+     {
+      "name": "Nagoya Institute of Technology",
+      "value": 1274.0,
+      "focal": false
+     },
+     {
+      "name": "Massachusetts Institute of Technology",
+      "value": 1178.0,
+      "focal": false
+     },
+     {
+      "name": "University of Minnesota",
+      "value": 1013.0,
+      "focal": false
+     },
+     {
+      "name": "Thammasat University",
+      "value": 976.0,
+      "focal": false
+     },
+     {
+      "name": "Institut Polytechnique de Paris",
+      "value": 948.0,
+      "focal": false
+     },
+     {
+      "name": "Université du Québec",
+      "value": 948.0,
+      "focal": false
+     },
+     {
+      "name": "Eastern Asia University",
+      "value": 940.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | h_index": {
+    "n_works": 4228,
+    "rank": 2,
+    "value": 26.0,
+    "top": [
+     {
+      "name": "Hanyang University",
+      "value": 33.0,
+      "focal": false
+     },
+     {
+      "name": "Ghent University",
+      "value": 26.0,
+      "focal": true
+     },
+     {
+      "name": "Nagoya Institute of Technology",
+      "value": 22.0,
+      "focal": false
+     },
+     {
+      "name": "Harvard University",
+      "value": 21.0,
+      "focal": false
+     },
+     {
+      "name": "Massachusetts Institute of Technology",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Télécom Paris",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Institut Polytechnique de Paris",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Université du Québec",
+      "value": 17.0,
+      "focal": false
+     },
+     {
+      "name": "University of Minnesota",
+      "value": 17.0,
+      "focal": false
+     },
+     {
+      "name": "ETH Zurich",
+      "value": 17.0,
+      "focal": false
+     }
+    ]
+   }
+  },
+  "headline_rank": 1,
+  "robust_top1": 2,
+  "robust_top3": 6,
+  "n_variants": 6
+ },
+ {
+  "id": "ugent_rf_tech_all",
+  "claim": "Ghent University: most RF-EMF dosimetric studies of any university, all time",
+  "entity_type": "university",
+  "variants": {
+   "peer-reviewed journals | papers": {
+    "n_works": 6492,
+    "rank": 1,
+    "value": 161.0,
+    "top": [
+     {
+      "name": "Ghent University",
+      "value": 161.0,
+      "focal": true
+     },
+     {
+      "name": "ETH Zurich",
+      "value": 126.0,
+      "focal": false
+     },
+     {
+      "name": "Nagoya Institute of Technology",
+      "value": 124.0,
+      "focal": false
+     },
+     {
+      "name": "University of Utah",
+      "value": 85.0,
+      "focal": false
+     },
+     {
+      "name": "Aristotle University of Thessaloniki",
+      "value": 83.0,
+      "focal": false
+     },
+     {
+      "name": "Institut Polytechnique de Paris",
+      "value": 82.0,
+      "focal": false
+     },
+     {
+      "name": "Harvard University",
+      "value": 77.0,
+      "focal": false
+     },
+     {
+      "name": "Sapienza University of Rome",
+      "value": 75.0,
+      "focal": false
+     },
+     {
+      "name": "Télécom Paris",
+      "value": 70.0,
+      "focal": false
+     },
+     {
+      "name": "Hanyang University",
+      "value": 67.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | citations": {
+    "n_works": 6492,
+    "rank": 2,
+    "value": 4795.0,
+    "top": [
+     {
+      "name": "ETH Zurich",
+      "value": 8288.0,
+      "focal": false
+     },
+     {
+      "name": "Ghent University",
+      "value": 4795.0,
+      "focal": true
+     },
+     {
+      "name": "Nagoya Institute of Technology",
+      "value": 4100.0,
+      "focal": false
+     },
+     {
+      "name": "University of Utah",
+      "value": 3795.0,
+      "focal": false
+     },
+     {
+      "name": "Harvard University",
+      "value": 3031.0,
+      "focal": false
+     },
+     {
+      "name": "Hanyang University",
+      "value": 2823.0,
+      "focal": false
+     },
+     {
+      "name": "University of Minnesota",
+      "value": 2819.0,
+      "focal": false
+     },
+     {
+      "name": "Sapienza University of Rome",
+      "value": 2694.0,
+      "focal": false
+     },
+     {
+      "name": "Massachusetts Institute of Technology",
+      "value": 2510.0,
+      "focal": false
+     },
+     {
+      "name": "University of Houston",
+      "value": 2474.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | h_index": {
+    "n_works": 6492,
+    "rank": 2,
+    "value": 40.0,
+    "top": [
+     {
+      "name": "ETH Zurich",
+      "value": 47.0,
+      "focal": false
+     },
+     {
+      "name": "Ghent University",
+      "value": 40.0,
+      "focal": true
+     },
+     {
+      "name": "Nagoya Institute of Technology",
+      "value": 38.0,
+      "focal": false
+     },
+     {
+      "name": "Hanyang University",
+      "value": 35.0,
+      "focal": false
+     },
+     {
+      "name": "University of Utah",
+      "value": 34.0,
+      "focal": false
+     },
+     {
+      "name": "Harvard University",
+      "value": 32.0,
+      "focal": false
+     },
+     {
+      "name": "Sapienza University of Rome",
+      "value": 29.0,
+      "focal": false
+     },
+     {
+      "name": "Massachusetts Institute of Technology",
+      "value": 28.0,
+      "focal": false
+     },
+     {
+      "name": "University of Minnesota",
+      "value": 27.0,
+      "focal": false
+     },
+     {
+      "name": "University of Southern California",
+      "value": 26.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | papers": {
+    "n_works": 10267,
+    "rank": 1,
+    "value": 166.0,
+    "top": [
+     {
+      "name": "Ghent University",
+      "value": 166.0,
+      "focal": true
+     },
+     {
+      "name": "Nagoya Institute of Technology",
+      "value": 149.0,
+      "focal": false
+     },
+     {
+      "name": "ETH Zurich",
+      "value": 128.0,
+      "focal": false
+     },
+     {
+      "name": "University of Utah",
+      "value": 95.0,
+      "focal": false
+     },
+     {
+      "name": "Institut Polytechnique de Paris",
+      "value": 85.0,
+      "focal": false
+     },
+     {
+      "name": "Aristotle University of Thessaloniki",
+      "value": 84.0,
+      "focal": false
+     },
+     {
+      "name": "Sapienza University of Rome",
+      "value": 81.0,
+      "focal": false
+     },
+     {
+      "name": "Harvard University",
+      "value": 77.0,
+      "focal": false
+     },
+     {
+      "name": "Hanyang University",
+      "value": 74.0,
+      "focal": false
+     },
+     {
+      "name": "Télécom Paris",
+      "value": 72.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | citations": {
+    "n_works": 10267,
+    "rank": 2,
+    "value": 4847.0,
+    "top": [
+     {
+      "name": "ETH Zurich",
+      "value": 8462.0,
+      "focal": false
+     },
+     {
+      "name": "Ghent University",
+      "value": 4847.0,
+      "focal": true
+     },
+     {
+      "name": "Nagoya Institute of Technology",
+      "value": 4180.0,
+      "focal": false
+     },
+     {
+      "name": "University of Utah",
+      "value": 4069.0,
+      "focal": false
+     },
+     {
+      "name": "Harvard University",
+      "value": 3031.0,
+      "focal": false
+     },
+     {
+      "name": "Hanyang University",
+      "value": 2844.0,
+      "focal": false
+     },
+     {
+      "name": "University of Minnesota",
+      "value": 2821.0,
+      "focal": false
+     },
+     {
+      "name": "Sapienza University of Rome",
+      "value": 2725.0,
+      "focal": false
+     },
+     {
+      "name": "Massachusetts Institute of Technology",
+      "value": 2718.0,
+      "focal": false
+     },
+     {
+      "name": "University of Houston",
+      "value": 2474.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | h_index": {
+    "n_works": 10267,
+    "rank": 2,
+    "value": 40.0,
+    "top": [
+     {
+      "name": "ETH Zurich",
+      "value": 47.0,
+      "focal": false
+     },
+     {
+      "name": "Ghent University",
+      "value": 40.0,
+      "focal": true
+     },
+     {
+      "name": "Nagoya Institute of Technology",
+      "value": 38.0,
+      "focal": false
+     },
+     {
+      "name": "University of Utah",
+      "value": 35.0,
+      "focal": false
+     },
+     {
+      "name": "Hanyang University",
+      "value": 35.0,
+      "focal": false
+     },
+     {
+      "name": "Harvard University",
+      "value": 32.0,
+      "focal": false
+     },
+     {
+      "name": "Sapienza University of Rome",
+      "value": 29.0,
+      "focal": false
+     },
+     {
+      "name": "Massachusetts Institute of Technology",
+      "value": 29.0,
+      "focal": false
+     },
+     {
+      "name": "University of Minnesota",
+      "value": 27.0,
+      "focal": false
+     },
+     {
+      "name": "University of Southern California",
+      "value": 26.0,
+      "focal": false
+     }
+    ]
+   }
+  },
+  "headline_rank": 1,
+  "robust_top1": 2,
+  "robust_top3": 6,
+  "n_variants": 6
+ },
+ {
+  "id": "waves_vs_univ_10y",
+  "claim": "WAVES alone out-publishes every other university on RF-EMF dosimetry, 2016-2025",
+  "entity_type": "waves_vs_univ",
+  "variants": {
+   "peer-reviewed journals | papers": {
+    "n_works": 3005,
+    "rank": 1,
+    "value": 73.0,
+    "top": [
+     {
+      "name": "WAVES (UGent-imec)",
+      "value": 73.0,
+      "focal": true
+     },
+     {
+      "name": "Hanyang University",
+      "value": 58.0,
+      "focal": false
+     },
+     {
+      "name": "Institut Polytechnique de Paris",
+      "value": 57.0,
+      "focal": false
+     },
+     {
+      "name": "Télécom Paris",
+      "value": 55.0,
+      "focal": false
+     },
+     {
+      "name": "Harvard University",
+      "value": 46.0,
+      "focal": false
+     },
+     {
+      "name": "Nagoya Institute of Technology",
+      "value": 46.0,
+      "focal": false
+     },
+     {
+      "name": "Massachusetts Institute of Technology",
+      "value": 44.0,
+      "focal": false
+     },
+     {
+      "name": "University of Houston",
+      "value": 42.0,
+      "focal": false
+     },
+     {
+      "name": "ETH Zurich",
+      "value": 41.0,
+      "focal": false
+     },
+     {
+      "name": "Université Paris-Saclay",
+      "value": 38.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | citations": {
+    "n_works": 3005,
+    "rank": 2,
+    "value": 1621.0,
+    "top": [
+     {
+      "name": "Hanyang University",
+      "value": 2705.0,
+      "focal": false
+     },
+     {
+      "name": "WAVES (UGent-imec)",
+      "value": 1621.0,
+      "focal": true
+     },
+     {
+      "name": "Harvard University",
+      "value": 1487.0,
+      "focal": false
+     },
+     {
+      "name": "Nagoya Institute of Technology",
+      "value": 1261.0,
+      "focal": false
+     },
+     {
+      "name": "Massachusetts Institute of Technology",
+      "value": 1178.0,
+      "focal": false
+     },
+     {
+      "name": "University of Minnesota",
+      "value": 1011.0,
+      "focal": false
+     },
+     {
+      "name": "Thammasat University",
+      "value": 976.0,
+      "focal": false
+     },
+     {
+      "name": "Institut Polytechnique de Paris",
+      "value": 948.0,
+      "focal": false
+     },
+     {
+      "name": "Université du Québec",
+      "value": 948.0,
+      "focal": false
+     },
+     {
+      "name": "Eastern Asia University",
+      "value": 940.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | h_index": {
+    "n_works": 3005,
+    "rank": 2,
+    "value": 25.0,
+    "top": [
+     {
+      "name": "Hanyang University",
+      "value": 33.0,
+      "focal": false
+     },
+     {
+      "name": "WAVES (UGent-imec)",
+      "value": 25.0,
+      "focal": true
+     },
+     {
+      "name": "Nagoya Institute of Technology",
+      "value": 22.0,
+      "focal": false
+     },
+     {
+      "name": "Harvard University",
+      "value": 21.0,
+      "focal": false
+     },
+     {
+      "name": "Institut Polytechnique de Paris",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Télécom Paris",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Massachusetts Institute of Technology",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "ETH Zurich",
+      "value": 17.0,
+      "focal": false
+     },
+     {
+      "name": "Université du Québec",
+      "value": 17.0,
+      "focal": false
+     },
+     {
+      "name": "University of Basel",
+      "value": 17.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | papers": {
+    "n_works": 4228,
+    "rank": 1,
+    "value": 73.0,
+    "top": [
+     {
+      "name": "WAVES (UGent-imec)",
+      "value": 73.0,
+      "focal": true
+     },
+     {
+      "name": "Hanyang University",
+      "value": 61.0,
+      "focal": false
+     },
+     {
+      "name": "Institut Polytechnique de Paris",
+      "value": 58.0,
+      "focal": false
+     },
+     {
+      "name": "Télécom Paris",
+      "value": 56.0,
+      "focal": false
+     },
+     {
+      "name": "Nagoya Institute of Technology",
+      "value": 47.0,
+      "focal": false
+     },
+     {
+      "name": "Harvard University",
+      "value": 46.0,
+      "focal": false
+     },
+     {
+      "name": "Massachusetts Institute of Technology",
+      "value": 45.0,
+      "focal": false
+     },
+     {
+      "name": "University of Houston",
+      "value": 42.0,
+      "focal": false
+     },
+     {
+      "name": "ETH Zurich",
+      "value": 41.0,
+      "focal": false
+     },
+     {
+      "name": "Université Paris-Saclay",
+      "value": 39.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | citations": {
+    "n_works": 4228,
+    "rank": 2,
+    "value": 1621.0,
+    "top": [
+     {
+      "name": "Hanyang University",
+      "value": 2712.0,
+      "focal": false
+     },
+     {
+      "name": "WAVES (UGent-imec)",
+      "value": 1621.0,
+      "focal": true
+     },
+     {
+      "name": "Harvard University",
+      "value": 1487.0,
+      "focal": false
+     },
+     {
+      "name": "Nagoya Institute of Technology",
+      "value": 1274.0,
+      "focal": false
+     },
+     {
+      "name": "Massachusetts Institute of Technology",
+      "value": 1178.0,
+      "focal": false
+     },
+     {
+      "name": "University of Minnesota",
+      "value": 1013.0,
+      "focal": false
+     },
+     {
+      "name": "Thammasat University",
+      "value": 976.0,
+      "focal": false
+     },
+     {
+      "name": "Institut Polytechnique de Paris",
+      "value": 948.0,
+      "focal": false
+     },
+     {
+      "name": "Université du Québec",
+      "value": 948.0,
+      "focal": false
+     },
+     {
+      "name": "Eastern Asia University",
+      "value": 940.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | h_index": {
+    "n_works": 4228,
+    "rank": 2,
+    "value": 25.0,
+    "top": [
+     {
+      "name": "Hanyang University",
+      "value": 33.0,
+      "focal": false
+     },
+     {
+      "name": "WAVES (UGent-imec)",
+      "value": 25.0,
+      "focal": true
+     },
+     {
+      "name": "Nagoya Institute of Technology",
+      "value": 22.0,
+      "focal": false
+     },
+     {
+      "name": "Harvard University",
+      "value": 21.0,
+      "focal": false
+     },
+     {
+      "name": "Télécom Paris",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Institut Polytechnique de Paris",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Massachusetts Institute of Technology",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "ETH Zurich",
+      "value": 17.0,
+      "focal": false
+     },
+     {
+      "name": "University of Minnesota",
+      "value": 17.0,
+      "focal": false
+     },
+     {
+      "name": "University of Basel",
+      "value": 17.0,
+      "focal": false
+     }
+    ]
+   }
+  },
+  "headline_rank": 1,
+  "robust_top1": 2,
+  "robust_top3": 6,
+  "n_variants": 6
+ },
+ {
+  "id": "be_pc_rf_tech_10y",
+  "claim": "Belgium: RF-EMF dosimetric studies per million inhabitants, 2016-2025",
+  "entity_type": "country_per_capita",
+  "variants": {
+   "peer-reviewed journals | papers_per_million": {
+    "n_works": 3005,
+    "rank": 2,
+    "value": 8.8,
+    "top": [
+     {
+      "name": "CH",
+      "value": 10.2,
+      "focal": false
+     },
+     {
+      "name": "BE",
+      "value": 8.8,
+      "focal": true
+     },
+     {
+      "name": "HR",
+      "value": 7.4,
+      "focal": false
+     },
+     {
+      "name": "GR",
+      "value": 6.6,
+      "focal": false
+     },
+     {
+      "name": "FI",
+      "value": 6.4,
+      "focal": false
+     },
+     {
+      "name": "IE",
+      "value": 6.2,
+      "focal": false
+     },
+     {
+      "name": "RS",
+      "value": 6.2,
+      "focal": false
+     },
+     {
+      "name": "SE",
+      "value": 6.2,
+      "focal": false
+     },
+     {
+      "name": "NL",
+      "value": 5.8,
+      "focal": false
+     },
+     {
+      "name": "KR",
+      "value": 3.2,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | papers_per_million": {
+    "n_works": 4228,
+    "rank": 2,
+    "value": 8.9,
+    "top": [
+     {
+      "name": "CH",
+      "value": 10.3,
+      "focal": false
+     },
+     {
+      "name": "BE",
+      "value": 8.9,
+      "focal": true
+     },
+     {
+      "name": "HR",
+      "value": 8.2,
+      "focal": false
+     },
+     {
+      "name": "RS",
+      "value": 8.2,
+      "focal": false
+     },
+     {
+      "name": "GR",
+      "value": 6.9,
+      "focal": false
+     },
+     {
+      "name": "FI",
+      "value": 6.6,
+      "focal": false
+     },
+     {
+      "name": "SE",
+      "value": 6.3,
+      "focal": false
+     },
+     {
+      "name": "IE",
+      "value": 6.2,
+      "focal": false
+     },
+     {
+      "name": "NL",
+      "value": 5.9,
+      "focal": false
+     },
+     {
+      "name": "KR",
+      "value": 3.7,
+      "focal": false
+     }
+    ]
+   }
+  },
+  "headline_rank": 2,
+  "robust_top1": 0,
+  "robust_top3": 2,
+  "n_variants": 2
+ },
+ {
+  "id": "native_rfemf_10y",
+  "claim": "No-LLM check: most papers using RF-EMF exposure terms, 2016-2025",
+  "entity_type": "author",
+  "variants": {
+   "peer-reviewed journals | papers": {
+    "n_works": 1871,
+    "rank": 1,
+    "value": 59.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 59.0,
+      "focal": true
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 53.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 44.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 38.0,
+      "focal": false
+     },
+     {
+      "name": "Roel C.H. Vermeulen",
+      "value": 34.0,
+      "focal": false
+     },
+     {
+      "name": "Mai Lu",
+      "value": 30.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 30.0,
+      "focal": false
+     },
+     {
+      "name": "Rodney J. Croft",
+      "value": 28.0,
+      "focal": false
+     },
+     {
+      "name": "Hyung‐Do Choi",
+      "value": 26.0,
+      "focal": false
+     },
+     {
+      "name": "Elisabeth Cardis",
+      "value": 25.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | lead_papers": {
+    "n_works": 1871,
+    "rank": 1,
+    "value": 29.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 29.0,
+      "focal": true
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 29.0,
+      "focal": false
+     },
+     {
+      "name": "Mai Lu",
+      "value": 26.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 18.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 15.0,
+      "focal": false
+     },
+     {
+      "name": "Rodney J. Croft",
+      "value": 15.0,
+      "focal": false
+     },
+     {
+      "name": "Ju Hwan Kim",
+      "value": 15.0,
+      "focal": false
+     },
+     {
+      "name": "Christer Törnevik",
+      "value": 14.0,
+      "focal": false
+     },
+     {
+      "name": "Hak Rim Kim",
+      "value": 13.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | citations": {
+    "n_works": 1871,
+    "rank": 2,
+    "value": 1559.0,
+    "top": [
+     {
+      "name": "Martin Röösli",
+      "value": 1891.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 1559.0,
+      "focal": true
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 1009.0,
+      "focal": false
+     },
+     {
+      "name": "Roel C.H. Vermeulen",
+      "value": 1009.0,
+      "focal": false
+     },
+     {
+      "name": "Davide Colombi",
+      "value": 957.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 918.0,
+      "focal": false
+     },
+     {
+      "name": "Marloes Eeftens",
+      "value": 799.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 782.0,
+      "focal": false
+     },
+     {
+      "name": "Elisabeth Cardis",
+      "value": 716.0,
+      "focal": false
+     },
+     {
+      "name": "Christer Törnevik",
+      "value": 704.0,
+      "focal": false
+     }
+    ]
+   },
+   "peer-reviewed journals | h_index": {
+    "n_works": 1871,
+    "rank": 2,
+    "value": 24.0,
+    "top": [
+     {
+      "name": "Martin Röösli",
+      "value": 27.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 24.0,
+      "focal": true
+     },
+     {
+      "name": "Roel C.H. Vermeulen",
+      "value": 20.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 20.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 18.0,
+      "focal": false
+     },
+     {
+      "name": "Anke Huss",
+      "value": 17.0,
+      "focal": false
+     },
+     {
+      "name": "Rodney J. Croft",
+      "value": 16.0,
+      "focal": false
+     },
+     {
+      "name": "Elisabeth Cardis",
+      "value": 16.0,
+      "focal": false
+     },
+     {
+      "name": "Marloes Eeftens",
+      "value": 15.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | papers": {
+    "n_works": 2382,
+    "rank": 1,
+    "value": 61.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 61.0,
+      "focal": true
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 53.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 46.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 39.0,
+      "focal": false
+     },
+     {
+      "name": "Roel C.H. Vermeulen",
+      "value": 35.0,
+      "focal": false
+     },
+     {
+      "name": "Hyung‐Do Choi",
+      "value": 33.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 31.0,
+      "focal": false
+     },
+     {
+      "name": "Mai Lu",
+      "value": 31.0,
+      "focal": false
+     },
+     {
+      "name": "Rodney J. Croft",
+      "value": 28.0,
+      "focal": false
+     },
+     {
+      "name": "Elisabeth Cardis",
+      "value": 27.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | lead_papers": {
+    "n_works": 2382,
+    "rank": 1,
+    "value": 30.0,
+    "top": [
+     {
+      "name": "Wout Joseph",
+      "value": 30.0,
+      "focal": true
+     },
+     {
+      "name": "Martin Röösli",
+      "value": 29.0,
+      "focal": false
+     },
+     {
+      "name": "Mai Lu",
+      "value": 27.0,
+      "focal": false
+     },
+     {
+      "name": "Akimasa Hirata",
+      "value": 20.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Raquel Ramírez-Vázquez",
+      "value": 16.0,
+      "focal": false
+     },
+     {
+      "name": "Ju Hwan Kim",
+      "value": 16.0,
+      "focal": false
+     },
+     {
+      "name": "Rodney J. Croft",
+      "value": 15.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 15.0,
+      "focal": false
+     },
+     {
+      "name": "Hak Rim Kim",
+      "value": 14.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | citations": {
+    "n_works": 2382,
+    "rank": 2,
+    "value": 1559.0,
+    "top": [
+     {
+      "name": "Martin Röösli",
+      "value": 1891.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 1559.0,
+      "focal": true
+     },
+     {
+      "name": "Roel C.H. Vermeulen",
+      "value": 1009.0,
+      "focal": false
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 1009.0,
+      "focal": false
+     },
+     {
+      "name": "Davide Colombi",
+      "value": 957.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 918.0,
+      "focal": false
+     },
+     {
+      "name": "Marloes Eeftens",
+      "value": 799.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 782.0,
+      "focal": false
+     },
+     {
+      "name": "Elisabeth Cardis",
+      "value": 716.0,
+      "focal": false
+     },
+     {
+      "name": "Christer Törnevik",
+      "value": 704.0,
+      "focal": false
+     }
+    ]
+   },
+   "all OpenAlex articles | h_index": {
+    "n_works": 2382,
+    "rank": 2,
+    "value": 24.0,
+    "top": [
+     {
+      "name": "Martin Röösli",
+      "value": 27.0,
+      "focal": false
+     },
+     {
+      "name": "Wout Joseph",
+      "value": 24.0,
+      "focal": true
+     },
+     {
+      "name": "Joe Wiart",
+      "value": 20.0,
+      "focal": false
+     },
+     {
+      "name": "Roel C.H. Vermeulen",
+      "value": 20.0,
+      "focal": false
+     },
+     {
+      "name": "Arno Thielens",
+      "value": 19.0,
+      "focal": false
+     },
+     {
+      "name": "Luc Martens",
+      "value": 18.0,
+      "focal": false
+     },
+     {
+      "name": "Anke Huss",
+      "value": 17.0,
+      "focal": false
+     },
+     {
+      "name": "Elisabeth Cardis",
+      "value": 16.0,
+      "focal": false
+     },
+     {
+      "name": "Rodney J. Croft",
+      "value": 16.0,
+      "focal": false
+     },
+     {
+      "name": "Mònica Guxens",
+      "value": 15.0,
+      "focal": false
+     }
+    ]
+   }
+  },
+  "headline_rank": 1,
+  "robust_top1": 4,
+  "robust_top3": 8,
+  "n_variants": 8
+ }
+]

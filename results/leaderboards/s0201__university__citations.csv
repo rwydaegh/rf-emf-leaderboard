@@ -1,0 +1,31 @@
+rank,id,name,citations
+1,I4575257,Hanyang University,517
+2,I130701444,Georgia Institute of Technology,389
+3,I165932596,National University of Singapore,344
+4,I87216513,Michigan State University,270
+5,I98365261,"Indian Institute of Engineering Science and Technology, Shibpur",216
+6,I136199984,Harvard University,210
+6,I12912129,Northeastern University,210
+8,I7882870,University of Glasgow,175
+9,I32389192,University of Alabama at Birmingham,167
+10,I40542001,University of Ulsan,157
+11,I16076960,COMSATS University Islamabad,143
+12,I881766915,Nanjing University,129
+12,I185492890,University of Canterbury,129
+12,I130238516,University of Minnesota,129
+12,I20231570,Peking University,129
+16,I4387930198,C.V. Raman Global University,128
+17,I130769515,Pennsylvania State University,110
+18,I9927081,Aalto University,93
+19,I126520041,University of Science and Technology of China,80
+19,I180291457,Mehran University of Engineering and Technology,80
+21,I161913731,Al Ain University,78
+21,I173207729,University of Engineering and Technology Taxila,78
+21,I49663120,Université du Québec,78
+24,I184843921,Hebei University of Technology,75
+25,I23923803,University of Exeter,74
+25,I36399199,Nanjing University of Science and Technology,74
+27,I165143802,The University of Queensland,72
+28,I108290504,University of Pisa,71
+28,I43439940,University of Southampton,71
+30,I146429904,Incheon National University,70

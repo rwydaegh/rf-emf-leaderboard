@@ -1,0 +1,31 @@
+rank,id,name,papers
+1,I32597200,Ghent University,161
+2,I35440088,ETH Zurich,126
+3,I197274945,Nagoya Institute of Technology,124
+4,I223532165,University of Utah,85
+5,I21370196,Aristotle University of Thessaloniki,83
+6,I4210145102,Institut Polytechnique de Paris,82
+7,I136199984,Harvard University,77
+8,I861853513,Sapienza University of Rome,75
+9,I12356871,Télécom Paris,70
+10,I4575257,Hanyang University,67
+11,I63966007,Massachusetts Institute of Technology,66
+11,I277688954,Université Paris-Saclay,66
+13,I124357947,University of London,59
+13,I130238516,University of Minnesota,59
+15,I149594827,Xidian University,57
+16,I44461941,University of Houston,52
+16,I1174212,University of Southern California,52
+18,I56067802,Université de Rennes,49
+19,I885383172,National University of Malaysia,46
+19,I28221208,Institut National des Sciences Appliquées de Rennes,46
+19,I1850255,University of Basel,46
+22,I193662353,Utrecht University,44
+22,I97188460,Nantes Université,44
+24,I116067653,University of Rome Tor Vergata,43
+25,I57206974,New York University,42
+25,I79576946,University of Pennsylvania,42
+27,I62318514,University of Duisburg-Essen,40
+28,I92251255,University of Split,39
+28,I49663120,Université du Québec,39
+30,I69740276,Tokyo Metropolitan University,34

@@ -1,0 +1,16 @@
+{
+ "recall_focal_author": {
+  "relevant_journal_papers": 188,
+  "in_corpus": 165,
+  "recall": 0.878
+ },
+ "sonnet_vs_haiku": {
+  "n": 2000,
+  "relevance_agreement": 0.905,
+  "relevance_kappa": 0.774,
+  "both_relevant": 1307,
+  "study_type_agreement": 0.928,
+  "study_type_kappa": 0.896,
+  "rf_band_agreement": 0.961
+ }
+}

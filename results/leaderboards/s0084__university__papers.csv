@@ -1,0 +1,31 @@
+rank,id,name,papers
+1,I197274945,Nagoya Institute of Technology,200
+2,I76130692,Zhejiang University,198
+3,I35440088,ETH Zurich,196
+4,I32597200,Ghent University,184
+5,I193662353,Utrecht University,165
+6,I861853513,Sapienza University of Rome,161
+7,I136199984,Harvard University,160
+8,I9916479,Air Force Medical University,152
+9,I194604659,Shiraz University of Medical Sciences,141
+10,I277688954,Université Paris-Saclay,139
+11,I124357947,University of London,132
+12,I39422238,University of Illinois Chicago,128
+13,I110525433,"Islamic Azad University, Tehran",123
+14,I40120149,University of Oxford,120
+15,I1850255,University of Basel,114
+16,I161318765,"University of California, Los Angeles",108
+17,I1516879,Tarbiat Modares University,106
+18,I177477856,Politecnico di Torino,105
+18,I28166907,Karolinska Institutet,105
+18,I39804081,Sorbonne Université,105
+21,I151075929,Army Medical University,104
+22,I63966007,Massachusetts Institute of Technology,98
+22,I24185976,Sichuan University,98
+24,I4068193,University of Belgrade,96
+25,I69740276,Tokyo Metropolitan University,94
+26,I21370196,Aristotle University of Thessaloniki,92
+26,I17145004,Northwestern Polytechnical University,92
+28,I125749732,Western University,91
+29,I95634034,Gazi University,90
+29,I56067802,Université de Rennes,90

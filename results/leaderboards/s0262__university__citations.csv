@@ -1,0 +1,31 @@
+rank,id,name,citations
+1,I4575257,Hanyang University,302
+2,I12912129,Northeastern University,210
+2,I136199984,Harvard University,210
+4,I16076960,COMSATS University Islamabad,143
+5,I177477856,Politecnico di Torino,138
+6,I7882870,University of Glasgow,102
+7,I23923803,University of Exeter,74
+8,I26415053,University of L'Aquila,72
+9,I43439940,University of Southampton,71
+10,I180726961,Shenzhen University,64
+10,I74775410,Rice University,64
+10,I181547552,Baylor College of Medicine,64
+13,I146655781,University of Liverpool,61
+13,I69356397,Xi’an Jiaotong-Liverpool University,61
+15,I9927081,Aalto University,59
+15,I194450716,Jilin University,59
+17,I861853513,Sapienza University of Rome,58
+18,I123387679,Uppsala University,53
+18,I98365261,"Indian Institute of Engineering Science and Technology, Shibpur",53
+20,I157485424,Korea Advanced Institute of Science and Technology,51
+21,I32389192,University of Alabama at Birmingham,46
+21,I23946033,University of Tehran,46
+21,I82880672,Beihang University,46
+24,I197274945,Nagoya Institute of Technology,45
+24,I45084792,University of Florence,45
+24,I119003972,Roma Tre University,45
+27,I141371507,Soongsil University,43
+28,I63739035,All India Institute of Medical Sciences,41
+28,I114531698,Tokyo Institute of Technology,41
+28,I204778367,Norwegian University of Science and Technology,41
