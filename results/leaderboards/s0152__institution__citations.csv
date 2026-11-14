@@ -1,0 +1,31 @@
+rank,id,name,citations
+1,I1326803253,Department for Environment Food and Rural Affairs,101
+1,I2802373619,Government of the United Kingdom,101
+1,I1332124652,"Centre for Environment, Fisheries and Aquaculture Science",101
+4,I130701444,Georgia Institute of Technology,71
+4,I32389192,University of Alabama at Birmingham,71
+4,I87216513,Michigan State University,71
+4,I184843921,Hebei University of Technology,71
+8,I16835326,University of St Andrews,66
+8,I17626003,University of Rhode Island,66
+8,I88170914,Scottish Association For Marine Science,66
+8,I5857645,University of the Highlands and Islands,66
+8,I86987016,KTH Royal Institute of Technology,66
+13,I173911158,Iowa State University,37
+14,I24571045,University of North Dakota,36
+15,I4405253792,Wageningen Marine Research,35
+15,I913481162,Wageningen University & Research,35
+17,I36234482,University of Bristol,33
+18,I194604659,Shiraz University of Medical Sciences,30
+18,I166459259,Shiraz University,30
+20,I2799853436,Johns Hopkins Medicine,29
+20,I145311948,Johns Hopkins University,29
+22,I861853513,Sapienza University of Rome,28
+22,I25217355,University of Pavia,28
+22,I184840846,Virginia Commonwealth University,28
+25,I97018004,Stanford University,25
+26,I175532246,University of Eastern Finland,24
+26,I3133134087,Lanzhou Jiaotong University,24
+26,I9927081,Aalto University,24
+29,I185261750,University of Toronto,23
+30,I223532165,University of Utah,21

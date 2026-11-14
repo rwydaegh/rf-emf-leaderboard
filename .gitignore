@@ -1,0 +1,7 @@
+.env
+.venv/
+data/raw/
+data/screen_input.jsonl
+logs/
+__pycache__/
+.ipynb_checkpoints/

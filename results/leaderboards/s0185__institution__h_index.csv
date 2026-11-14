@@ -1,0 +1,31 @@
+rank,id,name,h_index
+1,WAVES,WAVES (UGent-imec),20
+1,I32597200,Ghent University,20
+3,I4210114974,IMEC,16
+3,I158937107,Swiss Tropical and Public Health Institute,16
+5,I1850255,University of Basel,15
+6,I4387152914,"Ministerio de Ciencia, Innovación y Universidades",14
+6,I2801357902,Instituto de Salud Carlos III,14
+8,I4210145102,Institut Polytechnique de Paris,12
+8,I12356871,Télécom Paris,12
+8,I205703379,Institut Mines-Télécom,12
+11,I4210148332,Barcelona Institute for Global Health,11
+11,I4210099310,Consorzio Nazionale Interuniversitario per le Telecomunicazioni,11
+11,I4210165912,Laboratoire Traitement et Communication de l’Information,11
+11,I4387153040,CERCA Institution,11
+11,I193662353,Utrecht University,11
+16,I4210115082,Centro de Investigación Biomédica en Red,10
+16,I4210154894,Centro de Investigación Biomédica en Red de Epidemiología y Salud Pública,10
+16,I170486558,Universitat Pompeu Fabra,10
+16,I186995768,Università degli studi di Cassino e del Lazio Meridionale,10
+20,I21370196,Aristotle University of Thessaloniki,9
+20,I2801952686,Erasmus MC,9
+20,I227306068,Ondokuz Mayıs University,9
+20,I1306339040,Ericsson (Sweden),9
+20,I4405255721,Sistema Nazionale per la Protezione dell'Ambiente,9
+20,I4405255365,Agenzia Regionale protezione ambientale del Lazio,9
+20,I1294671590,Centre National de la Recherche Scientifique,9
+27,I930713850,The Hague University of Applied Sciences,8
+27,I79189158,University of Castilla-La Mancha,8
+27,I145722265,University of Thessaly,8
+30,I4210095849,CNRS Ingénierie,7

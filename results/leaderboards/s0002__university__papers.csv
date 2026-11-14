@@ -1,0 +1,31 @@
+rank,id,name,papers
+1,I197274945,Nagoya Institute of Technology,123
+2,I35440088,ETH Zurich,94
+3,I130238516,University of Minnesota,83
+3,I136199984,Harvard University,83
+5,I124357947,University of London,80
+6,I4575257,Hanyang University,78
+7,I876193797,Vellore Institute of Technology University,72
+8,I223532165,University of Utah,67
+9,I277688954,Université Paris-Saclay,63
+9,I76130692,Zhejiang University,63
+11,I63966007,Massachusetts Institute of Technology,59
+11,I32597200,Ghent University,59
+13,I65806277,Université de Limoges,56
+14,I885383172,National University of Malaysia,55
+15,I15057530,Université de Bordeaux,54
+16,I91357014,Banaras Hindu University,51
+17,I32881790,Université de Poitiers,49
+17,I56067802,Université de Rennes,49
+19,I145286018,SRM Institute of Science and Technology,48
+20,I28221208,Institut National des Sciences Appliquées de Rennes,44
+20,I1174212,University of Southern California,44
+22,I97188460,Nantes Université,43
+22,I145311948,Johns Hopkins University,43
+24,I56404289,Indian Institute of Technology BHU,42
+24,I69740276,Tokyo Metropolitan University,42
+24,I149594827,Xidian University,42
+27,I97018004,Stanford University,41
+27,I84392919,Temple University,41
+27,I49663120,Université du Québec,41
+30,I163753206,Chungbuk National University,40

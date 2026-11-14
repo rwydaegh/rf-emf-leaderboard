@@ -1,0 +1,269 @@
+slice,family,window,definition,band,type,topic,n_works
+s0000,OpenAlex-native (no LLM),all-time,OpenAlex topic 'EMF & Biological Effects',-,-,-,38308
+s0001,OpenAlex-native (no LLM),all-time,keyword: RF-EMF exposure terms,-,-,-,4023
+s0002,OpenAlex-native (no LLM),all-time,keyword: SAR / absorbed / incident power density,-,-,-,7348
+s0003,OpenAlex-native (no LLM),all-time,keyword: dosimetry + EM/RF,-,-,-,975
+s0004,LLM-screened,all-time,screened relevant,all frequencies,all study types,any topic,34381
+s0005,LLM-screened,all-time,screened relevant,all frequencies,technical/dosimetric,any topic,9995
+s0006,LLM-screened,all-time,screened relevant,all frequencies,technical/dosimetric,field measurements,2613
+s0007,LLM-screened,all-time,screened relevant,all frequencies,technical/dosimetric,personal exposimetry,410
+s0008,LLM-screened,all-time,screened relevant,all frequencies,technical/dosimetric,numerical dosimetry,5785
+s0009,LLM-screened,all-time,screened relevant,all frequencies,technical/dosimetric,SAR & absorbed power,4566
+s0010,LLM-screened,all-time,screened relevant,all frequencies,technical/dosimetric,5G/6G networks,580
+s0011,LLM-screened,all-time,screened relevant,all frequencies,technical/dosimetric,base stations & networks,962
+s0012,LLM-screened,all-time,screened relevant,all frequencies,technical/dosimetric,phones & user devices,1797
+s0013,LLM-screened,all-time,screened relevant,all frequencies,technical/dosimetric,Wi-Fi/IoT/smart meters,669
+s0014,LLM-screened,all-time,screened relevant,all frequencies,technical/dosimetric,exposure modelling & prediction,850
+s0015,LLM-screened,all-time,screened relevant,all frequencies,technical/dosimetric,exposure of insects/animals/plants,400
+s0016,LLM-screened,all-time,screened relevant,all frequencies,technical/dosimetric,children & pregnancy,465
+s0017,LLM-screened,all-time,screened relevant,all frequencies,technical/dosimetric,exposure-aware network design,161
+s0018,LLM-screened,all-time,screened relevant,all frequencies,technical/dosimetric,implants & in-body,1680
+s0019,LLM-screened,all-time,screened relevant,all frequencies,technical/dosimetric,compliance & limits,1996
+s0020,LLM-screened,all-time,screened relevant,all frequencies,technical/dosimetric,occupational,954
+s0021,LLM-screened,all-time,screened relevant,all frequencies,technical/dosimetric,ELF/IF sources,1458
+s0022,LLM-screened,all-time,screened relevant,all frequencies,technical/dosimetric,wireless power transfer,392
+s0023,LLM-screened,all-time,screened relevant,RF (10 MHz-300 GHz),all study types,any topic,15727
+s0024,LLM-screened,all-time,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,any topic,6492
+s0025,LLM-screened,all-time,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,field measurements,1479
+s0026,LLM-screened,all-time,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,personal exposimetry,208
+s0027,LLM-screened,all-time,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,numerical dosimetry,3783
+s0028,LLM-screened,all-time,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,SAR & absorbed power,4382
+s0029,LLM-screened,all-time,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,5G/6G networks,580
+s0030,LLM-screened,all-time,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,base stations & networks,948
+s0031,LLM-screened,all-time,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,phones & user devices,1749
+s0032,LLM-screened,all-time,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,Wi-Fi/IoT/smart meters,663
+s0033,LLM-screened,all-time,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,exposure modelling & prediction,539
+s0034,LLM-screened,all-time,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,exposure of insects/animals/plants,237
+s0035,LLM-screened,all-time,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,children & pregnancy,321
+s0036,LLM-screened,all-time,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,exposure-aware network design,142
+s0037,LLM-screened,all-time,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,implants & in-body,1295
+s0038,LLM-screened,all-time,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,compliance & limits,1270
+s0039,LLM-screened,all-time,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,occupational,340
+s0040,LLM-screened,all-time,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,ELF/IF sources,46
+s0041,LLM-screened,all-time,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,wireless power transfer,143
+s0042,LLM-screened,all-time,screened relevant,mmWave (>6 GHz),all study types,any topic,2071
+s0043,LLM-screened,all-time,screened relevant,mmWave (>6 GHz),technical/dosimetric,any topic,799
+s0044,LLM-screened,all-time,screened relevant,mmWave (>6 GHz),technical/dosimetric,field measurements,107
+s0046,LLM-screened,all-time,screened relevant,mmWave (>6 GHz),technical/dosimetric,numerical dosimetry,549
+s0047,LLM-screened,all-time,screened relevant,mmWave (>6 GHz),technical/dosimetric,SAR & absorbed power,566
+s0048,LLM-screened,all-time,screened relevant,mmWave (>6 GHz),technical/dosimetric,5G/6G networks,308
+s0049,LLM-screened,all-time,screened relevant,mmWave (>6 GHz),technical/dosimetric,base stations & networks,77
+s0050,LLM-screened,all-time,screened relevant,mmWave (>6 GHz),technical/dosimetric,phones & user devices,207
+s0051,LLM-screened,all-time,screened relevant,mmWave (>6 GHz),technical/dosimetric,Wi-Fi/IoT/smart meters,42
+s0052,LLM-screened,all-time,screened relevant,mmWave (>6 GHz),technical/dosimetric,exposure modelling & prediction,58
+s0053,LLM-screened,all-time,screened relevant,mmWave (>6 GHz),technical/dosimetric,exposure of insects/animals/plants,36
+s0057,LLM-screened,all-time,screened relevant,mmWave (>6 GHz),technical/dosimetric,compliance & limits,202
+s0061,LLM-screened,all-time,screened relevant,ELF/IF (<10 MHz),all study types,any topic,13237
+s0062,LLM-screened,all-time,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,any topic,3449
+s0063,LLM-screened,all-time,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,field measurements,1147
+s0064,LLM-screened,all-time,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,personal exposimetry,197
+s0065,LLM-screened,all-time,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,numerical dosimetry,1991
+s0066,LLM-screened,all-time,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,SAR & absorbed power,277
+s0068,LLM-screened,all-time,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,base stations & networks,57
+s0069,LLM-screened,all-time,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,phones & user devices,54
+s0071,LLM-screened,all-time,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,exposure modelling & prediction,302
+s0072,LLM-screened,all-time,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,exposure of insects/animals/plants,130
+s0073,LLM-screened,all-time,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,children & pregnancy,161
+s0075,LLM-screened,all-time,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,implants & in-body,394
+s0076,LLM-screened,all-time,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,compliance & limits,810
+s0077,LLM-screened,all-time,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,occupational,626
+s0078,LLM-screened,all-time,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,ELF/IF sources,1409
+s0079,LLM-screened,all-time,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,wireless power transfer,284
+s0080,OpenAlex-native (no LLM),2006-2025,OpenAlex topic 'EMF & Biological Effects',-,-,-,22607
+s0081,OpenAlex-native (no LLM),2006-2025,keyword: RF-EMF exposure terms,-,-,-,3100
+s0082,OpenAlex-native (no LLM),2006-2025,keyword: SAR / absorbed / incident power density,-,-,-,5702
+s0083,OpenAlex-native (no LLM),2006-2025,keyword: dosimetry + EM/RF,-,-,-,696
+s0084,LLM-screened,2006-2025,screened relevant,all frequencies,all study types,any topic,21320
+s0085,LLM-screened,2006-2025,screened relevant,all frequencies,technical/dosimetric,any topic,7220
+s0086,LLM-screened,2006-2025,screened relevant,all frequencies,technical/dosimetric,field measurements,1818
+s0087,LLM-screened,2006-2025,screened relevant,all frequencies,technical/dosimetric,personal exposimetry,264
+s0088,LLM-screened,2006-2025,screened relevant,all frequencies,technical/dosimetric,numerical dosimetry,4430
+s0089,LLM-screened,2006-2025,screened relevant,all frequencies,technical/dosimetric,SAR & absorbed power,3499
+s0090,LLM-screened,2006-2025,screened relevant,all frequencies,technical/dosimetric,5G/6G networks,507
+s0091,LLM-screened,2006-2025,screened relevant,all frequencies,technical/dosimetric,base stations & networks,792
+s0092,LLM-screened,2006-2025,screened relevant,all frequencies,technical/dosimetric,phones & user devices,1398
+s0093,LLM-screened,2006-2025,screened relevant,all frequencies,technical/dosimetric,Wi-Fi/IoT/smart meters,601
+s0094,LLM-screened,2006-2025,screened relevant,all frequencies,technical/dosimetric,exposure modelling & prediction,624
+s0095,LLM-screened,2006-2025,screened relevant,all frequencies,technical/dosimetric,exposure of insects/animals/plants,223
+s0096,LLM-screened,2006-2025,screened relevant,all frequencies,technical/dosimetric,children & pregnancy,366
+s0097,LLM-screened,2006-2025,screened relevant,all frequencies,technical/dosimetric,exposure-aware network design,146
+s0098,LLM-screened,2006-2025,screened relevant,all frequencies,technical/dosimetric,implants & in-body,1339
+s0099,LLM-screened,2006-2025,screened relevant,all frequencies,technical/dosimetric,compliance & limits,1586
+s0100,LLM-screened,2006-2025,screened relevant,all frequencies,technical/dosimetric,occupational,599
+s0101,LLM-screened,2006-2025,screened relevant,all frequencies,technical/dosimetric,ELF/IF sources,904
+s0102,LLM-screened,2006-2025,screened relevant,all frequencies,technical/dosimetric,wireless power transfer,356
+s0103,LLM-screened,2006-2025,screened relevant,RF (10 MHz-300 GHz),all study types,any topic,10704
+s0104,LLM-screened,2006-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,any topic,4911
+s0105,LLM-screened,2006-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,field measurements,1127
+s0106,LLM-screened,2006-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,personal exposimetry,189
+s0107,LLM-screened,2006-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,numerical dosimetry,2951
+s0108,LLM-screened,2006-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,SAR & absorbed power,3350
+s0109,LLM-screened,2006-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,5G/6G networks,507
+s0110,LLM-screened,2006-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,base stations & networks,784
+s0111,LLM-screened,2006-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,phones & user devices,1355
+s0112,LLM-screened,2006-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,Wi-Fi/IoT/smart meters,595
+s0113,LLM-screened,2006-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,exposure modelling & prediction,439
+s0114,LLM-screened,2006-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,exposure of insects/animals/plants,147
+s0115,LLM-screened,2006-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,children & pregnancy,274
+s0116,LLM-screened,2006-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,exposure-aware network design,131
+s0117,LLM-screened,2006-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,implants & in-body,1043
+s0118,LLM-screened,2006-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,compliance & limits,988
+s0119,LLM-screened,2006-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,occupational,200
+s0120,LLM-screened,2006-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,ELF/IF sources,38
+s0121,LLM-screened,2006-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,wireless power transfer,131
+s0122,LLM-screened,2006-2025,screened relevant,mmWave (>6 GHz),all study types,any topic,1396
+s0123,LLM-screened,2006-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,any topic,645
+s0124,LLM-screened,2006-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,field measurements,78
+s0126,LLM-screened,2006-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,numerical dosimetry,456
+s0127,LLM-screened,2006-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,SAR & absorbed power,465
+s0128,LLM-screened,2006-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,5G/6G networks,276
+s0129,LLM-screened,2006-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,base stations & networks,68
+s0130,LLM-screened,2006-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,phones & user devices,179
+s0131,LLM-screened,2006-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,Wi-Fi/IoT/smart meters,35
+s0132,LLM-screened,2006-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,exposure modelling & prediction,51
+s0133,LLM-screened,2006-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,exposure of insects/animals/plants,30
+s0137,LLM-screened,2006-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,compliance & limits,173
+s0141,LLM-screened,2006-2025,screened relevant,ELF/IF (<10 MHz),all study types,any topic,7494
+s0142,LLM-screened,2006-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,any topic,2264
+s0143,LLM-screened,2006-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,field measurements,712
+s0144,LLM-screened,2006-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,personal exposimetry,73
+s0145,LLM-screened,2006-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,numerical dosimetry,1456
+s0146,LLM-screened,2006-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,SAR & absorbed power,208
+s0148,LLM-screened,2006-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,base stations & networks,44
+s0149,LLM-screened,2006-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,phones & user devices,43
+s0151,LLM-screened,2006-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,exposure modelling & prediction,181
+s0152,LLM-screened,2006-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,exposure of insects/animals/plants,60
+s0153,LLM-screened,2006-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,children & pregnancy,104
+s0155,LLM-screened,2006-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,implants & in-body,290
+s0156,LLM-screened,2006-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,compliance & limits,661
+s0157,LLM-screened,2006-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,occupational,404
+s0158,LLM-screened,2006-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,ELF/IF sources,867
+s0159,LLM-screened,2006-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,wireless power transfer,258
+s0160,OpenAlex-native (no LLM),2016-2025,OpenAlex topic 'EMF & Biological Effects',-,-,-,11909
+s0161,OpenAlex-native (no LLM),2016-2025,keyword: RF-EMF exposure terms,-,-,-,1871
+s0162,OpenAlex-native (no LLM),2016-2025,keyword: SAR / absorbed / incident power density,-,-,-,3669
+s0163,OpenAlex-native (no LLM),2016-2025,keyword: dosimetry + EM/RF,-,-,-,379
+s0164,LLM-screened,2016-2025,screened relevant,all frequencies,all study types,any topic,11535
+s0165,LLM-screened,2016-2025,screened relevant,all frequencies,technical/dosimetric,any topic,4266
+s0166,LLM-screened,2016-2025,screened relevant,all frequencies,technical/dosimetric,field measurements,936
+s0167,LLM-screened,2016-2025,screened relevant,all frequencies,technical/dosimetric,personal exposimetry,148
+s0168,LLM-screened,2016-2025,screened relevant,all frequencies,technical/dosimetric,numerical dosimetry,2676
+s0169,LLM-screened,2016-2025,screened relevant,all frequencies,technical/dosimetric,SAR & absorbed power,2232
+s0170,LLM-screened,2016-2025,screened relevant,all frequencies,technical/dosimetric,5G/6G networks,494
+s0171,LLM-screened,2016-2025,screened relevant,all frequencies,technical/dosimetric,base stations & networks,479
+s0172,LLM-screened,2016-2025,screened relevant,all frequencies,technical/dosimetric,phones & user devices,855
+s0173,LLM-screened,2016-2025,screened relevant,all frequencies,technical/dosimetric,Wi-Fi/IoT/smart meters,448
+s0174,LLM-screened,2016-2025,screened relevant,all frequencies,technical/dosimetric,exposure modelling & prediction,388
+s0175,LLM-screened,2016-2025,screened relevant,all frequencies,technical/dosimetric,exposure of insects/animals/plants,138
+s0176,LLM-screened,2016-2025,screened relevant,all frequencies,technical/dosimetric,children & pregnancy,174
+s0177,LLM-screened,2016-2025,screened relevant,all frequencies,technical/dosimetric,exposure-aware network design,106
+s0178,LLM-screened,2016-2025,screened relevant,all frequencies,technical/dosimetric,implants & in-body,875
+s0179,LLM-screened,2016-2025,screened relevant,all frequencies,technical/dosimetric,compliance & limits,928
+s0180,LLM-screened,2016-2025,screened relevant,all frequencies,technical/dosimetric,occupational,276
+s0181,LLM-screened,2016-2025,screened relevant,all frequencies,technical/dosimetric,ELF/IF sources,388
+s0182,LLM-screened,2016-2025,screened relevant,all frequencies,technical/dosimetric,wireless power transfer,303
+s0183,LLM-screened,2016-2025,screened relevant,RF (10 MHz-300 GHz),all study types,any topic,5927
+s0184,LLM-screened,2016-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,any topic,3005
+s0185,LLM-screened,2016-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,field measurements,624
+s0186,LLM-screened,2016-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,personal exposimetry,115
+s0187,LLM-screened,2016-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,numerical dosimetry,1804
+s0188,LLM-screened,2016-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,SAR & absorbed power,2117
+s0189,LLM-screened,2016-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,5G/6G networks,494
+s0190,LLM-screened,2016-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,base stations & networks,477
+s0191,LLM-screened,2016-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,phones & user devices,830
+s0192,LLM-screened,2016-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,Wi-Fi/IoT/smart meters,445
+s0193,LLM-screened,2016-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,exposure modelling & prediction,291
+s0194,LLM-screened,2016-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,exposure of insects/animals/plants,82
+s0195,LLM-screened,2016-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,children & pregnancy,134
+s0196,LLM-screened,2016-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,exposure-aware network design,99
+s0197,LLM-screened,2016-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,implants & in-body,698
+s0198,LLM-screened,2016-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,compliance & limits,593
+s0199,LLM-screened,2016-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,occupational,98
+s0201,LLM-screened,2016-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,wireless power transfer,119
+s0202,LLM-screened,2016-2025,screened relevant,mmWave (>6 GHz),all study types,any topic,968
+s0203,LLM-screened,2016-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,any topic,510
+s0204,LLM-screened,2016-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,field measurements,65
+s0206,LLM-screened,2016-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,numerical dosimetry,352
+s0207,LLM-screened,2016-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,SAR & absorbed power,374
+s0208,LLM-screened,2016-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,5G/6G networks,266
+s0209,LLM-screened,2016-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,base stations & networks,66
+s0210,LLM-screened,2016-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,phones & user devices,166
+s0211,LLM-screened,2016-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,Wi-Fi/IoT/smart meters,31
+s0212,LLM-screened,2016-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,exposure modelling & prediction,46
+s0217,LLM-screened,2016-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,compliance & limits,148
+s0221,LLM-screened,2016-2025,screened relevant,ELF/IF (<10 MHz),all study types,any topic,3939
+s0222,LLM-screened,2016-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,any topic,1228
+s0223,LLM-screened,2016-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,field measurements,318
+s0224,LLM-screened,2016-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,personal exposimetry,30
+s0225,LLM-screened,2016-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,numerical dosimetry,845
+s0226,LLM-screened,2016-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,SAR & absorbed power,160
+s0231,LLM-screened,2016-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,exposure modelling & prediction,95
+s0232,LLM-screened,2016-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,exposure of insects/animals/plants,45
+s0233,LLM-screened,2016-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,children & pregnancy,46
+s0235,LLM-screened,2016-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,implants & in-body,179
+s0236,LLM-screened,2016-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,compliance & limits,363
+s0237,LLM-screened,2016-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,occupational,167
+s0238,LLM-screened,2016-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,ELF/IF sources,365
+s0239,LLM-screened,2016-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,wireless power transfer,213
+s0240,OpenAlex-native (no LLM),2021-2025,OpenAlex topic 'EMF & Biological Effects',-,-,-,5925
+s0241,OpenAlex-native (no LLM),2021-2025,keyword: RF-EMF exposure terms,-,-,-,1074
+s0242,OpenAlex-native (no LLM),2021-2025,keyword: SAR / absorbed / incident power density,-,-,-,2171
+s0243,OpenAlex-native (no LLM),2021-2025,keyword: dosimetry + EM/RF,-,-,-,188
+s0244,LLM-screened,2021-2025,screened relevant,all frequencies,all study types,any topic,5940
+s0245,LLM-screened,2021-2025,screened relevant,all frequencies,technical/dosimetric,any topic,2384
+s0246,LLM-screened,2021-2025,screened relevant,all frequencies,technical/dosimetric,field measurements,467
+s0247,LLM-screened,2021-2025,screened relevant,all frequencies,technical/dosimetric,personal exposimetry,55
+s0248,LLM-screened,2021-2025,screened relevant,all frequencies,technical/dosimetric,numerical dosimetry,1536
+s0249,LLM-screened,2021-2025,screened relevant,all frequencies,technical/dosimetric,SAR & absorbed power,1306
+s0250,LLM-screened,2021-2025,screened relevant,all frequencies,technical/dosimetric,5G/6G networks,378
+s0251,LLM-screened,2021-2025,screened relevant,all frequencies,technical/dosimetric,base stations & networks,282
+s0252,LLM-screened,2021-2025,screened relevant,all frequencies,technical/dosimetric,phones & user devices,521
+s0253,LLM-screened,2021-2025,screened relevant,all frequencies,technical/dosimetric,Wi-Fi/IoT/smart meters,276
+s0254,LLM-screened,2021-2025,screened relevant,all frequencies,technical/dosimetric,exposure modelling & prediction,241
+s0255,LLM-screened,2021-2025,screened relevant,all frequencies,technical/dosimetric,exposure of insects/animals/plants,89
+s0256,LLM-screened,2021-2025,screened relevant,all frequencies,technical/dosimetric,children & pregnancy,73
+s0257,LLM-screened,2021-2025,screened relevant,all frequencies,technical/dosimetric,exposure-aware network design,69
+s0258,LLM-screened,2021-2025,screened relevant,all frequencies,technical/dosimetric,implants & in-body,491
+s0259,LLM-screened,2021-2025,screened relevant,all frequencies,technical/dosimetric,compliance & limits,495
+s0260,LLM-screened,2021-2025,screened relevant,all frequencies,technical/dosimetric,occupational,121
+s0261,LLM-screened,2021-2025,screened relevant,all frequencies,technical/dosimetric,ELF/IF sources,181
+s0262,LLM-screened,2021-2025,screened relevant,all frequencies,technical/dosimetric,wireless power transfer,160
+s0263,LLM-screened,2021-2025,screened relevant,RF (10 MHz-300 GHz),all study types,any topic,3174
+s0264,LLM-screened,2021-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,any topic,1729
+s0265,LLM-screened,2021-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,field measurements,332
+s0266,LLM-screened,2021-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,personal exposimetry,50
+s0267,LLM-screened,2021-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,numerical dosimetry,1040
+s0268,LLM-screened,2021-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,SAR & absorbed power,1243
+s0269,LLM-screened,2021-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,5G/6G networks,378
+s0270,LLM-screened,2021-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,base stations & networks,281
+s0271,LLM-screened,2021-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,phones & user devices,502
+s0272,LLM-screened,2021-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,Wi-Fi/IoT/smart meters,274
+s0273,LLM-screened,2021-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,exposure modelling & prediction,185
+s0274,LLM-screened,2021-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,exposure of insects/animals/plants,51
+s0275,LLM-screened,2021-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,children & pregnancy,61
+s0276,LLM-screened,2021-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,exposure-aware network design,66
+s0277,LLM-screened,2021-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,implants & in-body,385
+s0278,LLM-screened,2021-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,compliance & limits,331
+s0279,LLM-screened,2021-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,occupational,50
+s0281,LLM-screened,2021-2025,screened relevant,RF (10 MHz-300 GHz),technical/dosimetric,wireless power transfer,59
+s0282,LLM-screened,2021-2025,screened relevant,mmWave (>6 GHz),all study types,any topic,669
+s0283,LLM-screened,2021-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,any topic,358
+s0284,LLM-screened,2021-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,field measurements,50
+s0286,LLM-screened,2021-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,numerical dosimetry,239
+s0287,LLM-screened,2021-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,SAR & absorbed power,256
+s0288,LLM-screened,2021-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,5G/6G networks,186
+s0289,LLM-screened,2021-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,base stations & networks,55
+s0290,LLM-screened,2021-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,phones & user devices,122
+s0292,LLM-screened,2021-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,exposure modelling & prediction,38
+s0297,LLM-screened,2021-2025,screened relevant,mmWave (>6 GHz),technical/dosimetric,compliance & limits,97
+s0301,LLM-screened,2021-2025,screened relevant,ELF/IF (<10 MHz),all study types,any topic,1945
+s0302,LLM-screened,2021-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,any topic,632
+s0303,LLM-screened,2021-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,field measurements,135
+s0305,LLM-screened,2021-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,numerical dosimetry,477
+s0306,LLM-screened,2021-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,SAR & absorbed power,89
+s0311,LLM-screened,2021-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,exposure modelling & prediction,56
+s0315,LLM-screened,2021-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,implants & in-body,103
+s0316,LLM-screened,2021-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,compliance & limits,179
+s0317,LLM-screened,2021-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,occupational,69
+s0318,LLM-screened,2021-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,ELF/IF sources,167
+s0319,LLM-screened,2021-2025,screened relevant,ELF/IF (<10 MHz),technical/dosimetric,wireless power transfer,108

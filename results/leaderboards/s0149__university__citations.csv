@@ -1,0 +1,31 @@
+rank,id,name,citations
+1,I35440088,ETH Zurich,65
+2,I102064193,University of Siena,53
+3,I43439940,University of Southampton,43
+4,I36443711,Magna Graecia University,41
+4,I59725666,University of Reggio Calabria,41
+6,I69740276,Tokyo Metropolitan University,39
+6,I56590836,Monash University,39
+6,I193662353,Utrecht University,39
+9,I28166907,Karolinska Institutet,30
+10,I170486558,Universitat Pompeu Fabra,22
+10,I4210145102,Institut Polytechnique de Paris,22
+10,I12356871,Télécom Paris,22
+13,I887968799,RWTH Aachen University,21
+14,I32389192,University of Alabama at Birmingham,20
+15,I174458059,National Technical University of Athens,17
+15,I202697423,University of Zurich,17
+17,I157485424,Korea Advanced Institute of Science and Technology,15
+17,I57664883,Ajou University,15
+19,I123044942,Universitat Autònoma de Barcelona,13
+20,I81556334,Amrita Vishwa Vidyapeetham,12
+21,I4210164481,Catholic University in Ruzomberok,11
+21,I74788687,Comenius University Bratislava,11
+23,I82951845,RMIT University,10
+24,I1850255,University of Basel,9
+24,I68947357,Université de Strasbourg,9
+24,I2972652528,FHNW University of Applied Sciences and Arts Northwestern Switzerland,9
+24,I2801509770,Institut National des Sciences Appliquées de Strasbourg,9
+28,I139264467,Seoul National University,5
+29,I198034347,Wentworth Institute of Technology,3
+29,I76569877,Southeast University,3

@@ -1,0 +1,31 @@
+rank,id,name,papers
+1,I136199984,Harvard University,43
+2,I44461941,University of Houston,40
+3,I4575257,Hanyang University,39
+4,I63966007,Massachusetts Institute of Technology,36
+5,I111979921,Northwestern University,20
+6,I130238516,University of Minnesota,19
+7,I62318514,University of Duisburg-Essen,18
+8,I223822909,Heidelberg University,16
+8,I190082696,Durham University,16
+8,I35440088,ETH Zurich,16
+8,I49663120,Université du Québec,16
+12,I124357947,University of London,15
+13,I4210092658,Harvard–MIT Division of Health Sciences and Technology,13
+13,I161913731,Al Ain University,13
+13,I183935753,King's College London,13
+13,I166825849,Tampere University,13
+13,I97018004,Stanford University,13
+18,I83019370,Eindhoven University of Technology,12
+18,I57206974,New York University,12
+18,I4387153886,University of Tampere,12
+18,I16076960,COMSATS University Islamabad,12
+22,I125749732,Western University,11
+22,I90183372,Université de Lorraine,11
+24,I1174212,University of Southern California,10
+24,I39481719,Institut National de la Recherche Scientifique,10
+26,I173089394,ITMO University,9
+26,I3133134087,Lanzhou Jiaotong University,9
+26,I161318765,"University of California, Los Angeles",9
+26,I21370196,Aristotle University of Thessaloniki,9
+26,I173207729,University of Engineering and Technology Taxila,9

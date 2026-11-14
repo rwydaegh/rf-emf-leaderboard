@@ -1,0 +1,31 @@
+rank,id,name,papers
+1,I1299022934,United States Department of Health and Human Services,67
+2,I1294671590,Centre National de la Recherche Scientifique,63
+2,I1320320070,United States Food and Drug Administration,63
+4,I1335686170,Center for Devices and Radiological Health,59
+5,I4575257,Hanyang University,50
+6,I197274945,Nagoya Institute of Technology,45
+7,I4210087915,Massachusetts General Hospital,39
+7,I136199984,Harvard University,39
+7,I48633490,Mass General Brigham,39
+7,I63966007,Massachusetts Institute of Technology,39
+11,I4210095849,CNRS Ingénierie,38
+12,I44461941,University of Houston,35
+12,I4210127055,Athinoula A. Martinos Center for Biomedical Imaging,35
+14,I1305996414,Helmholtz Association of German Research Centres,34
+15,I90023481,National Institute of Information and Communications Technology,33
+16,I2799323385,Board of the Swiss Federal Institutes of Technology,32
+17,I32597200,Ghent University,31
+18,I130238516,University of Minnesota,30
+19,I3018483916,University Medical Center Utrecht,29
+19,I4210155236,National Research Council,29
+19,I17937529,German Cancer Research Center,29
+22,WAVES,WAVES (UGent-imec),28
+23,I4210100607,"Institute of Electronics, Computer and Telecommunication Engineering",27
+24,I4387152098,Ministry of Science and ICT,26
+24,I2801339556,Government of the Republic of Korea,26
+24,I4210144908,National Research Council of Science and Technology,26
+24,I35440088,ETH Zurich,26
+24,I205703379,Institut Mines-Télécom,26
+24,I92251255,University of Split,26
+24,I62318514,University of Duisburg-Essen,26

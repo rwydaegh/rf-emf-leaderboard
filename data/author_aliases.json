@@ -1,0 +1,14 @@
+{
+  "_comment": "Manual merges of OpenAlex author IDs that are the same person (mostly native-script vs romanised name variants). Applied on top of ORCID and name+institution merging.",
+  "Soichi Watanabe": ["A5077264618", "A5077088363", "A5083766528"],
+  "Akimasa Hirata": ["A5041954621", "A5078883136"],
+  "Osamu Fujiwara": ["A5103087764", "A5149700040", "A5064459868"],
+  "Masao Taki": ["A5109236708", "A5069382891"],
+  "Kanako Wake": ["A5088629970", "A5015053582"],
+  "Tomoaki Nagaoka": ["A5103170778", "A5050816154"],
+  "Koichi Ito": ["A5008877870", "A5052323469"],
+  "Jianqing Wang": ["A5020992851", "A5002332026"],
+  "Kazuyuki Saito": ["A5001251726", "A5076042360"],
+  "Yukihisa Suzuki": ["A5009049742", "A5058863616", "A5019894534"],
+  "Wout Joseph": ["A5018341759", "A5151596005", "A5160593137", "A5014249593", "A5121054705", "A5053083828"]
+}

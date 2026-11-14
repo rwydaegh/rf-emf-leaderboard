@@ -1,0 +1,31 @@
+rank,id,name,papers
+1,I32597200,Ghent University,9
+1,WAVES,WAVES (UGent-imec),9
+3,I1306339040,Ericsson (Sweden),8
+3,I4210114974,IMEC,8
+5,I4405255721,Sistema Nazionale per la Protezione dell'Ambiente,7
+6,I114007267,Agenzia Regionale per la Protezione Ambientale del Piemonte,5
+6,I116067653,University of Rome Tor Vergata,5
+6,I4210099310,Consorzio Nazionale Interuniversitario per le Telecomunicazioni,5
+6,I4405255365,Agenzia Regionale protezione ambientale del Lazio,5
+10,I205703379,Institut Mines-Télécom,4
+10,I186995768,Università degli studi di Cassino e del Lazio Meridionale,4
+12,I4210100607,"Institute of Electronics, Computer and Telecommunication Engineering",3
+12,I4210104593,Governo Italiano,3
+12,I4210116113,Istituto Superiore per la Protezione e la Ricerca Ambientale,3
+12,I71267560,University of Naples Federico II,3
+12,I71920554,King Abdullah University of Science and Technology,3
+12,I4210117642,Ministry of the Environment and Protection of Land and Sea,3
+12,I4210112527,Luxembourg Institute of Science and Technology,3
+12,I4210155236,National Research Council,3
+12,I28290843,University of Surrey,3
+21,I1326498283,Institut national de recherche en sciences et technologies du numérique,2
+21,I203339264,Université de Lyon,2
+21,I197274945,Nagoya Institute of Technology,2
+21,I4210145102,Institut Polytechnique de Paris,2
+21,I4210165912,Laboratoire Traitement et Communication de l’Information,2
+21,I4210149358,Nokia (France),2
+21,I265519392,Erzurum Technical University,2
+21,I12356871,Télécom Paris,2
+21,I130343225,Universiti Putra Malaysia,2
+21,I1294671590,Centre National de la Recherche Scientifique,2
