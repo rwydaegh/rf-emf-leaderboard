@@ -75,3 +75,5 @@ uv run --with jupyterlab jupyter lab RF-EMF_research_rankings.ipynb
 `./run.sh` runs the full pipeline from the start. Step 3 calls the `claude` CLI, but the labels in `data/labels/` are cached, so you can skip it.
 
 Code: MIT license. Data: OpenAlex (CC0).
+
+Made by [Robin Wydaeghe](https://www.robinwydaeghe.com/) ([Google Scholar](https://scholar.google.com/citations?user=J-cB3akAAAAJ)).
